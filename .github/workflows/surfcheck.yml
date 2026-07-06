@@ -1,0 +1,34 @@
+name: surf-bud
+
+on:
+  schedule:
+    - cron: "10 11 * * *"   # 7:10am ET: flushes overnight queue
+    - cron: "10 22 * * *"   # 6:10pm ET
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests pyyaml
+      - name: Run engines
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          AMADEUS_CLIENT_ID: ${{ secrets.AMADEUS_CLIENT_ID }}
+          AMADEUS_CLIENT_SECRET: ${{ secrets.AMADEUS_CLIENT_SECRET }}
+        run: python src/main.py
+      - name: Commit state + calendars
+        run: |
+          git config user.name "surf-bud"
+          git config user.email "bot@surf-bud"
+          git add state/ ocean-missions.ics lake-sessions.ics
+          git diff --cached --quiet || git commit -m "run $(date -u +%F-%H%M)"
+          git push
