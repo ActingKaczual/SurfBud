@@ -28,13 +28,16 @@ def _send_ntfy(title, body, click=None):
     if not topic:
         print(f"[dry-run push] {title}: {body[:80]}")
         return
-safe_title = title.encode("latin-1", "ignore").decode("latin-1").strip()
+    # HTTP headers are latin-1 only; strip emoji from the title.
+    # Emoji stays safe in the body.
+    safe_title = title.encode("latin-1", "ignore").decode("latin-1").strip()
     headers = {"Title": safe_title or "Surf Bud",
                "Priority": "high", "Tags": "ocean"}
     if click:
         headers["Click"] = click.encode("latin-1", "ignore").decode("latin-1")
     requests.post(f"https://ntfy.sh/{topic}",
                   data=body.encode("utf-8"), headers=headers, timeout=30)
+
 # Twilio swap point: implement _send_sms(title, body) and change SEND below.
 SEND = _send_ntfy
 
