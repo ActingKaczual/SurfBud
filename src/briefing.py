@@ -6,7 +6,7 @@ import os
 import requests
 
 API = "https://api.anthropic.com/v1/messages"
-MODEL = "claude-sonnet-4-6"
+MODEL = "claude-sonnet-5"
 
 SYSTEM = """You write surf mission briefings for P.W., an Ithaca NY based
 longboarder/midlength rider. Voice: direct, warm, zero hype, honest about
