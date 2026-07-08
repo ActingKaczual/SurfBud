@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-08T07:42",
+ "updated": "2026-07-08T16:53",
  "active": [
   {
    "best_spot": "Ditch Plains, Montauk",
@@ -10,16 +10,16 @@
    "dest_airport": null,
    "drive_hours": 6.0,
    "first_day": "2026-07-10",
-   "fit": 45,
+   "fit": 46,
    "front": "ocean",
    "grade": "fair",
    "key": "ocean:Ditch Plains, Montauk:2026-07-10",
    "last_day": "2026-07-12",
    "score_raw": 84,
-   "score_travel_adj": 14.0,
+   "score_travel_adj": 14.1,
    "spot_notes": "Tier 1. Cobble bottom, long mellow lines, longboard culture. September is the month. Crowds real but acceptable.\n",
    "state": "HEADS_UP",
-   "summary": "Ditch Plains, Montauk \u00b7 2026-07-10 to 2026-07-12 \u00b7 FAIR \u00b7 fit 45% \u00b7 bust 5% \u00b7 0.3m @ 5s",
+   "summary": "Ditch Plains, Montauk \u00b7 2026-07-10 to 2026-07-12 \u00b7 FAIR \u00b7 fit 46% \u00b7 bust 5% \u00b7 0.3m @ 6s",
    "travel": "drive"
   },
   {
@@ -52,16 +52,16 @@
    "dest_airport": null,
    "drive_hours": 6.5,
    "first_day": "2026-07-08",
-   "fit": 63,
+   "fit": 61,
    "front": "ocean",
    "grade": "good",
    "key": "ocean:Long Sands, York ME:2026-07-08",
-   "last_day": "2026-07-11",
+   "last_day": "2026-07-12",
    "score_raw": 86,
    "score_travel_adj": 13.3,
    "spot_notes": "Tier 2, Sept-Oct window. Uncrowded mellow beachbreak, Maine crash contacts available.\n",
    "state": "CONFIRMED",
-   "summary": "Long Sands, York ME \u00b7 2026-07-08 to 2026-07-11 \u00b7 GOOD \u00b7 fit 63% \u00b7 bust 5% \u00b7 1.2m @ 8s",
+   "summary": "Long Sands, York ME \u00b7 2026-07-08 to 2026-07-12 \u00b7 GOOD \u00b7 fit 61% \u00b7 bust 5% \u00b7 1.2m @ 8s",
    "travel": "drive"
   },
   {
@@ -94,16 +94,16 @@
    "dest_airport": "JFK",
    "drive_hours": 4.75,
    "first_day": "2026-07-10",
-   "fit": 47,
+   "fit": 44,
    "front": "ocean",
    "grade": "fair",
    "key": "ocean:Rockaway Beach (90th St peaks):2026-07-10",
-   "last_day": "2026-07-16",
-   "score_raw": 82,
-   "score_travel_adj": 17.5,
+   "last_day": "2026-07-14",
+   "score_raw": 85,
+   "score_travel_adj": 18.0,
    "spot_notes": "The ITH-JFK play: daily Delta nonstop, ~3hr door to sand, faster than driving. Regional jet means NO longboard in the hold; carry rubber, rent or stash a board (Boarders / Locals, 90th St). Punchy jetty peaks, best on S swell with N wind, fall hurricane season aligns with warm water. Fair day here can beat a good day 6 hrs away.\n",
    "state": "HEADS_UP",
-   "summary": "Rockaway Beach (90th St peaks) \u00b7 2026-07-10 to 2026-07-16 \u00b7 FAIR \u00b7 fit 47% \u00b7 bust 5% \u00b7 0.3m @ 5s",
+   "summary": "Rockaway Beach (90th St peaks) \u00b7 2026-07-10 to 2026-07-14 \u00b7 FAIR \u00b7 fit 44% \u00b7 bust 5% \u00b7 0.3m @ 6s",
    "travel": "fly_or_drive"
   }
  ],
