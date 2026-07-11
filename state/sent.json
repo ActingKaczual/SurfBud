@@ -49,19 +49,19 @@
    "day": "2026-07-10",
    "title": "\ud83c\udf0a CONFIRMED \u00b7 Narragansett Town Beach",
    "at": "10:30"
+  },
+  {
+   "day": "2026-07-11",
+   "title": "\ud83c\udf0a CONFIRMED \u00b7 Long Sands, York ME",
+   "at": "14:39"
+  },
+  {
+   "day": "2026-07-11",
+   "title": "\ud83c\udf0a HEADS UP \u00b7 Long Sands, York ME",
+   "at": "14:39"
   }
  ],
  "queue": [
-  {
-   "title": "\ud83c\udf0a CONFIRMED \u00b7 Long Sands, York ME",
-   "body": "Long Sands, York ME \u00b7 2026-07-09 to 2026-07-11 \u00b7 GOOD \u00b7 fit 68% \u00b7 bust 5% \u00b7 0.9m @ 8s",
-   "click": null
-  },
-  {
-   "title": "\ud83c\udf0a HEADS UP \u00b7 Long Sands, York ME",
-   "body": "Long Sands, York ME \u00b7 2026-07-13 to 2026-07-15 \u00b7 FAIR \u00b7 fit 46% \u00b7 bust 12% \u00b7 0.3m @ 10s\n(speculative, will confirm or cancel)",
-   "click": null
-  },
   {
    "title": "\ud83c\udf0a CONFIRMED \u00b7 Rockaway Beach (90th St peaks)",
    "body": "Rockaway Beach (90th St peaks) \u00b7 2026-07-10 to 2026-07-11 \u00b7 FAIR \u00b7 fit 42% \u00b7 bust 5% \u00b7 0.4m @ 7s",
