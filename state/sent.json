@@ -59,19 +59,19 @@
    "day": "2026-07-11",
    "title": "\ud83c\udf0a HEADS UP \u00b7 Long Sands, York ME",
    "at": "14:39"
+  },
+  {
+   "day": "2026-07-12",
+   "title": "\ud83c\udf0a CONFIRMED \u00b7 Rockaway Beach (90th St peaks)",
+   "at": "07:36"
+  },
+  {
+   "day": "2026-07-12",
+   "title": "\ud83c\udf0a CONFIRMED \u00b7 Long Sands, York ME",
+   "at": "07:36"
   }
  ],
  "queue": [
-  {
-   "title": "\ud83c\udf0a CONFIRMED \u00b7 Rockaway Beach (90th St peaks)",
-   "body": "Rockaway Beach (90th St peaks) \u00b7 2026-07-10 to 2026-07-11 \u00b7 FAIR \u00b7 fit 42% \u00b7 bust 5% \u00b7 0.4m @ 7s",
-   "click": "https://www.google.com/travel/flights?q=Flights%20from%20ITH%20to%20JFK%20on%202026-07-09%20through%202026-07-12"
-  },
-  {
-   "title": "\ud83c\udf0a CONFIRMED \u00b7 Long Sands, York ME",
-   "body": "Long Sands, York ME \u00b7 2026-07-10 to 2026-07-11 \u00b7 GOOD \u00b7 fit 65% \u00b7 bust 5% \u00b7 0.7m @ 8s",
-   "click": null
-  },
   {
    "title": "\ud83c\udf0a HEADS UP \u00b7 Rockaway Beach (90th St peaks)",
    "body": "Rockaway Beach (90th St peaks) \u00b7 2026-07-13 to 2026-07-13 \u00b7 FAIR \u00b7 fit 51% \u00b7 bust 6% \u00b7 0.5m @ 6s\n(speculative, will confirm or cancel)",
@@ -101,6 +101,36 @@
    "title": "\ud83c\udf0a CONFIRMED \u00b7 Rockaway Beach (90th St peaks)",
    "body": "Rockaway Beach (90th St peaks) \u00b7 2026-07-11 to 2026-07-11 \u00b7 FAIR \u00b7 fit 30% \u00b7 bust 5% \u00b7 0.4m @ 6s",
    "click": "https://www.google.com/travel/flights?q=Flights%20from%20ITH%20to%20JFK%20on%202026-07-10%20through%202026-07-12"
+  },
+  {
+   "title": "\ud83c\udf0a CONFIRMED \u00b7 Ditch Plains, Montauk",
+   "body": "Ditch Plains, Montauk \u00b7 2026-07-12 to 2026-07-12 \u00b7 FAIR \u00b7 fit 30% \u00b7 bust 5% \u00b7 0.4m @ 7s",
+   "click": null
+  },
+  {
+   "title": "\ud83c\udf0a CONFIRMED \u00b7 Narragansett Town Beach",
+   "body": "Narragansett Town Beach \u00b7 2026-07-12 to 2026-07-12 \u00b7 FAIR \u00b7 fit 30% \u00b7 bust 5% \u00b7 0.4m @ 7s",
+   "click": null
+  },
+  {
+   "title": "\ud83c\udf0a CONFIRMED \u00b7 Long Sands, York ME",
+   "body": "Long Sands, York ME \u00b7 2026-07-12 to 2026-07-12 \u00b7 FAIR \u00b7 fit 30% \u00b7 bust 5% \u00b7 0.3m @ 9s",
+   "click": null
+  },
+  {
+   "title": "\ud83c\udf0a CONFIRMED \u00b7 Rockaway Beach (90th St peaks)",
+   "body": "Rockaway Beach (90th St peaks) \u00b7 2026-07-12 to 2026-07-13 \u00b7 FAIR \u00b7 fit 42% \u00b7 bust 5% \u00b7 0.3m @ 7s",
+   "click": "https://www.google.com/travel/flights?q=Flights%20from%20ITH%20to%20JFK%20on%202026-07-11%20through%202026-07-14"
+  },
+  {
+   "title": "\ud83c\udf0a HEADS UP \u00b7 Rockaway Beach (90th St peaks)",
+   "body": "Rockaway Beach (90th St peaks) \u00b7 2026-07-15 to 2026-07-16 \u00b7 FAIR \u00b7 fit 55% \u00b7 bust 6% \u00b7 0.4m @ 7s\n(speculative, will confirm or cancel)",
+   "click": null
+  },
+  {
+   "title": "\ud83c\udf0a Week ahead \u00b7 both fronts",
+   "body": "Long Sands, York ME \u00b7 2026-07-08 to 2026-07-12 \u00b7 GOOD \u00b7 fit 61% \u00b7 bust 5% \u00b7 1.2m @ 8s\nDitch Plains, Montauk \u00b7 2026-07-10 to 2026-07-12 \u00b7 FAIR \u00b7 fit 37% \u00b7 bust 5% \u00b7 0.4m @ 5s\nRockaway Beach (90th St peaks) \u00b7 2026-07-10 to 2026-07-16 \u00b7 GOOD \u00b7 fit 43% \u00b7 bust 5% \u00b7 0.4m @ 7s\nDitch Plains, Montauk \u00b7 2026-07-11 to 2026-07-12 \u00b7 FAIR \u00b7 fit 42% \u00b7 bust 5% \u00b7 0.4m @ 7s\nNarragansett Town Beach \u00b7 2026-07-11 to 2026-07-12 \u00b7 FAIR \u00b7 fit 42% \u00b7 bust 5% \u00b7 0.4m @ 7s\nDitch Plains, Montauk \u00b7 2026-07-12 to 2026-07-12 \u00b7 FAIR \u00b7 fit 30% \u00b7 bust 5% \u00b7 0.4m @ 7s",
+   "click": null
   }
  ]
 }
