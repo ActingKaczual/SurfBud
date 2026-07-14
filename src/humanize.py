@@ -47,7 +47,7 @@ def bust_phrase(bust):
     return f"probably fizzles ({bust}% bust)"
 
 
-# -- Alert lexicon: edit freely, (state, grade) -> prefix --
+# ── Alert lexicon: edit freely, (state, grade) -> prefix ──────────
 PREFIXES = {
     ("CONFIRMED", "epic"): "Drop everything",
     ("CONFIRMED", "good"): "It's on",
@@ -155,4 +155,3 @@ def body(ev):
         parts.append("Speculative; will confirm or call off.")
     parts.append("Tap for digest.")
     return " ".join(p for p in parts if p)
-

@@ -8,6 +8,7 @@ import yaml
 
 sys.path.insert(0, os.path.dirname(__file__))
 import sources, scoring, events as ev_store, notify, calendars, briefing, fares  # noqa
+import humanize as hz, digest  # noqa
 
 
 def _windows(day_grades, min_grade="fair"):
@@ -26,6 +27,22 @@ def _windows(day_grades, min_grade="fair"):
     if cur:
         wins.append(cur)
     return [(w[0], w[-1], w) for w in wins]
+
+
+def _fmt_hour(h):
+    if h == 0:
+        return "12am"
+    if h < 12:
+        return f"{h}am"
+    if h == 12:
+        return "12pm"
+    return f"{h - 12}pm"
+
+
+def _tod_window(hours):
+    if not hours:
+        return None
+    return f"{_fmt_hour(min(hours))}-{_fmt_hour(max(hours) + 1)}"
 
 
 def _classify(first_day, stats, tropical_active):
@@ -69,7 +86,18 @@ def ocean_engine(cfg, spots, store, tropical):
             raw, ta = scoring.composite(
                 weights, 1 - bust / 100, len(win_days), clean_frac,
                 fit / 100, spot.get("drive_hours"))
+            wmeds = [x["wind_med"] for x in stats if x["wind_med"] is not None]
+            wdir = stats[len(stats) // 2].get("wind_dir")
             payload = {
+                "h_m": stats[0]["h_mean"], "p_s": stats[0]["p_mean"],
+                "wind_lo": min(wmeds) if wmeds else None,
+                "wind_hi": max(wmeds) if wmeds else None,
+                "wind_label": scoring.wind_label(
+                    wmeds, wdir, spot.get("best_wind_deg")),
+                "region": spot.get("region", ""),
+                "drive_miles": spot.get("drive_miles"),
+                "day_grades": [{"date": d, "grade": grades[d]}
+                               for d in win_days],
                 "grade": best_grade, "bust": bust, "fit": fit,
                 "score_raw": raw, "score_travel_adj": ta,
                 "best_spot": spot["name"],
@@ -106,11 +134,12 @@ def lake_engine(cfg, spots, store):
                 continue
             if spd >= rules["min_wind_mph"] and \
                     scoring.in_arc(wdir, rules["wind_dir_deg"]):
-                by_day.setdefault(t[:10], []).append(spd)
+                by_day.setdefault(t[:10], []).append((hour, spd))
         grades = {}
         for d, hrs in by_day.items():
+            speeds = [s for _, s in hrs]
             if len(hrs) >= rules["min_sustained_hours"]:
-                grades[d] = "good" if max(hrs) >= rules["min_wind_mph"] + 7 \
+                grades[d] = "good" if max(speeds) >= rules["min_wind_mph"] + 7 \
                     else "fair"
         for first, last, win_days in _windows(grades, "fair"):
             lead = (dt.date.fromisoformat(first) - dt.date.today()).days
@@ -120,6 +149,15 @@ def lake_engine(cfg, spots, store):
                        key=lambda g: ["poor", "fair", "good", "epic"].index(g))
             bust = min(90, 20 + lead * 12)   # lake wind: short-lead only
             payload = {
+                "day_grades": [{"date": d, "grade": grades[d]}
+                               for d in win_days],
+                "region": pt.get("region", "NY"),
+                "drive_hours": pt.get("drive_hours"),
+                "drive_miles": pt.get("drive_miles"),
+                "wind_lo": rules["min_wind_mph"], "wind_hi": None,
+                "wind_label": "onshore",
+                "tod_window": _tod_window(
+                    [h for h, _ in by_day.get(first, [])]),
                 "grade": best, "bust": bust, "fit": 60,
                 "best_spot": f"Lake Ontario · {pt['name']}",
                 "summary": (f"Lake wind event · {pt['name']} · {first} to "
@@ -144,12 +182,23 @@ def alert_policy(cfg, ev, transition):
             return False
     if transition == "NEW" and ev["state"] == "WHISPER":
         return False                      # whispers: dashboard/outlook only
+    order = {"poor": 0, "fair": 1, "good": 2, "epic": 3}
+    if ev["state"] == "HEADS_UP" and order.get(ev.get("grade"), 0) < 2:
+        return False                      # speculative + mediocre = noise
     if transition in ("NEW", "ADVANCE") and ev["state"] in ("HEADS_UP",
                                                             "CONFIRMED"):
         return True
     if transition == "CANCEL":
         return True                       # cancels change the go/no-go
     return False                          # up/downgrades -> calendar/digest
+
+
+def _pages_base():
+    repo = os.environ.get("GITHUB_REPOSITORY", "user/surf-bud")
+    owner, name = repo.split("/")
+    return f"https://{owner.lower()}.github.io/{name}"
+
+PAGES_BASE = _pages_base()
 
 
 def main():
@@ -171,7 +220,8 @@ def main():
 
     for ev, tr in transitions:
         stage = ev["state"]
-        if stage == "CONFIRMED" and ev.get("travel") in ("fly", "fly_or_drive") \
+        if stage in ("HEADS_UP", "CONFIRMED") \
+                and ev.get("travel") in ("fly", "fly_or_drive") \
                 and cfg["fares"]["enabled"] and ev.get("dest_airport"):
             f = fares.snapshot(cfg["fares"], ev["dest_airport"],
                                ev["first_day"], ev["last_day"])
@@ -182,28 +232,24 @@ def main():
                                     "grade", "fit", "bust", "best_spot",
                                     "summary", "drive_hours") if k in ev},
                 ev.get("spot_notes", ""))
+        ev["digest_url"] = digest.event_url(PAGES_BASE, ev["key"])
         if alert_policy(cfg, ev, tr):
-            label = {"HEADS_UP": "HEADS UP", "CONFIRMED": "CONFIRMED",
-                     "CANCELLED": "CANCELLED"}.get(stage, stage)
-            title = f"🌊 {label} · {ev['best_spot']}"
-            body = ev["summary"]
-            if ev.get("state") == "HEADS_UP":
-                body += "\n(speculative, will confirm or cancel)"
-            click = None
-            if ev.get("fare_note"):
-                click = ev["fare_note"].split()[-1]
-            notify.push(title, body, click, cfg["alerts"])
+            notify.push(hz.title(ev), hz.body(ev),
+                        ev["digest_url"], cfg["alerts"])
 
     # Weekly outlook: Sunday, only when something's brewing (spec §4)
     now = dt.datetime.now()
     if now.strftime("%A") == cfg["alerts"]["outlook_day"] and now.hour < 12:
         act = ev_store.active(store)
         if act:
-            lines = [e["summary"] for e in
-                     sorted(act, key=lambda e: e["first_day"])][:6]
-            notify.push("🌊 Week ahead · both fronts",
-                        "\n".join(lines), None, cfg["alerts"])
+            lines = [f"{hz.spot_short(e['best_spot'])}: "
+                     f"{e['grade']} {hz.days_short(e['first_day'], e['last_day'])}, "
+                     f"{hz.bust_phrase(e['bust'])}"
+                     for e in sorted(act, key=lambda e: e["first_day"])][:6]
+            notify.push("Week ahead: both fronts",
+                        "\n".join(lines), PAGES_BASE, cfg["alerts"])
 
+    digest.build_site(store, PAGES_BASE)
     calendars.build(list(store.values()), "ocean", "ocean-missions.ics")
     calendars.build(list(store.values()), "lake", "lake-sessions.ics")
 

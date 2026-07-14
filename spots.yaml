@@ -1,15 +1,16 @@
 # ── spots.yaml · curated roster + your local knowledge ────────────
 # Edit freely. `notes` feed the AI briefings and future scoring.
-# Roster from the July 2026 brainstorm; add/cut as the season teaches.
 # grid_ref ties a spot to its nearest sweep point.
 
 spots:
   - name: "Ditch Plains, Montauk"
     front: ocean
+    region: NY
     grid_ref: "Montauk"
     lat: 41.039
     lon: -71.917
     drive_hours: 6.0
+    drive_miles: 310
     travel: drive
     swell_window_deg: [120, 210]
     best_wind_deg: [290, 20]
@@ -19,10 +20,12 @@ spots:
 
   - name: "Narragansett Town Beach"
     front: ocean
+    region: RI
     grid_ref: "Narragansett RI"
     lat: 41.435
     lon: -71.456
     drive_hours: 4.75
+    drive_miles: 280
     travel: drive
     swell_window_deg: [130, 200]
     best_wind_deg: [290, 30]
@@ -32,10 +35,12 @@ spots:
 
   - name: "Long Sands, York ME"
     front: ocean
+    region: ME
     grid_ref: "York ME"
     lat: 43.164
     lon: -70.619
     drive_hours: 6.5
+    drive_miles: 370
     travel: drive
     swell_window_deg: [80, 170]
     best_wind_deg: [250, 340]
@@ -45,10 +50,12 @@ spots:
 
   - name: "SD longboard belt (Tourmaline/San-O)"
     front: ocean
-    grid_ref: null            # fly-to, scored on its own point
+    region: CA
+    grid_ref: null
     lat: 32.805
     lon: -117.262
     drive_hours: null
+    drive_miles: null
     travel: fly
     dest_airport: SAN
     swell_window_deg: [180, 300]
@@ -59,10 +66,12 @@ spots:
 
   - name: "Fair Haven / east end"
     front: lake
+    region: NY
     grid_ref: "Fair Haven"
     lat: 43.345
     lon: -76.701
     drive_hours: 1.5
+    drive_miles: 65
     travel: drive
     notes: >
       Tier 3, the cadence saver. Maintenance sessions, not quality missions.
@@ -70,10 +79,12 @@ spots:
 
   - name: "Rockaway Beach (90th St peaks)"
     front: ocean
+    region: NY
     grid_ref: "Rockaway"
     lat: 40.582
     lon: -73.815
     drive_hours: 4.75
+    drive_miles: 240
     travel: fly_or_drive
     dest_airport: JFK
     swell_window_deg: [110, 200]

@@ -123,3 +123,18 @@ def composite(weights, confidence, window_days, wind_clean_frac, wave_fit,
         + weights["travel_efficiency"] * travel_eff)
     ta = raw if not drive_hours else raw / max(1.0, drive_hours)
     return int(raw), round(ta, 1)
+
+
+def wind_label(speeds, wdir, best_arc):
+    """light / offshore / cross / onshore from median speed + direction."""
+    med = sorted(speeds)[len(speeds) // 2] if speeds else None
+    if med is not None and med < 8:
+        return "light"
+    if wdir is None or best_arc is None:
+        return "wind"
+    if in_arc(wdir, best_arc):
+        return "offshore"
+    opp = [(best_arc[0] + 180) % 360, (best_arc[1] + 180) % 360]
+    if in_arc(wdir, opp):
+        return "onshore"
+    return "cross"

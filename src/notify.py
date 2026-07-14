@@ -29,7 +29,6 @@ def _send_ntfy(title, body, click=None):
         print(f"[dry-run push] {title}: {body[:80]}")
         return
     # HTTP headers are latin-1 only; strip emoji from the title.
-    # Emoji stays safe in the body.
     safe_title = title.encode("latin-1", "ignore").decode("latin-1").strip()
     headers = {"Title": safe_title or "Surf Bud",
                "Priority": "high", "Tags": "ocean"}

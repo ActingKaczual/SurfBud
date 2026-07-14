@@ -53,9 +53,9 @@ ocean_grid:
     - {name: "LBI NJ", lat: 39.60, lon: -74.17}
 
 lake_grid:
-  - {name: "Oswego east", lat: 43.47, lon: -76.45}
-  - {name: "Fair Haven", lat: 43.35, lon: -76.70}
-  - {name: "Sodus", lat: 43.28, lon: -76.98}
+  - {name: "Oswego east", lat: 43.47, lon: -76.45, region: NY, drive_hours: 1.25, drive_miles: 60}
+  - {name: "Fair Haven", lat: 43.35, lon: -76.70, region: NY, drive_hours: 1.5, drive_miles: 65}
+  - {name: "Sodus", lat: 43.28, lon: -76.98, region: NY, drive_hours: 1.75, drive_miles: 80}
 
 lake_rules:
   min_wind_mph: 18
