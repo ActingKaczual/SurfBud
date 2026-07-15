@@ -89,19 +89,19 @@
    "day": "2026-07-14",
    "title": "\ud83c\udf0a CONFIRMED \u00b7 Long Sands, York ME",
    "at": "16:03"
+  },
+  {
+   "day": "2026-07-15",
+   "title": "\ud83c\udf0a HEADS UP \u00b7 Long Sands, York ME",
+   "at": "16:10"
+  },
+  {
+   "day": "2026-07-15",
+   "title": "\ud83c\udf0a CONFIRMED \u00b7 Rockaway Beach (90th St peaks)",
+   "at": "16:10"
   }
  ],
  "queue": [
-  {
-   "title": "\ud83c\udf0a HEADS UP \u00b7 Long Sands, York ME",
-   "body": "Long Sands, York ME \u00b7 2026-07-14 to 2026-07-15 \u00b7 FAIR \u00b7 fit 15% \u00b7 bust 6% \u00b7 0.4m @ 6s\n(speculative, will confirm or cancel)",
-   "click": null
-  },
-  {
-   "title": "\ud83c\udf0a CONFIRMED \u00b7 Rockaway Beach (90th St peaks)",
-   "body": "Rockaway Beach (90th St peaks) \u00b7 2026-07-11 to 2026-07-11 \u00b7 FAIR \u00b7 fit 30% \u00b7 bust 5% \u00b7 0.4m @ 6s",
-   "click": "https://www.google.com/travel/flights?q=Flights%20from%20ITH%20to%20JFK%20on%202026-07-10%20through%202026-07-12"
-  },
   {
    "title": "\ud83c\udf0a CONFIRMED \u00b7 Ditch Plains, Montauk",
    "body": "Ditch Plains, Montauk \u00b7 2026-07-12 to 2026-07-12 \u00b7 FAIR \u00b7 fit 30% \u00b7 bust 5% \u00b7 0.4m @ 7s",
@@ -191,6 +191,11 @@
    "title": "Brewing: [FLY OK] Rockaway Beach (NY) Sat-Fri (7/18-7/24)",
    "body": "60% go, 6% bust. Knee-high (1-2 ft). Cross wind (6-12mph). 4.75hr drive (240mi) or fly: fares not configured. Speculative; will confirm or call off. Tap for digest.",
    "click": "https://actingkaczual.github.io/SurfBud/event-003fc01382.html"
+  },
+  {
+   "title": "Brewing: Long Sands (ME) Sat-Fri (7/18-7/24)",
+   "body": "50% go, 6% bust. Knee-high (1-1 ft). Light wind (4-16mph). 6.5hr drive (370mi). Speculative; will confirm or call off. Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-55794b54ed.html"
   }
  ]
 }
