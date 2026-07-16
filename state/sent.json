@@ -99,19 +99,19 @@
    "day": "2026-07-15",
    "title": "\ud83c\udf0a CONFIRMED \u00b7 Rockaway Beach (90th St peaks)",
    "at": "16:10"
+  },
+  {
+   "day": "2026-07-16",
+   "title": "\ud83c\udf0a CONFIRMED \u00b7 Ditch Plains, Montauk",
+   "at": "16:03"
+  },
+  {
+   "day": "2026-07-16",
+   "title": "\ud83c\udf0a CONFIRMED \u00b7 Narragansett Town Beach",
+   "at": "16:03"
   }
  ],
  "queue": [
-  {
-   "title": "\ud83c\udf0a CONFIRMED \u00b7 Ditch Plains, Montauk",
-   "body": "Ditch Plains, Montauk \u00b7 2026-07-12 to 2026-07-12 \u00b7 FAIR \u00b7 fit 30% \u00b7 bust 5% \u00b7 0.4m @ 7s",
-   "click": null
-  },
-  {
-   "title": "\ud83c\udf0a CONFIRMED \u00b7 Narragansett Town Beach",
-   "body": "Narragansett Town Beach \u00b7 2026-07-12 to 2026-07-12 \u00b7 FAIR \u00b7 fit 30% \u00b7 bust 5% \u00b7 0.4m @ 7s",
-   "click": null
-  },
   {
    "title": "\ud83c\udf0a CONFIRMED \u00b7 Long Sands, York ME",
    "body": "Long Sands, York ME \u00b7 2026-07-12 to 2026-07-12 \u00b7 FAIR \u00b7 fit 30% \u00b7 bust 5% \u00b7 0.3m @ 9s",
