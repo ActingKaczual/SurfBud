@@ -109,19 +109,19 @@
    "day": "2026-07-16",
    "title": "\ud83c\udf0a CONFIRMED \u00b7 Narragansett Town Beach",
    "at": "16:03"
+  },
+  {
+   "day": "2026-07-17",
+   "title": "\ud83c\udf0a CONFIRMED \u00b7 Long Sands, York ME",
+   "at": "16:02"
+  },
+  {
+   "day": "2026-07-17",
+   "title": "\ud83c\udf0a CONFIRMED \u00b7 Rockaway Beach (90th St peaks)",
+   "at": "16:02"
   }
  ],
  "queue": [
-  {
-   "title": "\ud83c\udf0a CONFIRMED \u00b7 Long Sands, York ME",
-   "body": "Long Sands, York ME \u00b7 2026-07-12 to 2026-07-12 \u00b7 FAIR \u00b7 fit 30% \u00b7 bust 5% \u00b7 0.3m @ 9s",
-   "click": null
-  },
-  {
-   "title": "\ud83c\udf0a CONFIRMED \u00b7 Rockaway Beach (90th St peaks)",
-   "body": "Rockaway Beach (90th St peaks) \u00b7 2026-07-12 to 2026-07-13 \u00b7 FAIR \u00b7 fit 42% \u00b7 bust 5% \u00b7 0.3m @ 7s",
-   "click": "https://www.google.com/travel/flights?q=Flights%20from%20ITH%20to%20JFK%20on%202026-07-11%20through%202026-07-14"
-  },
   {
    "title": "\ud83c\udf0a HEADS UP \u00b7 Rockaway Beach (90th St peaks)",
    "body": "Rockaway Beach (90th St peaks) \u00b7 2026-07-15 to 2026-07-16 \u00b7 FAIR \u00b7 fit 55% \u00b7 bust 6% \u00b7 0.4m @ 7s\n(speculative, will confirm or cancel)",
@@ -226,6 +226,11 @@
    "title": "Worth a look: Ditch Plains (NY) Fri (7/17)",
    "body": "30% go, 5% bust. Knee-high (1-1 ft). Light wind (6mph). 6hr drive (310mi). Tap for digest.",
    "click": "https://actingkaczual.github.io/SurfBud/event-e5d9a70807.html"
+  },
+  {
+   "title": "Brewing: Narragansett Town Beach (RI) Wed-Sun (7/22-7/26)",
+   "body": "64% go, 18% bust. Head-high (4-5 ft). Onshore wind (9-16mph). 4.75hr drive (280mi). Speculative; will confirm or call off. Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-5fc7a3ec68.html"
   }
  ]
 }
