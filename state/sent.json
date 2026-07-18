@@ -119,19 +119,19 @@
    "day": "2026-07-17",
    "title": "\ud83c\udf0a CONFIRMED \u00b7 Rockaway Beach (90th St peaks)",
    "at": "16:02"
+  },
+  {
+   "day": "2026-07-18",
+   "title": "\ud83c\udf0a HEADS UP \u00b7 Rockaway Beach (90th St peaks)",
+   "at": "14:38"
+  },
+  {
+   "day": "2026-07-18",
+   "title": "\ud83c\udf0a Week ahead \u00b7 both fronts",
+   "at": "14:38"
   }
  ],
  "queue": [
-  {
-   "title": "\ud83c\udf0a HEADS UP \u00b7 Rockaway Beach (90th St peaks)",
-   "body": "Rockaway Beach (90th St peaks) \u00b7 2026-07-15 to 2026-07-16 \u00b7 FAIR \u00b7 fit 55% \u00b7 bust 6% \u00b7 0.4m @ 7s\n(speculative, will confirm or cancel)",
-   "click": null
-  },
-  {
-   "title": "\ud83c\udf0a Week ahead \u00b7 both fronts",
-   "body": "Long Sands, York ME \u00b7 2026-07-08 to 2026-07-12 \u00b7 GOOD \u00b7 fit 61% \u00b7 bust 5% \u00b7 1.2m @ 8s\nDitch Plains, Montauk \u00b7 2026-07-10 to 2026-07-12 \u00b7 FAIR \u00b7 fit 37% \u00b7 bust 5% \u00b7 0.4m @ 5s\nRockaway Beach (90th St peaks) \u00b7 2026-07-10 to 2026-07-16 \u00b7 GOOD \u00b7 fit 43% \u00b7 bust 5% \u00b7 0.4m @ 7s\nDitch Plains, Montauk \u00b7 2026-07-11 to 2026-07-12 \u00b7 FAIR \u00b7 fit 42% \u00b7 bust 5% \u00b7 0.4m @ 7s\nNarragansett Town Beach \u00b7 2026-07-11 to 2026-07-12 \u00b7 FAIR \u00b7 fit 42% \u00b7 bust 5% \u00b7 0.4m @ 7s\nDitch Plains, Montauk \u00b7 2026-07-12 to 2026-07-12 \u00b7 FAIR \u00b7 fit 30% \u00b7 bust 5% \u00b7 0.4m @ 7s",
-   "click": null
-  },
   {
    "title": "\ud83c\udf0a HEADS UP \u00b7 Ditch Plains, Montauk",
    "body": "Ditch Plains, Montauk \u00b7 2026-07-15 to 2026-07-17 \u00b7 FAIR \u00b7 fit 32% \u00b7 bust 6% \u00b7 0.5m @ 8s\n(speculative, will confirm or cancel)",
