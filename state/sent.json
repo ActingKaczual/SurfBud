@@ -129,19 +129,19 @@
    "day": "2026-07-18",
    "title": "\ud83c\udf0a Week ahead \u00b7 both fronts",
    "at": "14:38"
+  },
+  {
+   "day": "2026-07-19",
+   "title": "\ud83c\udf0a HEADS UP \u00b7 Ditch Plains, Montauk",
+   "at": "07:33"
+  },
+  {
+   "day": "2026-07-19",
+   "title": "\ud83c\udf0a HEADS UP \u00b7 Narragansett Town Beach",
+   "at": "07:33"
   }
  ],
  "queue": [
-  {
-   "title": "\ud83c\udf0a HEADS UP \u00b7 Ditch Plains, Montauk",
-   "body": "Ditch Plains, Montauk \u00b7 2026-07-15 to 2026-07-17 \u00b7 FAIR \u00b7 fit 32% \u00b7 bust 6% \u00b7 0.5m @ 8s\n(speculative, will confirm or cancel)",
-   "click": null
-  },
-  {
-   "title": "\ud83c\udf0a HEADS UP \u00b7 Narragansett Town Beach",
-   "body": "Narragansett Town Beach \u00b7 2026-07-15 to 2026-07-17 \u00b7 FAIR \u00b7 fit 30% \u00b7 bust 6% \u00b7 0.3m @ 7s\n(speculative, will confirm or cancel)",
-   "click": null
-  },
   {
    "title": "\ud83c\udf0a CONFIRMED \u00b7 Ditch Plains, Montauk",
    "body": "Ditch Plains, Montauk \u00b7 2026-07-15 to 2026-07-22 \u00b7 GOOD \u00b7 fit 52% \u00b7 bust 5% \u00b7 0.6m @ 7s",
@@ -261,6 +261,16 @@
    "title": "Brewing: [FLY OK] Rockaway Beach (NY) Wed-Mon (7/22-7/27)",
    "body": "64% go, 12% bust. Head-high (3-4 ft). Onshore wind (5-12mph). 4.75hr drive (240mi) or fly: fares not configured. Speculative; will confirm or call off. Tap for digest.",
    "click": "https://actingkaczual.github.io/SurfBud/event-e61b9cf5a5.html"
+  },
+  {
+   "title": "Brewing: Long Sands (ME) Wed-Tue (7/22-7/28)",
+   "body": "71% go, 6% bust. Head-high (3-4 ft). Light wind (6-11mph). 6.5hr drive (370mi). Speculative; will confirm or call off. Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-fcc290931c.html"
+  },
+  {
+   "title": "Week ahead: both fronts",
+   "body": "Rockaway Beach: good Tue-Thu, solid bet (5% bust)\nLong Sands: good Sat-Fri, solid bet (6% bust)\nRockaway Beach: good Sat-Fri, solid bet (6% bust)\nLake Ontario \u00b7 Sodus: fair Sun, long shot (68% bust)\nDitch Plains: good Sun-Mon, solid bet (5% bust)\nLong Sands: fair Sun, solid bet (5% bust)",
+   "click": "https://actingkaczual.github.io/SurfBud"
   }
  ]
 }
