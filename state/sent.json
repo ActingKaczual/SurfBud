@@ -139,19 +139,19 @@
    "day": "2026-07-19",
    "title": "\ud83c\udf0a HEADS UP \u00b7 Narragansett Town Beach",
    "at": "07:33"
+  },
+  {
+   "day": "2026-07-20",
+   "title": "\ud83c\udf0a CONFIRMED \u00b7 Ditch Plains, Montauk",
+   "at": "08:29"
+  },
+  {
+   "day": "2026-07-20",
+   "title": "\ud83c\udf0a CONFIRMED \u00b7 Long Sands, York ME",
+   "at": "08:29"
   }
  ],
  "queue": [
-  {
-   "title": "\ud83c\udf0a CONFIRMED \u00b7 Ditch Plains, Montauk",
-   "body": "Ditch Plains, Montauk \u00b7 2026-07-15 to 2026-07-22 \u00b7 GOOD \u00b7 fit 52% \u00b7 bust 5% \u00b7 0.6m @ 7s",
-   "click": null
-  },
-  {
-   "title": "\ud83c\udf0a CONFIRMED \u00b7 Long Sands, York ME",
-   "body": "Long Sands, York ME \u00b7 2026-07-14 to 2026-07-15 \u00b7 FAIR \u00b7 fit 18% \u00b7 bust 5% \u00b7 0.3m @ 8s",
-   "click": null
-  },
   {
    "title": "\ud83c\udf0a CONFIRMED \u00b7 Rockaway Beach (90th St peaks)",
    "body": "Rockaway Beach (90th St peaks) \u00b7 2026-07-13 to 2026-07-13 \u00b7 FAIR \u00b7 fit 27% \u00b7 bust 5% \u00b7 0.3m @ 6s",
@@ -276,6 +276,26 @@
    "title": "Brewing: Ditch Plains (NY) Wed-Tue (7/22-7/28)",
    "body": "52% go, 6% bust. Head-high (4-5 ft). Onshore wind (7-14mph). 6hr drive (310mi). Speculative; will confirm or call off. Tap for digest.",
    "click": "https://actingkaczual.github.io/SurfBud/event-2c0899945d.html"
+  },
+  {
+   "title": "Worth a look: Ditch Plains (NY) Mon (7/20)",
+   "body": "55% go, 5% bust. Knee-high (1-2 ft). Light wind (6mph). 6hr drive (310mi). Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-3319d11ab7.html"
+  },
+  {
+   "title": "Brewing: Ditch Plains (NY) Thu-Sun (7/23-7/26)",
+   "body": "60% go, 6% bust. Head-high (3-4 ft). Light wind (4-15mph). 6hr drive (310mi). Speculative; will confirm or call off. Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-0b650ad55b.html"
+  },
+  {
+   "title": "Worth a look: Narragansett Town Beach (RI) Mon (7/20)",
+   "body": "55% go, 5% bust. Waist-high (1-2 ft). Light wind (6mph). 4.75hr drive (280mi). Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-33e7035936.html"
+  },
+  {
+   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Mon (7/20)",
+   "body": "55% go, 5% bust. Knee-high (1-2 ft). Light wind (7mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-1b65d62ee5.html"
   }
  ]
 }
