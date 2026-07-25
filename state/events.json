@@ -531,6 +531,69 @@
   "wind_label": "light",
   "wind_lo": 5.8
  },
+ "ocean:Ditch Plains, Montauk:2026-07-25": {
+  "best_spot": "Ditch Plains, Montauk",
+  "briefing": null,
+  "bust": 5,
+  "class": "windswell",
+  "created": "2026-07-25",
+  "day_grades": [
+   {
+    "date": "2026-07-25",
+    "grade": "fair"
+   },
+   {
+    "date": "2026-07-26",
+    "grade": "good"
+   },
+   {
+    "date": "2026-07-27",
+    "grade": "fair"
+   },
+   {
+    "date": "2026-07-28",
+    "grade": "fair"
+   },
+   {
+    "date": "2026-07-29",
+    "grade": "fair"
+   },
+   {
+    "date": "2026-07-30",
+    "grade": "fair"
+   },
+   {
+    "date": "2026-07-31",
+    "grade": "good"
+   },
+   {
+    "date": "2026-08-01",
+    "grade": "fair"
+   }
+  ],
+  "dest_airport": null,
+  "digest_url": "https://actingkaczual.github.io/SurfBud/event-7e663c84a6.html",
+  "drive_hours": 6.0,
+  "drive_miles": 310,
+  "first_day": "2026-07-25",
+  "fit": 49,
+  "front": "ocean",
+  "grade": "good",
+  "h_m": 0.3584615384615385,
+  "key": "ocean:Ditch Plains, Montauk:2026-07-25",
+  "last_day": "2026-08-01",
+  "p_s": 3.6500000000000004,
+  "region": "NY",
+  "score_raw": 77,
+  "score_travel_adj": 12.9,
+  "spot_notes": "Tier 1. Cobble bottom, long mellow lines, longboard culture. September is the month. Crowds real but acceptable.\n",
+  "state": "CONFIRMED",
+  "summary": "Ditch Plains, Montauk \u00b7 2026-07-25 to 2026-08-01 \u00b7 GOOD \u00b7 fit 49% \u00b7 bust 5% \u00b7 0.4m @ 4s",
+  "travel": "drive",
+  "wind_hi": 17.6,
+  "wind_label": "cross",
+  "wind_lo": 7.5
+ },
  "ocean:Ditch Plains, Montauk:2026-07-26": {
   "best_spot": "Ditch Plains, Montauk",
   "briefing": null,
@@ -1229,11 +1292,11 @@
    },
    {
     "date": "2026-07-30",
-    "grade": "fair"
+    "grade": "good"
    },
    {
     "date": "2026-07-31",
-    "grade": "fair"
+    "grade": "good"
    },
    {
     "date": "2026-08-01",
@@ -1241,7 +1304,7 @@
    },
    {
     "date": "2026-08-02",
-    "grade": "good"
+    "grade": "fair"
    },
    {
     "date": "2026-08-03",
@@ -1253,23 +1316,23 @@
   "drive_hours": 6.5,
   "drive_miles": 370,
   "first_day": "2026-07-25",
-  "fit": 59,
+  "fit": 60,
   "front": "ocean",
   "grade": "good",
-  "h_m": 0.536923076923077,
+  "h_m": 0.5430769230769231,
   "key": "ocean:Long Sands, York ME:2026-07-25",
   "last_day": "2026-08-03",
-  "p_s": 7.107692307692308,
+  "p_s": 7.111538461538462,
   "region": "ME",
   "score_raw": 85,
   "score_travel_adj": 13.2,
   "spot_notes": "Tier 2, Sept-Oct window. Uncrowded mellow beachbreak, Maine crash contacts available.\n",
   "state": "CONFIRMED",
-  "summary": "Long Sands, York ME \u00b7 2026-07-25 to 2026-08-03 \u00b7 GOOD \u00b7 fit 59% \u00b7 bust 5% \u00b7 0.5m @ 7s",
+  "summary": "Long Sands, York ME \u00b7 2026-07-25 to 2026-08-03 \u00b7 GOOD \u00b7 fit 60% \u00b7 bust 5% \u00b7 0.5m @ 7s",
   "travel": "drive",
-  "wind_hi": 8.4,
+  "wind_hi": 11.7,
   "wind_label": "light",
-  "wind_lo": 3.5
+  "wind_lo": 4.3
  },
  "ocean:Long Sands, York ME:2026-07-30": {
   "best_spot": "Long Sands, York ME",
@@ -1763,23 +1826,23 @@
   "drive_hours": 4.75,
   "drive_miles": 280,
   "first_day": "2026-07-25",
-  "fit": 56,
+  "fit": 60,
   "front": "ocean",
   "grade": "good",
-  "h_m": 0.3707692307692308,
+  "h_m": 0.42000000000000004,
   "key": "ocean:Narragansett Town Beach:2026-07-25",
   "last_day": "2026-08-01",
-  "p_s": 4.734615384615385,
+  "p_s": 5.246153846153846,
   "region": "RI",
-  "score_raw": 87,
-  "score_travel_adj": 18.3,
+  "score_raw": 85,
+  "score_travel_adj": 17.9,
   "spot_notes": "Tier 1. Sand bottom, longboard-friendly. Check Matunuck same strike, 15 min west, handles more size and quieter.\n",
   "state": "CONFIRMED",
-  "summary": "Narragansett Town Beach \u00b7 2026-07-25 to 2026-08-01 \u00b7 GOOD \u00b7 fit 56% \u00b7 bust 5% \u00b7 0.4m @ 5s",
+  "summary": "Narragansett Town Beach \u00b7 2026-07-25 to 2026-08-01 \u00b7 GOOD \u00b7 fit 60% \u00b7 bust 5% \u00b7 0.4m @ 5s",
   "travel": "drive",
-  "wind_hi": 11.9,
+  "wind_hi": 15.2,
   "wind_label": "cross",
-  "wind_lo": 7.1
+  "wind_lo": 6.3
  },
  "ocean:Narragansett Town Beach:2026-07-28": {
   "best_spot": "Narragansett Town Beach",
@@ -2289,6 +2352,50 @@
   "wind_hi": 9.1,
   "wind_label": "cross",
   "wind_lo": 9.1
+ },
+ "ocean:Rockaway Beach (90th St peaks):2026-07-25": {
+  "best_spot": "Rockaway Beach (90th St peaks)",
+  "briefing": null,
+  "bust": 5,
+  "class": "windswell",
+  "created": "2026-07-25",
+  "day_grades": [
+   {
+    "date": "2026-07-25",
+    "grade": "fair"
+   },
+   {
+    "date": "2026-07-26",
+    "grade": "good"
+   },
+   {
+    "date": "2026-07-27",
+    "grade": "fair"
+   }
+  ],
+  "dest_airport": "JFK",
+  "digest_url": "https://actingkaczual.github.io/SurfBud/event-b0492b851c.html",
+  "drive_hours": 4.75,
+  "drive_miles": 240,
+  "fare_note": "Fare: fares not configured  https://www.google.com/travel/flights?q=Flights%20from%20ITH%20to%20JFK%20on%202026-07-24%20through%202026-07-28",
+  "first_day": "2026-07-25",
+  "fit": 51,
+  "front": "ocean",
+  "grade": "good",
+  "h_m": 0.3092307692307692,
+  "key": "ocean:Rockaway Beach (90th St peaks):2026-07-25",
+  "last_day": "2026-07-27",
+  "p_s": 3.503846153846154,
+  "region": "NY",
+  "score_raw": 86,
+  "score_travel_adj": 18.2,
+  "spot_notes": "The ITH-JFK play: daily Delta nonstop, ~3hr door to sand, faster than driving. Regional jet means NO longboard in the hold; carry rubber, rent or stash a board (Boarders / Locals, 90th St). Punchy jetty peaks, best on S swell with N wind, fall hurricane season aligns with warm water. Fair day here can beat a good day 6 hrs away.\n",
+  "state": "CONFIRMED",
+  "summary": "Rockaway Beach (90th St peaks) \u00b7 2026-07-25 to 2026-07-27 \u00b7 GOOD \u00b7 fit 51% \u00b7 bust 5% \u00b7 0.3m @ 4s",
+  "travel": "fly_or_drive",
+  "wind_hi": 12.0,
+  "wind_label": "cross",
+  "wind_lo": 7.1
  },
  "ocean:Rockaway Beach (90th St peaks):2026-07-26": {
   "best_spot": "Rockaway Beach (90th St peaks)",
