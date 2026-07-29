@@ -803,10 +803,6 @@
    {
     "date": "2026-07-31",
     "grade": "good"
-   },
-   {
-    "date": "2026-08-01",
-    "grade": "fair"
    }
   ],
   "dest_airport": null,
@@ -814,23 +810,23 @@
   "drive_hours": 6.0,
   "drive_miles": 310,
   "first_day": "2026-07-29",
-  "fit": 64,
+  "fit": 59,
   "front": "ocean",
   "grade": "good",
-  "h_m": 0.5153846153846153,
+  "h_m": 0.43230769230769234,
   "key": "ocean:Ditch Plains, Montauk:2026-07-29",
-  "last_day": "2026-08-01",
-  "p_s": 3.496153846153846,
+  "last_day": "2026-07-31",
+  "p_s": 2.4076923076923076,
   "region": "NY",
-  "score_raw": 87,
-  "score_travel_adj": 14.5,
+  "score_raw": 79,
+  "score_travel_adj": 13.3,
   "spot_notes": "Tier 1. Cobble bottom, long mellow lines, longboard culture. September is the month. Crowds real but acceptable.\n",
   "state": "CONFIRMED",
-  "summary": "Ditch Plains, Montauk \u00b7 2026-07-29 to 2026-08-01 \u00b7 GOOD \u00b7 fit 64% \u00b7 bust 5% \u00b7 0.5m @ 3s",
+  "summary": "Ditch Plains, Montauk \u00b7 2026-07-29 to 2026-07-31 \u00b7 GOOD \u00b7 fit 59% \u00b7 bust 5% \u00b7 0.4m @ 2s",
   "travel": "drive",
-  "wind_hi": 9.2,
-  "wind_label": "offshore",
-  "wind_lo": 6.5
+  "wind_hi": 16.4,
+  "wind_label": "cross",
+  "wind_lo": 5.3
  },
  "ocean:Ditch Plains, Montauk:2026-07-30": {
   "best_spot": "Ditch Plains, Montauk",
@@ -1688,22 +1684,6 @@
    {
     "date": "2026-08-01",
     "grade": "fair"
-   },
-   {
-    "date": "2026-08-02",
-    "grade": "fair"
-   },
-   {
-    "date": "2026-08-03",
-    "grade": "fair"
-   },
-   {
-    "date": "2026-08-04",
-    "grade": "fair"
-   },
-   {
-    "date": "2026-08-05",
-    "grade": "fair"
    }
   ],
   "dest_airport": null,
@@ -1711,23 +1691,23 @@
   "drive_hours": 6.5,
   "drive_miles": 370,
   "first_day": "2026-07-30",
-  "fit": 45,
+  "fit": 54,
   "front": "ocean",
   "grade": "good",
-  "h_m": 0.7230769230769231,
+  "h_m": 0.3984615384615384,
   "key": "ocean:Long Sands, York ME:2026-07-30",
-  "last_day": "2026-08-05",
-  "p_s": 3.7576923076923077,
+  "last_day": "2026-08-01",
+  "p_s": 9.388461538461538,
   "region": "ME",
-  "score_raw": 80,
-  "score_travel_adj": 12.4,
+  "score_raw": 78,
+  "score_travel_adj": 12.1,
   "spot_notes": "Tier 2, Sept-Oct window. Uncrowded mellow beachbreak, Maine crash contacts available.\n",
-  "state": "HEADS_UP",
-  "summary": "Long Sands, York ME \u00b7 2026-07-30 to 2026-08-05 \u00b7 GOOD \u00b7 fit 45% \u00b7 bust 5% \u00b7 0.7m @ 4s",
+  "state": "CONFIRMED",
+  "summary": "Long Sands, York ME \u00b7 2026-07-30 to 2026-08-01 \u00b7 GOOD \u00b7 fit 54% \u00b7 bust 5% \u00b7 0.4m @ 9s",
   "travel": "drive",
-  "wind_hi": 16.1,
+  "wind_hi": 15.6,
   "wind_label": "light",
-  "wind_lo": 5.7
+  "wind_lo": 6.0
  },
  "ocean:Long Sands, York ME:2026-07-31": {
   "best_spot": "Long Sands, York ME",
@@ -2395,6 +2375,10 @@
    {
     "date": "2026-08-01",
     "grade": "fair"
+   },
+   {
+    "date": "2026-08-02",
+    "grade": "fair"
    }
   ],
   "dest_airport": null,
@@ -2402,23 +2386,23 @@
   "drive_hours": 4.75,
   "drive_miles": 280,
   "first_day": "2026-07-30",
-  "fit": 68,
+  "fit": 58,
   "front": "ocean",
   "grade": "good",
-  "h_m": 0.8153846153846154,
+  "h_m": 0.8323076923076923,
   "key": "ocean:Narragansett Town Beach:2026-07-30",
-  "last_day": "2026-08-01",
-  "p_s": 7.8076923076923075,
+  "last_day": "2026-08-02",
+  "p_s": 7.907692307692307,
   "region": "RI",
-  "score_raw": 88,
-  "score_travel_adj": 18.7,
+  "score_raw": 87,
+  "score_travel_adj": 18.4,
   "spot_notes": "Tier 1. Sand bottom, longboard-friendly. Check Matunuck same strike, 15 min west, handles more size and quieter.\n",
   "state": "CONFIRMED",
-  "summary": "Narragansett Town Beach \u00b7 2026-07-30 to 2026-08-01 \u00b7 GOOD \u00b7 fit 68% \u00b7 bust 5% \u00b7 0.8m @ 8s",
+  "summary": "Narragansett Town Beach \u00b7 2026-07-30 to 2026-08-02 \u00b7 GOOD \u00b7 fit 58% \u00b7 bust 5% \u00b7 0.8m @ 8s",
   "travel": "drive",
-  "wind_hi": 9.8,
-  "wind_label": "offshore",
-  "wind_lo": 7.5
+  "wind_hi": 11.0,
+  "wind_label": "onshore",
+  "wind_lo": 6.5
  },
  "ocean:Rockaway Beach (90th St peaks):2026-07-07": {
   "best_spot": "Rockaway Beach (90th St peaks)",
@@ -3084,7 +3068,7 @@
   "day_grades": [
    {
     "date": "2026-07-29",
-    "grade": "fair"
+    "grade": "good"
    },
    {
     "date": "2026-07-30",
@@ -3097,22 +3081,6 @@
    {
     "date": "2026-08-01",
     "grade": "fair"
-   },
-   {
-    "date": "2026-08-02",
-    "grade": "fair"
-   },
-   {
-    "date": "2026-08-03",
-    "grade": "fair"
-   },
-   {
-    "date": "2026-08-04",
-    "grade": "good"
-   },
-   {
-    "date": "2026-08-05",
-    "grade": "fair"
    }
   ],
   "dest_airport": "JFK",
@@ -3121,22 +3089,22 @@
   "drive_miles": 240,
   "fare_note": "Fare: fares not configured  https://www.google.com/travel/flights?q=Flights%20from%20ITH%20to%20JFK%20on%202026-07-28%20through%202026-08-07",
   "first_day": "2026-07-29",
-  "fit": 56,
+  "fit": 57,
   "front": "ocean",
   "grade": "good",
-  "h_m": 0.8815384615384615,
+  "h_m": 0.8892307692307693,
   "key": "ocean:Rockaway Beach (90th St peaks):2026-07-29",
-  "last_day": "2026-08-05",
-  "p_s": 5.9653846153846155,
+  "last_day": "2026-08-01",
+  "p_s": 5.957692307692308,
   "region": "NY",
-  "score_raw": 84,
-  "score_travel_adj": 17.8,
+  "score_raw": 87,
+  "score_travel_adj": 18.4,
   "spot_notes": "The ITH-JFK play: daily Delta nonstop, ~3hr door to sand, faster than driving. Regional jet means NO longboard in the hold; carry rubber, rent or stash a board (Boarders / Locals, 90th St). Punchy jetty peaks, best on S swell with N wind, fall hurricane season aligns with warm water. Fair day here can beat a good day 6 hrs away.\n",
   "state": "CONFIRMED",
-  "summary": "Rockaway Beach (90th St peaks) \u00b7 2026-07-29 to 2026-08-05 \u00b7 GOOD \u00b7 fit 56% \u00b7 bust 5% \u00b7 0.9m @ 6s",
+  "summary": "Rockaway Beach (90th St peaks) \u00b7 2026-07-29 to 2026-08-01 \u00b7 GOOD \u00b7 fit 57% \u00b7 bust 5% \u00b7 0.9m @ 6s",
   "travel": "fly_or_drive",
-  "wind_hi": 12.2,
+  "wind_hi": 11.6,
   "wind_label": "light",
-  "wind_lo": 4.3
+  "wind_lo": 4.8
  }
 }
