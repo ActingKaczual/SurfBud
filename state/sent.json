@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-07-14",
-   "title": "\ud83c\udf0a CONFIRMED \u00b7 Narragansett Town Beach",
-   "at": "16:03"
-  },
-  {
-   "day": "2026-07-14",
-   "title": "\ud83c\udf0a CONFIRMED \u00b7 Long Sands, York ME",
-   "at": "16:03"
-  },
-  {
    "day": "2026-07-15",
    "title": "\ud83c\udf0a HEADS UP \u00b7 Long Sands, York ME",
    "at": "16:10"
@@ -299,19 +289,19 @@
    "day": "2026-08-12",
    "title": "It's on: Long Sands (ME) Sat-Mon (7/25-8/3)",
    "at": "11:56"
+  },
+  {
+   "day": "2026-08-13",
+   "title": "It's on: [FLY OK] Rockaway Beach (NY) Sun-Mon (7/26-7/27)",
+   "at": "11:57"
+  },
+  {
+   "day": "2026-08-13",
+   "title": "It's on: Ditch Plains (NY) Sat-Sat (7/25-8/1)",
+   "at": "11:57"
   }
  ],
  "queue": [
-  {
-   "title": "It's on: [FLY OK] Rockaway Beach (NY) Sun-Mon (7/26-7/27)",
-   "body": "64% go, 5% bust. Waist-high (2-3 ft). Onshore wind (8mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-8437f2cd53.html"
-  },
-  {
-   "title": "It's on: Ditch Plains (NY) Sat-Sat (7/25-8/1)",
-   "body": "49% go, 5% bust. Knee-high (1-2 ft). Cross wind (8-18mph). 6hr drive (310mi). Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-7e663c84a6.html"
-  },
   {
    "title": "It's on: [FLY OK] Rockaway Beach (NY) Sat-Mon (7/25-7/27)",
    "body": "51% go, 5% bust. Knee-high (1-2 ft). Cross wind (7-12mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
