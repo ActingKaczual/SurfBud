@@ -1329,7 +1329,7 @@
   "score_raw": 73,
   "score_travel_adj": 12.3,
   "spot_notes": "Tier 1. Cobble bottom, long mellow lines, longboard culture. September is the month. Crowds real but acceptable.\n",
-  "state": "CONFIRMED",
+  "state": "PAST",
   "summary": "Ditch Plains, Montauk \u00b7 2026-08-12 to 2026-08-13 \u00b7 FAIR \u00b7 fit 30% \u00b7 bust 5% \u00b7 0.3m @ 5s",
   "travel": "drive",
   "wind_hi": 6.8,
@@ -3428,7 +3428,7 @@
   "score_raw": 82,
   "score_travel_adj": 17.3,
   "spot_notes": "Tier 1. Sand bottom, longboard-friendly. Check Matunuck same strike, 15 min west, handles more size and quieter.\n",
-  "state": "CONFIRMED",
+  "state": "PAST",
   "summary": "Narragansett Town Beach \u00b7 2026-08-05 to 2026-08-13 \u00b7 FAIR \u00b7 fit 38% \u00b7 bust 5% \u00b7 0.6m @ 7s",
   "travel": "drive",
   "wind_hi": 13.0,
@@ -3624,7 +3624,7 @@
   "score_raw": 83,
   "score_travel_adj": 17.7,
   "spot_notes": "Tier 1. Sand bottom, longboard-friendly. Check Matunuck same strike, 15 min west, handles more size and quieter.\n",
-  "state": "CONFIRMED",
+  "state": "PAST",
   "summary": "Narragansett Town Beach \u00b7 2026-08-09 to 2026-08-13 \u00b7 FAIR \u00b7 fit 35% \u00b7 bust 5% \u00b7 0.4m @ 6s",
   "travel": "drive",
   "wind_hi": 9.8,
@@ -4972,7 +4972,7 @@
   "score_raw": 83,
   "score_travel_adj": 17.5,
   "spot_notes": "The ITH-JFK play: daily Delta nonstop, ~3hr door to sand, faster than driving. Regional jet means NO longboard in the hold; carry rubber, rent or stash a board (Boarders / Locals, 90th St). Punchy jetty peaks, best on S swell with N wind, fall hurricane season aligns with warm water. Fair day here can beat a good day 6 hrs away.\n",
-  "state": "CONFIRMED",
+  "state": "PAST",
   "summary": "Rockaway Beach (90th St peaks) \u00b7 2026-08-09 to 2026-08-13 \u00b7 FAIR \u00b7 fit 29% \u00b7 bust 5% \u00b7 0.4m @ 4s",
   "travel": "fly_or_drive",
   "wind_hi": 11.5,
@@ -5120,7 +5120,7 @@
   "score_raw": 70,
   "score_travel_adj": 14.8,
   "spot_notes": "The ITH-JFK play: daily Delta nonstop, ~3hr door to sand, faster than driving. Regional jet means NO longboard in the hold; carry rubber, rent or stash a board (Boarders / Locals, 90th St). Punchy jetty peaks, best on S swell with N wind, fall hurricane season aligns with warm water. Fair day here can beat a good day 6 hrs away.\n",
-  "state": "CONFIRMED",
+  "state": "PAST",
   "summary": "Rockaway Beach (90th St peaks) \u00b7 2026-08-13 to 2026-08-13 \u00b7 FAIR \u00b7 fit 55% \u00b7 bust 5% \u00b7 0.4m @ 4s",
   "travel": "fly_or_drive",
   "wind_hi": 6.4,
@@ -5202,25 +5202,13 @@
  "ocean:Rockaway Beach (90th St peaks):2026-08-17": {
   "best_spot": "Rockaway Beach (90th St peaks)",
   "briefing": null,
-  "bust": 12,
+  "bust": 6,
   "class": "noreaster",
   "created": "2026-08-12",
   "day_grades": [
    {
     "date": "2026-08-17",
     "grade": "good"
-   },
-   {
-    "date": "2026-08-18",
-    "grade": "fair"
-   },
-   {
-    "date": "2026-08-19",
-    "grade": "fair"
-   },
-   {
-    "date": "2026-08-20",
-    "grade": "fair"
    }
   ],
   "dest_airport": "JFK",
@@ -5229,22 +5217,22 @@
   "drive_miles": 240,
   "fare_note": "Fare: fares not configured  https://www.google.com/travel/flights?q=Flights%20from%20ITH%20to%20JFK%20on%202026-08-16%20through%202026-08-20",
   "first_day": "2026-08-17",
-  "fit": 53,
+  "fit": 75,
   "front": "ocean",
   "grade": "good",
-  "h_m": 0.8092307692307692,
+  "h_m": 0.9276923076923077,
   "key": "ocean:Rockaway Beach (90th St peaks):2026-08-17",
-  "last_day": "2026-08-20",
-  "p_s": 6.838461538461539,
+  "last_day": "2026-08-17",
+  "p_s": 6.161538461538461,
   "region": "NY",
-  "score_raw": 84,
-  "score_travel_adj": 17.8,
+  "score_raw": 73,
+  "score_travel_adj": 15.4,
   "spot_notes": "The ITH-JFK play: daily Delta nonstop, ~3hr door to sand, faster than driving. Regional jet means NO longboard in the hold; carry rubber, rent or stash a board (Boarders / Locals, 90th St). Punchy jetty peaks, best on S swell with N wind, fall hurricane season aligns with warm water. Fair day here can beat a good day 6 hrs away.\n",
   "state": "HEADS_UP",
-  "summary": "Rockaway Beach (90th St peaks) \u00b7 2026-08-17 to 2026-08-20 \u00b7 GOOD \u00b7 fit 53% \u00b7 bust 12% \u00b7 0.8m @ 7s",
+  "summary": "Rockaway Beach (90th St peaks) \u00b7 2026-08-17 to 2026-08-17 \u00b7 GOOD \u00b7 fit 75% \u00b7 bust 6% \u00b7 0.9m @ 6s",
   "travel": "fly_or_drive",
-  "wind_hi": 9.2,
+  "wind_hi": 6.0,
   "wind_label": "light",
-  "wind_lo": 6.5
+  "wind_lo": 6.0
  }
 }
