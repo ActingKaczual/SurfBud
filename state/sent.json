@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-07-16",
-   "title": "\ud83c\udf0a CONFIRMED \u00b7 Ditch Plains, Montauk",
-   "at": "16:03"
-  },
-  {
-   "day": "2026-07-16",
-   "title": "\ud83c\udf0a CONFIRMED \u00b7 Narragansett Town Beach",
-   "at": "16:03"
-  },
-  {
    "day": "2026-07-17",
    "title": "\ud83c\udf0a CONFIRMED \u00b7 Long Sands, York ME",
    "at": "16:02"
@@ -299,19 +289,19 @@
    "day": "2026-08-14",
    "title": "Brewing: Ditch Plains (NY) Fri-Sun (7/31-8/2)",
    "at": "11:54"
+  },
+  {
+   "day": "2026-08-15",
+   "title": "Worth a look: Narragansett Town Beach (RI) Mon-Tue (7/27-7/28)",
+   "at": "11:32"
+  },
+  {
+   "day": "2026-08-15",
+   "title": "Brewing: Narragansett Town Beach (RI) Thu-Tue (7/30-8/4)",
+   "at": "11:32"
   }
  ],
  "queue": [
-  {
-   "title": "Worth a look: Narragansett Town Beach (RI) Mon-Tue (7/27-7/28)",
-   "body": "44% go, 5% bust. Knee-high (1-2 ft). Onshore wind (6-12mph). 4.75hr drive (280mi). Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-de86ebf0ec.html"
-  },
-  {
-   "title": "Brewing: Narragansett Town Beach (RI) Thu-Tue (7/30-8/4)",
-   "body": "58% go, 12% bust. Waist-high (1-2 ft). Light wind (5-16mph). 4.75hr drive (280mi). Speculative; will confirm or call off. Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-5dd1d51aa0.html"
-  },
   {
    "title": "It's on: Long Sands (ME) Sun-Tue (7/26-8/4)",
    "body": "62% go, 5% bust. Waist-high (2-3 ft). Light wind (4-10mph). 6.5hr drive (370mi). Tap for digest.",
@@ -676,6 +666,21 @@
    "title": "Brewing: Narragansett Town Beach (RI) Mon-Wed (8/17-8/19)",
    "body": "60% go, 6% bust. Waist-high (2-3 ft). Light wind (7-17mph). 4.75hr drive (280mi). Speculative; will confirm or call off. Tap for digest.",
    "click": "https://actingkaczual.github.io/SurfBud/event-3afafbc68c.html"
+  },
+  {
+   "title": "Brewing: Ditch Plains (NY) Tue-Thu (8/18-8/20)",
+   "body": "61% go, 6% bust. Waist-high (2-3 ft). Light wind (4-10mph). 6hr drive (310mi). Speculative; will confirm or call off. Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-37fc872b58.html"
+  },
+  {
+   "title": "Brewing: Narragansett Town Beach (RI) Tue-Thu (8/18-8/20)",
+   "body": "61% go, 6% bust. Waist-high (2-3 ft). Light wind (5-10mph). 4.75hr drive (280mi). Speculative; will confirm or call off. Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-1c82aa7cf1.html"
+  },
+  {
+   "title": "Brewing: Long Sands (ME) Mon-Mon (8/17-8/24)",
+   "body": "48% go, 5% bust. Knee-high (1-2 ft). Light wind (6-8mph). 6.5hr drive (370mi). Speculative; will confirm or call off. Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-ded2de1ddc.html"
   }
  ]
 }
