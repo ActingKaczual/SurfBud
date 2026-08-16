@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-07-17",
-   "title": "\ud83c\udf0a CONFIRMED \u00b7 Long Sands, York ME",
-   "at": "16:02"
-  },
-  {
-   "day": "2026-07-17",
-   "title": "\ud83c\udf0a CONFIRMED \u00b7 Rockaway Beach (90th St peaks)",
-   "at": "16:02"
-  },
-  {
    "day": "2026-07-18",
    "title": "\ud83c\udf0a HEADS UP \u00b7 Rockaway Beach (90th St peaks)",
    "at": "14:38"
@@ -299,19 +289,19 @@
    "day": "2026-08-15",
    "title": "Brewing: Narragansett Town Beach (RI) Thu-Tue (7/30-8/4)",
    "at": "11:32"
+  },
+  {
+   "day": "2026-08-16",
+   "title": "It's on: Long Sands (ME) Sun-Tue (7/26-8/4)",
+   "at": "11:32"
+  },
+  {
+   "day": "2026-08-16",
+   "title": "Week ahead: both fronts",
+   "at": "11:32"
   }
  ],
  "queue": [
-  {
-   "title": "It's on: Long Sands (ME) Sun-Tue (7/26-8/4)",
-   "body": "62% go, 5% bust. Waist-high (2-3 ft). Light wind (4-10mph). 6.5hr drive (370mi). Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-1c111397d8.html"
-  },
-  {
-   "title": "Week ahead: both fronts",
-   "body": "Long Sands: good Wed-Fri, solid bet (5% bust)\nNarragansett Town Beach: good Wed-Fri, solid bet (5% bust)\nLong Sands: good Thu-Sat, solid bet (5% bust)\nNarragansett Town Beach: good Thu-Sat, solid bet (5% bust)\nLong Sands: good Fri-Sun, solid bet (5% bust)\nNarragansett Town Beach: good Fri-Sun, solid bet (5% bust)",
-   "click": "https://actingkaczual.github.io/SurfBud"
-  },
   {
    "title": "Brewing: Ditch Plains (NY) Wed-Tue (7/29-8/4)",
    "body": "57% go, 6% bust. Waist-high (1-2 ft). Onshore wind (4-20mph). 6hr drive (310mi). Speculative; will confirm or call off. Tap for digest.",
@@ -686,6 +676,16 @@
    "title": "Brewing: Long Sands (ME) Tue-Mon (8/18-8/24)",
    "body": "50% go, 6% bust. Chest-high (2-3 ft). Light wind (3-7mph). 6.5hr drive (370mi). Speculative; will confirm or call off. Tap for digest.",
    "click": "https://actingkaczual.github.io/SurfBud/event-862cdb6e2e.html"
+  },
+  {
+   "title": "It's on: [FLY OK] Rockaway Beach (NY) Mon-Mon (8/17-8/24)",
+   "body": "44% go, 5% bust. Chest-high (2-3 ft). Light wind (5-9mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-7347cc12b4.html"
+  },
+  {
+   "title": "Week ahead: both fronts",
+   "body": "Ditch Plains: good Mon-Thu, solid bet (5% bust)\nLong Sands: good Mon-Mon, solid bet (5% bust)\nNarragansett Town Beach: good Mon-Thu, solid bet (5% bust)\nRockaway Beach: good Mon-Mon, solid bet (5% bust)\nDitch Plains: good Tue-Fri, solid bet (5% bust)\nLong Sands: fair Tue-Mon, solid bet (5% bust)",
+   "click": "https://actingkaczual.github.io/SurfBud"
   }
  ]
 }
