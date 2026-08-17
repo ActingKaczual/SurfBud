@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-07-18",
-   "title": "\ud83c\udf0a HEADS UP \u00b7 Rockaway Beach (90th St peaks)",
-   "at": "14:38"
-  },
-  {
-   "day": "2026-07-18",
-   "title": "\ud83c\udf0a Week ahead \u00b7 both fronts",
-   "at": "14:38"
-  },
-  {
    "day": "2026-07-19",
    "title": "\ud83c\udf0a HEADS UP \u00b7 Ditch Plains, Montauk",
    "at": "07:33"
@@ -299,19 +289,19 @@
    "day": "2026-08-16",
    "title": "Week ahead: both fronts",
    "at": "11:32"
+  },
+  {
+   "day": "2026-08-17",
+   "title": "Brewing: Ditch Plains (NY) Wed-Tue (7/29-8/4)",
+   "at": "11:37"
+  },
+  {
+   "day": "2026-08-17",
+   "title": "Brewing: [FLY OK] Rockaway Beach (NY) Wed-Tue (7/29-8/4)",
+   "at": "11:37"
   }
  ],
  "queue": [
-  {
-   "title": "Brewing: Ditch Plains (NY) Wed-Tue (7/29-8/4)",
-   "body": "57% go, 6% bust. Waist-high (1-2 ft). Onshore wind (4-20mph). 6hr drive (310mi). Speculative; will confirm or call off. Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-ddbfbde54e.html"
-  },
-  {
-   "title": "Brewing: [FLY OK] Rockaway Beach (NY) Wed-Tue (7/29-8/4)",
-   "body": "47% go, 6% bust. Knee-high (1-2 ft). Light wind (4-12mph). 4.75hr drive (240mi) or fly: fares not configured. Speculative; will confirm or call off. Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-f11c61abfa.html"
-  },
   {
    "title": "It's on: Long Sands (ME) Mon-Wed (7/27-8/5)",
    "body": "51% go, 5% bust. Waist-high (2-3 ft). Light wind (4-12mph). 6.5hr drive (370mi). Tap for digest.",
@@ -696,6 +686,16 @@
    "title": "It's on: Long Sands (ME) Tue-Tue (8/18-8/25)",
    "body": "61% go, 5% bust. Waist-high (2-3 ft). Light wind (4-10mph). 6.5hr drive (370mi). Tap for digest.",
    "click": "https://actingkaczual.github.io/SurfBud/event-862cdb6e2e.html"
+  },
+  {
+   "title": "It's on: Ditch Plains (NY) Mon-Wed (8/17-8/19)",
+   "body": "42% go, 5% bust. Knee-high (1-2 ft). Light wind (4-11mph). 6hr drive (310mi). Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-9c87c24b70.html"
+  },
+  {
+   "title": "It's on: Narragansett Town Beach (RI) Tue-Wed (8/18-8/19)",
+   "body": "51% go, 5% bust. Waist-high (2-3 ft). Light wind (6mph). 4.75hr drive (280mi). Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-1c82aa7cf1.html"
   }
  ]
 }
