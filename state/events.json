@@ -1432,6 +1432,10 @@
    {
     "date": "2026-08-20",
     "grade": "fair"
+   },
+   {
+    "date": "2026-08-21",
+    "grade": "fair"
    }
   ],
   "dest_airport": null,
@@ -1439,23 +1443,23 @@
   "drive_hours": 6.0,
   "drive_miles": 310,
   "first_day": "2026-08-18",
-  "fit": 43,
+  "fit": 47,
   "front": "ocean",
   "grade": "good",
-  "h_m": 0.7,
+  "h_m": 0.6738461538461539,
   "key": "ocean:Ditch Plains, Montauk:2026-08-18",
-  "last_day": "2026-08-20",
-  "p_s": 7.007692307692308,
+  "last_day": "2026-08-21",
+  "p_s": 6.980769230769231,
   "region": "NY",
-  "score_raw": 83,
-  "score_travel_adj": 14.0,
+  "score_raw": 84,
+  "score_travel_adj": 14.1,
   "spot_notes": "Tier 1. Cobble bottom, long mellow lines, longboard culture. September is the month. Crowds real but acceptable.\n",
-  "state": "HEADS_UP",
-  "summary": "Ditch Plains, Montauk \u00b7 2026-08-18 to 2026-08-20 \u00b7 GOOD \u00b7 fit 43% \u00b7 bust 5% \u00b7 0.7m @ 7s",
+  "state": "CONFIRMED",
+  "summary": "Ditch Plains, Montauk \u00b7 2026-08-18 to 2026-08-21 \u00b7 GOOD \u00b7 fit 47% \u00b7 bust 5% \u00b7 0.7m @ 7s",
   "travel": "drive",
-  "wind_hi": 10.7,
-  "wind_label": "cross",
-  "wind_lo": 5.0
+  "wind_hi": 7.5,
+  "wind_label": "light",
+  "wind_lo": 5.4
  },
  "ocean:Long Sands, York ME:2026-07-07": {
   "best_spot": "Long Sands, York ME",
@@ -2684,11 +2688,19 @@
    },
    {
     "date": "2026-08-24",
-    "grade": "good"
+    "grade": "fair"
    },
    {
     "date": "2026-08-25",
     "grade": "fair"
+   },
+   {
+    "date": "2026-08-26",
+    "grade": "fair"
+   },
+   {
+    "date": "2026-08-27",
+    "grade": "good"
    }
   ],
   "dest_airport": null,
@@ -2696,23 +2708,23 @@
   "drive_hours": 6.5,
   "drive_miles": 370,
   "first_day": "2026-08-18",
-  "fit": 54,
+  "fit": 51,
   "front": "ocean",
   "grade": "good",
-  "h_m": 0.4076923076923077,
+  "h_m": 0.44461538461538463,
   "key": "ocean:Long Sands, York ME:2026-08-18",
-  "last_day": "2026-08-25",
-  "p_s": 6.496153846153846,
+  "last_day": "2026-08-27",
+  "p_s": 5.788461538461538,
   "region": "ME",
-  "score_raw": 82,
-  "score_travel_adj": 12.7,
+  "score_raw": 84,
+  "score_travel_adj": 13.0,
   "spot_notes": "Tier 2, Sept-Oct window. Uncrowded mellow beachbreak, Maine crash contacts available.\n",
   "state": "CONFIRMED",
-  "summary": "Long Sands, York ME \u00b7 2026-08-18 to 2026-08-25 \u00b7 GOOD \u00b7 fit 54% \u00b7 bust 5% \u00b7 0.4m @ 6s",
+  "summary": "Long Sands, York ME \u00b7 2026-08-18 to 2026-08-27 \u00b7 GOOD \u00b7 fit 51% \u00b7 bust 5% \u00b7 0.4m @ 6s",
   "travel": "drive",
-  "wind_hi": 14.1,
+  "wind_hi": 9.9,
   "wind_label": "light",
-  "wind_lo": 4.1
+  "wind_lo": 3.8
  },
  "ocean:Narragansett Town Beach:2026-07-07": {
   "best_spot": "Narragansett Town Beach",
@@ -3963,6 +3975,14 @@
    {
     "date": "2026-08-19",
     "grade": "fair"
+   },
+   {
+    "date": "2026-08-20",
+    "grade": "fair"
+   },
+   {
+    "date": "2026-08-21",
+    "grade": "fair"
    }
   ],
   "dest_airport": null,
@@ -3970,23 +3990,23 @@
   "drive_hours": 4.75,
   "drive_miles": 280,
   "first_day": "2026-08-18",
-  "fit": 51,
+  "fit": 47,
   "front": "ocean",
   "grade": "good",
-  "h_m": 0.6338461538461538,
+  "h_m": 0.66,
   "key": "ocean:Narragansett Town Beach:2026-08-18",
-  "last_day": "2026-08-19",
-  "p_s": 6.796153846153846,
+  "last_day": "2026-08-21",
+  "p_s": 7.084615384615384,
   "region": "RI",
-  "score_raw": 78,
-  "score_travel_adj": 16.4,
+  "score_raw": 85,
+  "score_travel_adj": 18.1,
   "spot_notes": "Tier 1. Sand bottom, longboard-friendly. Check Matunuck same strike, 15 min west, handles more size and quieter.\n",
   "state": "CONFIRMED",
-  "summary": "Narragansett Town Beach \u00b7 2026-08-18 to 2026-08-19 \u00b7 GOOD \u00b7 fit 51% \u00b7 bust 5% \u00b7 0.6m @ 7s",
+  "summary": "Narragansett Town Beach \u00b7 2026-08-18 to 2026-08-21 \u00b7 GOOD \u00b7 fit 47% \u00b7 bust 5% \u00b7 0.7m @ 7s",
   "travel": "drive",
-  "wind_hi": 6.0,
-  "wind_label": "light",
-  "wind_lo": 5.9
+  "wind_hi": 9.6,
+  "wind_label": "offshore",
+  "wind_lo": 5.3
  },
  "ocean:Rockaway Beach (90th St peaks):2026-07-07": {
   "best_spot": "Rockaway Beach (90th St peaks)",
