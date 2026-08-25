@@ -421,3 +421,8 @@
 2026-08-25 11:41  PAST ocean:Long Sands, York ME:2026-08-19
 2026-08-25 11:41  PAST ocean:Rockaway Beach (90th St peaks):2026-08-23
 2026-08-25 11:41  PAST ocean:Rockaway Beach (90th St peaks):2026-08-24
+2026-08-25 22:41  DOWNGRADE HEADS_UP ocean:Ditch Plains, Montauk:2026-09-01 grade=fair bust=30%
+2026-08-25 22:41  DOWNGRADE CONFIRMED ocean:Narragansett Town Beach:2026-08-26 grade=fair bust=5%
+2026-08-25 22:41  DOWNGRADE HEADS_UP ocean:Narragansett Town Beach:2026-09-01 grade=fair bust=30%
+2026-08-25 22:41  NEW WHISPER ocean:Long Sands, York ME:2026-09-02 grade=good bust=36%
+2026-08-25 22:41  DOWNGRADE WHISPER ocean:Rockaway Beach (90th St peaks):2026-08-31 grade=fair bust=24%
