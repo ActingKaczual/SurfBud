@@ -3964,17 +3964,21 @@
  },
  "ocean:Long Sands, York ME:2026-09-03": {
   "best_spot": "Long Sands, York ME",
-  "bust": 30,
+  "bust": 18,
   "class": "noreaster",
   "created": "2026-08-27",
   "day_grades": [
    {
     "date": "2026-09-03",
-    "grade": "fair"
+    "grade": "good"
    },
    {
     "date": "2026-09-04",
-    "grade": "good"
+    "grade": "fair"
+   },
+   {
+    "date": "2026-09-05",
+    "grade": "fair"
    }
   ],
   "dest_airport": null,
@@ -3982,23 +3986,23 @@
   "drive_hours": 6.5,
   "drive_miles": 370,
   "first_day": "2026-09-03",
-  "fit": 65,
+  "fit": 46,
   "front": "ocean",
   "grade": "good",
-  "h_m": 0.38153846153846155,
+  "h_m": 1.2338461538461538,
   "key": "ocean:Long Sands, York ME:2026-09-03",
-  "last_day": "2026-09-04",
-  "p_s": 9.580769230769231,
+  "last_day": "2026-09-05",
+  "p_s": 6.615384615384615,
   "region": "ME",
-  "score_raw": 70,
-  "score_travel_adj": 10.9,
+  "score_raw": 73,
+  "score_travel_adj": 11.3,
   "spot_notes": "Tier 2, Sept-Oct window. Uncrowded mellow beachbreak, Maine crash contacts available.\n",
   "state": "WHISPER",
-  "summary": "Long Sands, York ME \u00b7 2026-09-03 to 2026-09-04 \u00b7 GOOD \u00b7 fit 65% \u00b7 bust 30% \u00b7 0.4m @ 10s",
+  "summary": "Long Sands, York ME \u00b7 2026-09-03 to 2026-09-05 \u00b7 GOOD \u00b7 fit 46% \u00b7 bust 18% \u00b7 1.2m @ 7s",
   "travel": "drive",
-  "wind_hi": 9.2,
-  "wind_label": "onshore",
-  "wind_lo": 7.4
+  "wind_hi": 12.2,
+  "wind_label": "offshore",
+  "wind_lo": 11.2
  },
  "ocean:Narragansett Town Beach:2026-07-07": {
   "best_spot": "Narragansett Town Beach",
