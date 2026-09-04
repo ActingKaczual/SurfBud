@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-08-03",
-   "title": "Brewing: Ditch Plains (NY) Thu-Sun (7/23-7/26)",
-   "at": "10:57"
-  },
-  {
-   "day": "2026-08-03",
-   "title": "Worth a look: Narragansett Town Beach (RI) Mon (7/20)",
-   "at": "10:57"
-  },
-  {
    "day": "2026-08-04",
    "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Mon (7/20)",
    "at": "07:58"
@@ -299,19 +289,19 @@
    "day": "2026-09-03",
    "title": "Worth a look: Ditch Plains (NY) Sun (8/2)",
    "at": "14:58"
+  },
+  {
+   "day": "2026-09-04",
+   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Sat (8/1)",
+   "at": "14:55"
+  },
+  {
+   "day": "2026-09-04",
+   "title": "Worth a look: Narragansett Town Beach (RI) Sun (8/2)",
+   "at": "14:55"
   }
  ],
  "queue": [
-  {
-   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Sat (8/1)",
-   "body": "26% go, 5% bust. Knee-high (1-2 ft). Light wind (8mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-c56461d23a.html"
-  },
-  {
-   "title": "Worth a look: Narragansett Town Beach (RI) Sun (8/2)",
-   "body": "30% go, 5% bust. Knee-high (1-2 ft). Onshore wind (9mph). 4.75hr drive (280mi). Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-4be42e344f.html"
-  },
   {
    "title": "Brewing: Long Sands (ME) Tue-Fri (8/4-8/7)",
    "body": "53% go, 5% bust. Waist-high (1-2 ft). Cross wind (6-9mph). 6.5hr drive (370mi). Speculative; will confirm or call off. Tap for digest.",
@@ -846,6 +836,26 @@
    "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Thu-Sun (9/3-9/6)",
    "body": "41% go, 5% bust. Waist-high (1-2 ft). Offshore wind (6-11mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
    "click": "https://actingkaczual.github.io/SurfBud/event-9614eb6a62.html"
+  },
+  {
+   "title": "Worth a look: Ditch Plains (NY) Fri (9/4)",
+   "body": "30% go, 5% bust. Knee-high (1-2 ft). Light wind (7mph). 6hr drive (310mi). Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-a89cd0ff05.html"
+  },
+  {
+   "title": "Worth a look: Narragansett Town Beach (RI) Fri (9/4)",
+   "body": "30% go, 5% bust. Knee-high (1-2 ft). Light wind (8mph). 4.75hr drive (280mi). Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-4c934c4063.html"
+  },
+  {
+   "title": "It's on: Long Sands (ME) Fri-Sat (9/4-9/5)",
+   "body": "65% go, 5% bust. Waist-high (2-3 ft). Cross wind (5-8mph). 6.5hr drive (370mi). Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-d86c5eeb06.html"
+  },
+  {
+   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Fri-Mon (9/4-9/7)",
+   "body": "34% go, 5% bust. Knee-high (1-2 ft). Offshore wind (8-11mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-f06d8769b9.html"
   }
  ]
 }
