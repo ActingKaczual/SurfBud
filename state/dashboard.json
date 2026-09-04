@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T14:58",
+ "updated": "2026-09-04T00:01",
  "active": [
   {
    "best_spot": "Ditch Plains, Montauk",
@@ -270,6 +270,7 @@
   },
   {
    "best_spot": "Long Sands, York ME",
+   "briefing": null,
    "bust": 5,
    "class": "noreaster",
    "created": "2026-08-27",
@@ -308,8 +309,7 @@
    "travel": "drive",
    "wind_hi": 6.9,
    "wind_label": "light",
-   "wind_lo": 4.1,
-   "briefing": null
+   "wind_lo": 4.1
   },
   {
    "best_spot": "Long Sands, York ME",
@@ -391,49 +391,6 @@
    "wind_hi": 7.7,
    "wind_label": "light",
    "wind_lo": 5.2
-  },
-  {
-   "best_spot": "Narragansett Town Beach",
-   "briefing": null,
-   "bust": 30,
-   "class": "winter_groundswell",
-   "created": "2026-08-23",
-   "day_grades": [
-    {
-     "date": "2026-09-01",
-     "grade": "fair"
-    },
-    {
-     "date": "2026-09-02",
-     "grade": "fair"
-    },
-    {
-     "date": "2026-09-03",
-     "grade": "fair"
-    }
-   ],
-   "dest_airport": null,
-   "digest_url": "https://actingkaczual.github.io/SurfBud/event-5d70de06d3.html",
-   "drive_hours": 4.75,
-   "drive_miles": 280,
-   "first_day": "2026-09-01",
-   "fit": 55,
-   "front": "ocean",
-   "grade": "fair",
-   "h_m": 0.4676923076923077,
-   "key": "ocean:Narragansett Town Beach:2026-09-01",
-   "last_day": "2026-09-03",
-   "p_s": 5.596153846153846,
-   "region": "RI",
-   "score_raw": 79,
-   "score_travel_adj": 16.7,
-   "spot_notes": "Tier 1. Sand bottom, longboard-friendly. Check Matunuck same strike, 15 min west, handles more size and quieter.\n",
-   "state": "HEADS_UP",
-   "summary": "Narragansett Town Beach \u00b7 2026-09-01 to 2026-09-03 \u00b7 FAIR \u00b7 fit 55% \u00b7 bust 30% \u00b7 0.5m @ 6s",
-   "travel": "drive",
-   "wind_hi": 11.9,
-   "wind_label": "light",
-   "wind_lo": 5.5
   },
   {
    "best_spot": "Narragansett Town Beach",
@@ -798,43 +755,41 @@
    "wind_lo": 5.8
   },
   {
-   "key": "ocean:Rockaway Beach (90th St peaks):2026-09-08",
+   "best_spot": "Rockaway Beach (90th St peaks)",
+   "briefing": null,
+   "bust": 18,
    "class": "noreaster",
-   "front": "ocean",
-   "state": "HEADS_UP",
-   "first_day": "2026-09-08",
-   "last_day": "2026-09-08",
    "created": "2026-09-03",
-   "h_m": 0.2923076923076923,
-   "p_s": 9.976923076923075,
-   "wind_lo": 5.1,
-   "wind_hi": 5.1,
-   "wind_label": "light",
-   "region": "NY",
-   "drive_miles": 240,
    "day_grades": [
     {
      "date": "2026-09-08",
      "grade": "fair"
     }
    ],
-   "grade": "fair",
-   "bust": 18,
+   "dest_airport": "JFK",
+   "digest_url": "https://actingkaczual.github.io/SurfBud/event-be5acec419.html",
+   "drive_hours": 4.75,
+   "drive_miles": 240,
+   "fare_note": "Fare: fares not configured  https://www.google.com/travel/flights?q=Flights%20from%20ITH%20to%20JFK%20on%202026-09-07%20through%202026-09-09",
+   "first_day": "2026-09-08",
    "fit": 53,
+   "front": "ocean",
+   "grade": "fair",
+   "h_m": 0.2923076923076923,
+   "key": "ocean:Rockaway Beach (90th St peaks):2026-09-08",
+   "last_day": "2026-09-08",
+   "p_s": 9.976923076923075,
+   "region": "NY",
    "score_raw": 66,
    "score_travel_adj": 13.9,
-   "best_spot": "Rockaway Beach (90th St peaks)",
+   "spot_notes": "The ITH-JFK play: daily Delta nonstop, ~3hr door to sand, faster than driving. Regional jet means NO longboard in the hold; carry rubber, rent or stash a board (Boarders / Locals, 90th St). Punchy jetty peaks, best on S swell with N wind, fall hurricane season aligns with warm water. Fair day here can beat a good day 6 hrs away.\n",
+   "state": "HEADS_UP",
    "summary": "Rockaway Beach (90th St peaks) \u00b7 2026-09-08 to 2026-09-08 \u00b7 FAIR \u00b7 fit 53% \u00b7 bust 18% \u00b7 0.3m @ 10s",
    "travel": "fly_or_drive",
-   "dest_airport": "JFK",
-   "spot_notes": "The ITH-JFK play: daily Delta nonstop, ~3hr door to sand, faster than driving. Regional jet means NO longboard in the hold; carry rubber, rent or stash a board (Boarders / Locals, 90th St). Punchy jetty peaks, best on S swell with N wind, fall hurricane season aligns with warm water. Fair day here can beat a good day 6 hrs away.\n",
-   "drive_hours": 4.75,
-   "fare_note": "Fare: fares not configured  https://www.google.com/travel/flights?q=Flights%20from%20ITH%20to%20JFK%20on%202026-09-07%20through%202026-09-09",
-   "briefing": null,
-   "digest_url": "https://actingkaczual.github.io/SurfBud/event-be5acec419.html"
+   "wind_hi": 5.1,
+   "wind_label": "light",
+   "wind_lo": 5.1
   }
  ],
- "tropical": [
-  "Edouard"
- ]
+ "tropical": []
 }
