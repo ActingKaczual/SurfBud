@@ -552,3 +552,6 @@
 2026-09-08 00:19  PAST ocean:Long Sands, York ME:2026-09-07
 2026-09-08 00:19  PAST ocean:Rockaway Beach (90th St peaks):2026-09-04
 2026-09-08 00:19  PAST ocean:Rockaway Beach (90th St peaks):2026-09-07
+2026-09-08 15:04  DOWNGRADE HEADS_UP ocean:Long Sands, York ME:2026-09-10 grade=fair bust=5%
+2026-09-08 15:04  NEW HEADS_UP ocean:Long Sands, York ME:2026-09-13 grade=fair bust=18%
+2026-09-08 15:04  ADVANCE CONFIRMED ocean:Rockaway Beach (90th St peaks):2026-09-10 grade=fair bust=5%
