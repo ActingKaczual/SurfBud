@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T00:10",
+ "updated": "2026-09-09T15:05",
  "active": [
   {
    "best_spot": "Ditch Plains, Montauk",
@@ -22,23 +22,23 @@
    "drive_hours": 6.0,
    "drive_miles": 310,
    "first_day": "2026-09-11",
-   "fit": 32,
+   "fit": 42,
    "front": "ocean",
    "grade": "fair",
-   "h_m": 0.5738461538461539,
+   "h_m": 0.5661538461538462,
    "key": "ocean:Ditch Plains, Montauk:2026-09-11",
    "last_day": "2026-09-12",
-   "p_s": 6.342307692307693,
+   "p_s": 6.2846153846153845,
    "region": "NY",
-   "score_raw": 63,
-   "score_travel_adj": 10.7,
+   "score_raw": 75,
+   "score_travel_adj": 12.6,
    "spot_notes": "Tier 1. Cobble bottom, long mellow lines, longboard culture. September is the month. Crowds real but acceptable.\n",
    "state": "HEADS_UP",
-   "summary": "Ditch Plains, Montauk \u00b7 2026-09-11 to 2026-09-12 \u00b7 FAIR \u00b7 fit 32% \u00b7 bust 5% \u00b7 0.6m @ 6s",
+   "summary": "Ditch Plains, Montauk \u00b7 2026-09-11 to 2026-09-12 \u00b7 FAIR \u00b7 fit 42% \u00b7 bust 5% \u00b7 0.6m @ 6s",
    "travel": "drive",
-   "wind_hi": 13.0,
-   "wind_label": "onshore",
-   "wind_lo": 6.1
+   "wind_hi": 10.5,
+   "wind_label": "cross",
+   "wind_lo": 6.5
   },
   {
    "best_spot": "Long Sands, York ME",
@@ -49,10 +49,6 @@
    "day_grades": [
     {
      "date": "2026-09-10",
-     "grade": "good"
-    },
-    {
-     "date": "2026-09-11",
      "grade": "fair"
     }
    ],
@@ -61,23 +57,23 @@
    "drive_hours": 6.5,
    "drive_miles": 370,
    "first_day": "2026-09-10",
-   "fit": 39,
+   "fit": 29,
    "front": "ocean",
-   "grade": "good",
-   "h_m": 0.6107692307692308,
+   "grade": "fair",
+   "h_m": 0.5476923076923077,
    "key": "ocean:Long Sands, York ME:2026-09-10",
-   "last_day": "2026-09-11",
-   "p_s": 5.276923076923077,
+   "last_day": "2026-09-10",
+   "p_s": 4.5346153846153845,
    "region": "ME",
-   "score_raw": 64,
-   "score_travel_adj": 9.9,
+   "score_raw": 44,
+   "score_travel_adj": 6.9,
    "spot_notes": "Tier 2, Sept-Oct window. Uncrowded mellow beachbreak, Maine crash contacts available.\n",
    "state": "CONFIRMED",
-   "summary": "Long Sands, York ME \u00b7 2026-09-10 to 2026-09-11 \u00b7 GOOD \u00b7 fit 39% \u00b7 bust 5% \u00b7 0.6m @ 5s",
+   "summary": "Long Sands, York ME \u00b7 2026-09-10 to 2026-09-10 \u00b7 FAIR \u00b7 fit 29% \u00b7 bust 5% \u00b7 0.5m @ 5s",
    "travel": "drive",
-   "wind_hi": 12.3,
+   "wind_hi": 13.2,
    "wind_label": "offshore",
-   "wind_lo": 7.7
+   "wind_lo": 13.2
   },
   {
    "best_spot": "Long Sands, York ME",
@@ -199,7 +195,7 @@
   {
    "best_spot": "Narragansett Town Beach",
    "briefing": null,
-   "bust": 6,
+   "bust": 5,
    "class": "windswell",
    "created": "2026-09-08",
    "day_grades": [
@@ -220,20 +216,20 @@
    "fit": 42,
    "front": "ocean",
    "grade": "fair",
-   "h_m": 0.48000000000000004,
+   "h_m": 0.4938461538461538,
    "key": "ocean:Narragansett Town Beach:2026-09-11",
    "last_day": "2026-09-12",
-   "p_s": 6.623076923076923,
+   "p_s": 6.388461538461538,
    "region": "RI",
    "score_raw": 76,
-   "score_travel_adj": 16.1,
+   "score_travel_adj": 16.2,
    "spot_notes": "Tier 1. Sand bottom, longboard-friendly. Check Matunuck same strike, 15 min west, handles more size and quieter.\n",
    "state": "HEADS_UP",
-   "summary": "Narragansett Town Beach \u00b7 2026-09-11 to 2026-09-12 \u00b7 FAIR \u00b7 fit 42% \u00b7 bust 6% \u00b7 0.5m @ 7s",
+   "summary": "Narragansett Town Beach \u00b7 2026-09-11 to 2026-09-12 \u00b7 FAIR \u00b7 fit 42% \u00b7 bust 5% \u00b7 0.5m @ 6s",
    "travel": "drive",
-   "wind_hi": 7.4,
+   "wind_hi": 6.2,
    "wind_label": "light",
-   "wind_lo": 4.7
+   "wind_lo": 5.6
   },
   {
    "best_spot": "Rockaway Beach (90th St peaks)",
@@ -244,7 +240,7 @@
    "day_grades": [
     {
      "date": "2026-09-10",
-     "grade": "good"
+     "grade": "fair"
     },
     {
      "date": "2026-09-11",
@@ -261,23 +257,23 @@
    "drive_miles": 240,
    "fare_note": "Fare: fares not configured  https://www.google.com/travel/flights?q=Flights%20from%20ITH%20to%20JFK%20on%202026-09-09%20through%202026-09-13",
    "first_day": "2026-09-10",
-   "fit": 53,
+   "fit": 46,
    "front": "ocean",
-   "grade": "good",
-   "h_m": 0.8784615384615384,
+   "grade": "fair",
+   "h_m": 0.7415384615384616,
    "key": "ocean:Rockaway Beach (90th St peaks):2026-09-10",
    "last_day": "2026-09-12",
-   "p_s": 6.157692307692307,
+   "p_s": 5.5346153846153845,
    "region": "NY",
-   "score_raw": 86,
-   "score_travel_adj": 18.3,
+   "score_raw": 78,
+   "score_travel_adj": 16.6,
    "spot_notes": "The ITH-JFK play: daily Delta nonstop, ~3hr door to sand, faster than driving. Regional jet means NO longboard in the hold; carry rubber, rent or stash a board (Boarders / Locals, 90th St). Punchy jetty peaks, best on S swell with N wind, fall hurricane season aligns with warm water. Fair day here can beat a good day 6 hrs away.\n",
    "state": "CONFIRMED",
-   "summary": "Rockaway Beach (90th St peaks) \u00b7 2026-09-10 to 2026-09-12 \u00b7 GOOD \u00b7 fit 53% \u00b7 bust 5% \u00b7 0.9m @ 6s",
+   "summary": "Rockaway Beach (90th St peaks) \u00b7 2026-09-10 to 2026-09-12 \u00b7 FAIR \u00b7 fit 46% \u00b7 bust 5% \u00b7 0.7m @ 6s",
    "travel": "fly_or_drive",
-   "wind_hi": 10.6,
-   "wind_label": "offshore",
-   "wind_lo": 8.2
+   "wind_hi": 12.1,
+   "wind_label": "light",
+   "wind_lo": 7.1
   },
   {
    "best_spot": "Rockaway Beach (90th St peaks)",
@@ -324,6 +320,37 @@
    "wind_hi": 16.3,
    "wind_label": "cross",
    "wind_lo": 5.6
+  },
+  {
+   "key": "lake:Fair Haven:2026-09-10",
+   "class": "lake_wind",
+   "front": "lake",
+   "state": "CONFIRMED",
+   "first_day": "2026-09-10",
+   "last_day": "2026-09-10",
+   "created": "2026-09-09",
+   "day_grades": [
+    {
+     "date": "2026-09-10",
+     "grade": "fair"
+    }
+   ],
+   "region": "NY",
+   "drive_hours": 1.5,
+   "drive_miles": 65,
+   "wind_lo": 18,
+   "wind_hi": null,
+   "wind_label": "onshore",
+   "tod_window": "1pm-5pm",
+   "grade": "fair",
+   "bust": 32,
+   "fit": 60,
+   "best_spot": "Lake Ontario \u00b7 Fair Haven",
+   "summary": "Lake wind event \u00b7 Fair Haven \u00b7 2026-09-10 to 2026-09-10 \u00b7 FAIR \u00b7 bust 32%",
+   "travel": "drive",
+   "spot_notes": "east end wind event",
+   "briefing": null,
+   "digest_url": "https://actingkaczual.github.io/SurfBud/event-a8cc36c4dc.html"
   }
  ],
  "tropical": []
