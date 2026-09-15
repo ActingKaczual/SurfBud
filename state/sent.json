@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-08-14",
-   "title": "It's on: [FLY OK] Rockaway Beach (NY) Sat-Mon (7/25-7/27)",
-   "at": "11:54"
-  },
-  {
-   "day": "2026-08-14",
-   "title": "Brewing: Ditch Plains (NY) Fri-Sun (7/31-8/2)",
-   "at": "11:54"
-  },
-  {
    "day": "2026-08-15",
    "title": "Worth a look: Narragansett Town Beach (RI) Mon-Tue (7/27-7/28)",
    "at": "11:32"
@@ -299,19 +289,19 @@
    "day": "2026-09-14",
    "title": "Worth a look: Long Sands (ME) Sun (8/9)",
    "at": "16:56"
+  },
+  {
+   "day": "2026-09-15",
+   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Sat-Wed (8/8-8/12)",
+   "at": "15:32"
+  },
+  {
+   "day": "2026-09-15",
+   "title": "Worth a look: Ditch Plains (NY) Sun-Wed (8/9-8/12)",
+   "at": "15:32"
   }
  ],
  "queue": [
-  {
-   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Sat-Wed (8/8-8/12)",
-   "body": "39% go, 5% bust. Waist-high (1-2 ft). Onshore wind (8-11mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-7f958c2f8e.html"
-  },
-  {
-   "title": "Worth a look: Ditch Plains (NY) Sun-Wed (8/9-8/12)",
-   "body": "41% go, 5% bust. Waist-high (1-2 ft). Offshore wind (3-10mph). 6hr drive (310mi). Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-c5a35061ae.html"
-  },
   {
    "title": "Worth a look: Narragansett Town Beach (RI) Sun-Thu (8/9-8/13)",
    "body": "40% go, 5% bust. Knee-high (1-2 ft). Light wind (6-12mph). 4.75hr drive (280mi). Tap for digest.",
@@ -891,6 +881,11 @@
    "title": "It's on: Long Sands (ME) Thu-Tue (9/17-9/22)",
    "body": "41% go, 5% bust. Knee-high (1-2 ft). Light wind (4-15mph). 6.5hr drive (370mi). Tap for digest.",
    "click": "https://actingkaczual.github.io/SurfBud/event-cde0886d3b.html"
+  },
+  {
+   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Tue-Wed (9/15-9/16)",
+   "body": "24% go, 5% bust. Knee-high (1-2 ft). Light wind (6mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-c1abefd0da.html"
   }
  ]
 }
