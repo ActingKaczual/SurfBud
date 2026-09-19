@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-08-18",
-   "title": "It's on: Long Sands (ME) Mon-Wed (7/27-8/5)",
-   "at": "11:37"
-  },
-  {
-   "day": "2026-08-18",
-   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Mon (7/27)",
-   "at": "11:37"
-  },
-  {
    "day": "2026-08-19",
    "title": "Brewing: Ditch Plains (NY) Thu-Sun (7/30-8/2)",
    "at": "11:36"
@@ -299,19 +289,19 @@
    "day": "2026-09-18",
    "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Mon-Wed (8/10-8/12)",
    "at": "14:57"
+  },
+  {
+   "day": "2026-09-19",
+   "title": "Worth a look: Ditch Plains (NY) Tue (8/11)",
+   "at": "14:22"
+  },
+  {
+   "day": "2026-09-19",
+   "title": "Worth a look: Narragansett Town Beach (RI) Tue (8/11)",
+   "at": "14:22"
   }
  ],
  "queue": [
-  {
-   "title": "Worth a look: Ditch Plains (NY) Tue (8/11)",
-   "body": "30% go, 5% bust. Knee-high (1-2 ft). Cross wind (9mph). 6hr drive (310mi). Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-8249e08b4f.html"
-  },
-  {
-   "title": "Worth a look: Narragansett Town Beach (RI) Tue (8/11)",
-   "body": "30% go, 5% bust. Knee-high (1-1 ft). Cross wind (9mph). 4.75hr drive (280mi). Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-353b1c583c.html"
-  },
   {
    "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Tue (8/11)",
    "body": "30% go, 5% bust. Knee-high (1-1 ft). Cross wind (8mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
@@ -891,6 +881,11 @@
    "title": "Brewing: [FLY OK] Rockaway Beach (NY) Thu-Fri (9/24-9/25)",
    "body": "65% go, 18% bust. Well overhead (7-8 ft). Offshore wind (8-18mph). 4.75hr drive (240mi) or fly: fares not configured. Speculative; will confirm or call off. Tap for digest.",
    "click": "https://actingkaczual.github.io/SurfBud/event-33b859bd61.html"
+  },
+  {
+   "title": "Worth a look: Long Sands (ME) Sat-Tue (9/19-9/22)",
+   "body": "35% go, 5% bust. Knee-high (1-2 ft). Cross wind (8-10mph). 6.5hr drive (370mi). Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-83061c83db.html"
   }
  ]
 }
