@@ -1,92 +1,57 @@
 {
- "updated": "2026-09-19T14:22",
+ "updated": "2026-09-20T00:09",
  "active": [
   {
    "best_spot": "Long Sands, York ME",
    "briefing": null,
    "bust": 5,
-   "class": "noreaster",
-   "created": "2026-09-13",
+   "class": "windswell",
+   "created": "2026-09-19",
    "day_grades": [
     {
-     "date": "2026-09-17",
-     "grade": "fair"
-    },
-    {
-     "date": "2026-09-18",
-     "grade": "fair"
-    },
-    {
      "date": "2026-09-19",
+     "grade": "fair"
+    },
+    {
+     "date": "2026-09-20",
+     "grade": "fair"
+    },
+    {
+     "date": "2026-09-21",
+     "grade": "fair"
+    },
+    {
+     "date": "2026-09-22",
      "grade": "fair"
     }
    ],
    "dest_airport": null,
-   "digest_url": "https://actingkaczual.github.io/SurfBud/event-cde0886d3b.html",
+   "digest_url": "https://actingkaczual.github.io/SurfBud/event-83061c83db.html",
    "drive_hours": 6.5,
    "drive_miles": 370,
-   "first_day": "2026-09-17",
-   "fit": 45,
+   "first_day": "2026-09-19",
+   "fit": 35,
    "front": "ocean",
    "grade": "fair",
-   "h_m": 0.44307692307692303,
-   "key": "ocean:Long Sands, York ME:2026-09-17",
-   "last_day": "2026-09-19",
-   "p_s": 7.507692307692308,
+   "h_m": 0.33076923076923076,
+   "key": "ocean:Long Sands, York ME:2026-09-19",
+   "last_day": "2026-09-22",
+   "p_s": 6.946153846153846,
    "region": "ME",
-   "score_raw": 83,
-   "score_travel_adj": 12.9,
+   "score_raw": 82,
+   "score_travel_adj": 12.7,
    "spot_notes": "Tier 2, Sept-Oct window. Uncrowded mellow beachbreak, Maine crash contacts available.\n",
    "state": "CONFIRMED",
-   "summary": "Long Sands, York ME \u00b7 2026-09-17 to 2026-09-19 \u00b7 FAIR \u00b7 fit 45% \u00b7 bust 5% \u00b7 0.4m @ 8s",
+   "summary": "Long Sands, York ME \u00b7 2026-09-19 to 2026-09-22 \u00b7 FAIR \u00b7 fit 35% \u00b7 bust 5% \u00b7 0.3m @ 7s",
    "travel": "drive",
-   "wind_hi": 8.0,
-   "wind_label": "light",
-   "wind_lo": 4.7
+   "wind_hi": 10.3,
+   "wind_label": "cross",
+   "wind_lo": 7.7
   },
   {
    "best_spot": "Long Sands, York ME",
    "briefing": null,
    "bust": 5,
-   "class": "windswell",
-   "created": "2026-09-18",
-   "day_grades": [
-    {
-     "date": "2026-09-18",
-     "grade": "fair"
-    },
-    {
-     "date": "2026-09-19",
-     "grade": "fair"
-    }
-   ],
-   "dest_airport": null,
-   "digest_url": "https://actingkaczual.github.io/SurfBud/event-889942b1c4.html",
-   "drive_hours": 6.5,
-   "drive_miles": 370,
-   "first_day": "2026-09-18",
-   "fit": 40,
-   "front": "ocean",
-   "grade": "fair",
-   "h_m": 0.41384615384615386,
-   "key": "ocean:Long Sands, York ME:2026-09-18",
-   "last_day": "2026-09-19",
-   "p_s": 6.25,
-   "region": "ME",
-   "score_raw": 74,
-   "score_travel_adj": 11.5,
-   "spot_notes": "Tier 2, Sept-Oct window. Uncrowded mellow beachbreak, Maine crash contacts available.\n",
-   "state": "CONFIRMED",
-   "summary": "Long Sands, York ME \u00b7 2026-09-18 to 2026-09-19 \u00b7 FAIR \u00b7 fit 40% \u00b7 bust 5% \u00b7 0.4m @ 6s",
-   "travel": "drive",
-   "wind_hi": 8.1,
-   "wind_label": "onshore",
-   "wind_lo": 8.0
-  },
-  {
-   "best_spot": "Long Sands, York ME",
-   "briefing": null,
-   "bust": 6,
    "class": "windswell",
    "created": "2026-09-18",
    "day_grades": [
@@ -103,20 +68,20 @@
    "fit": 30,
    "front": "ocean",
    "grade": "fair",
-   "h_m": 0.2938461538461538,
+   "h_m": 0.3630769230769231,
    "key": "ocean:Long Sands, York ME:2026-09-21",
    "last_day": "2026-09-21",
-   "p_s": 8.057692307692308,
+   "p_s": 6.199999999999999,
    "region": "ME",
    "score_raw": 64,
-   "score_travel_adj": 9.9,
+   "score_travel_adj": 10.0,
    "spot_notes": "Tier 2, Sept-Oct window. Uncrowded mellow beachbreak, Maine crash contacts available.\n",
-   "state": "HEADS_UP",
-   "summary": "Long Sands, York ME \u00b7 2026-09-21 to 2026-09-21 \u00b7 FAIR \u00b7 fit 30% \u00b7 bust 6% \u00b7 0.3m @ 8s",
+   "state": "CONFIRMED",
+   "summary": "Long Sands, York ME \u00b7 2026-09-21 to 2026-09-21 \u00b7 FAIR \u00b7 fit 30% \u00b7 bust 5% \u00b7 0.4m @ 6s",
    "travel": "drive",
-   "wind_hi": 8.8,
+   "wind_hi": 8.5,
    "wind_label": "cross",
-   "wind_lo": 8.8
+   "wind_lo": 8.5
   },
   {
    "best_spot": "Long Sands, York ME",
@@ -260,20 +225,20 @@
    "fit": 10,
    "front": "ocean",
    "grade": "fair",
-   "h_m": 0.36615384615384616,
+   "h_m": 0.38,
    "key": "ocean:Narragansett Town Beach:2026-09-21",
    "last_day": "2026-09-21",
-   "p_s": 7.269230769230769,
+   "p_s": 7.0807692307692305,
    "region": "RI",
    "score_raw": 43,
    "score_travel_adj": 9.2,
    "spot_notes": "Tier 1. Sand bottom, longboard-friendly. Check Matunuck same strike, 15 min west, handles more size and quieter.\n",
-   "state": "HEADS_UP",
+   "state": "CONFIRMED",
    "summary": "Narragansett Town Beach \u00b7 2026-09-21 to 2026-09-21 \u00b7 FAIR \u00b7 fit 10% \u00b7 bust 5% \u00b7 0.4m @ 7s",
    "travel": "drive",
-   "wind_hi": 15.5,
+   "wind_hi": 15.2,
    "wind_label": "offshore",
-   "wind_lo": 15.5
+   "wind_lo": 15.2
   },
   {
    "best_spot": "Narragansett Town Beach",
@@ -463,52 +428,81 @@
    "wind_lo": 8.3
   },
   {
-   "key": "ocean:Long Sands, York ME:2026-09-19",
+   "key": "ocean:Ditch Plains, Montauk:2026-09-21",
    "class": "windswell",
    "front": "ocean",
    "state": "CONFIRMED",
-   "first_day": "2026-09-19",
-   "last_day": "2026-09-22",
-   "created": "2026-09-19",
-   "h_m": 0.33076923076923076,
-   "p_s": 6.946153846153846,
-   "wind_lo": 7.7,
-   "wind_hi": 10.3,
-   "wind_label": "cross",
-   "region": "ME",
-   "drive_miles": 370,
+   "first_day": "2026-09-21",
+   "last_day": "2026-09-21",
+   "created": "2026-09-20",
+   "h_m": 0.4246153846153847,
+   "p_s": 7.4,
+   "wind_lo": 20.3,
+   "wind_hi": 20.3,
+   "wind_label": "offshore",
+   "region": "NY",
+   "drive_miles": 310,
    "day_grades": [
     {
-     "date": "2026-09-19",
-     "grade": "fair"
-    },
-    {
-     "date": "2026-09-20",
-     "grade": "fair"
-    },
-    {
      "date": "2026-09-21",
-     "grade": "fair"
-    },
-    {
-     "date": "2026-09-22",
      "grade": "fair"
     }
    ],
    "grade": "fair",
    "bust": 5,
    "fit": 35,
-   "score_raw": 82,
-   "score_travel_adj": 12.7,
+   "score_raw": 46,
+   "score_travel_adj": 7.7,
+   "best_spot": "Ditch Plains, Montauk",
+   "summary": "Ditch Plains, Montauk \u00b7 2026-09-21 to 2026-09-21 \u00b7 FAIR \u00b7 fit 35% \u00b7 bust 5% \u00b7 0.4m @ 7s",
+   "travel": "drive",
+   "dest_airport": null,
+   "spot_notes": "Tier 1. Cobble bottom, long mellow lines, longboard culture. September is the month. Crowds real but acceptable.\n",
+   "drive_hours": 6.0,
+   "briefing": null,
+   "digest_url": "https://actingkaczual.github.io/SurfBud/event-241b154b7f.html"
+  },
+  {
+   "key": "ocean:Long Sands, York ME:2026-09-24",
+   "class": "noreaster",
+   "front": "ocean",
+   "state": "HEADS_UP",
+   "first_day": "2026-09-24",
+   "last_day": "2026-09-25",
+   "created": "2026-09-20",
+   "h_m": 2.4476923076923076,
+   "p_s": 10.453846153846154,
+   "wind_lo": 13.0,
+   "wind_hi": 13.6,
+   "wind_label": "cross",
+   "region": "ME",
+   "drive_miles": 370,
+   "day_grades": [
+    {
+     "date": "2026-09-24",
+     "grade": "fair"
+    },
+    {
+     "date": "2026-09-25",
+     "grade": "fair"
+    }
+   ],
+   "grade": "fair",
+   "bust": 12,
+   "fit": 33,
+   "score_raw": 51,
+   "score_travel_adj": 7.9,
    "best_spot": "Long Sands, York ME",
-   "summary": "Long Sands, York ME \u00b7 2026-09-19 to 2026-09-22 \u00b7 FAIR \u00b7 fit 35% \u00b7 bust 5% \u00b7 0.3m @ 7s",
+   "summary": "Long Sands, York ME \u00b7 2026-09-24 to 2026-09-25 \u00b7 FAIR \u00b7 fit 33% \u00b7 bust 12% \u00b7 2.4m @ 10s",
    "travel": "drive",
    "dest_airport": null,
    "spot_notes": "Tier 2, Sept-Oct window. Uncrowded mellow beachbreak, Maine crash contacts available.\n",
    "drive_hours": 6.5,
    "briefing": null,
-   "digest_url": "https://actingkaczual.github.io/SurfBud/event-83061c83db.html"
+   "digest_url": "https://actingkaczual.github.io/SurfBud/event-d181a61608.html"
   }
  ],
- "tropical": []
+ "tropical": [
+  "Six"
+ ]
 }
