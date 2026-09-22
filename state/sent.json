@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-08-21",
-   "title": "Worth a look: Ditch Plains (NY) Tue (7/28)",
-   "at": "11:37"
-  },
-  {
-   "day": "2026-08-21",
-   "title": "Worth a look: Narragansett Town Beach (RI) Tue (7/28)",
-   "at": "11:37"
-  },
-  {
    "day": "2026-08-22",
    "title": "It's on: Long Sands (ME) Tue-Wed (7/28-8/5)",
    "at": "11:32"
@@ -299,19 +289,19 @@
    "day": "2026-09-21",
    "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Thu (8/13)",
    "at": "17:00"
+  },
+  {
+   "day": "2026-09-22",
+   "title": "Brewing: [FLY OK] Rockaway Beach (NY) Mon-Wed (8/17-8/19)",
+   "at": "15:30"
+  },
+  {
+   "day": "2026-09-22",
+   "title": "Brewing: Ditch Plains (NY) Mon-Wed (8/17-8/19)",
+   "at": "15:30"
   }
  ],
  "queue": [
-  {
-   "title": "Brewing: [FLY OK] Rockaway Beach (NY) Mon-Wed (8/17-8/19)",
-   "body": "52% go, 18% bust. Waist-high (2-3 ft). Light wind (7-12mph). 4.75hr drive (240mi) or fly: fares not configured. Speculative; will confirm or call off. Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-7347cc12b4.html"
-  },
-  {
-   "title": "Brewing: Ditch Plains (NY) Mon-Wed (8/17-8/19)",
-   "body": "60% go, 6% bust. Waist-high (2-3 ft). Cross wind (8-26mph). 6hr drive (310mi). Speculative; will confirm or call off. Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-9c87c24b70.html"
-  },
   {
    "title": "Brewing: Narragansett Town Beach (RI) Mon-Wed (8/17-8/19)",
    "body": "60% go, 6% bust. Waist-high (2-3 ft). Light wind (7-17mph). 4.75hr drive (280mi). Speculative; will confirm or call off. Tap for digest.",
@@ -916,6 +906,11 @@
    "title": "It's on: Long Sands (ME) Thu-Wed (9/24-9/30)",
    "body": "68% go, 6% bust. Well overhead (6-7 ft). Cross wind (6-13mph). 6.5hr drive (370mi). Tap for digest.",
    "click": "https://actingkaczual.github.io/SurfBud/event-d181a61608.html"
+  },
+  {
+   "title": "Worth a look: Long Sands (ME) Tue (9/22)",
+   "body": "27% go, 5% bust. Knee-high (1-2 ft). Cross wind (10mph). 6.5hr drive (370mi). Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-38afbce132.html"
   }
  ]
 }
