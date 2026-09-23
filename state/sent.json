@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-08-22",
-   "title": "It's on: Long Sands (ME) Tue-Wed (7/28-8/5)",
-   "at": "11:32"
-  },
-  {
-   "day": "2026-08-22",
-   "title": "It's on: [FLY OK] Rockaway Beach (NY) Tue-Thu (7/28-8/6)",
-   "at": "11:32"
-  },
-  {
    "day": "2026-08-23",
    "title": "It's on: Ditch Plains (NY) Wed-Sat (7/29-8/1)",
    "at": "11:33"
@@ -299,19 +289,19 @@
    "day": "2026-09-22",
    "title": "Brewing: Ditch Plains (NY) Mon-Wed (8/17-8/19)",
    "at": "15:30"
+  },
+  {
+   "day": "2026-09-23",
+   "title": "Brewing: Narragansett Town Beach (RI) Mon-Wed (8/17-8/19)",
+   "at": "15:26"
+  },
+  {
+   "day": "2026-09-23",
+   "title": "Brewing: Ditch Plains (NY) Tue-Thu (8/18-8/20)",
+   "at": "15:26"
   }
  ],
  "queue": [
-  {
-   "title": "Brewing: Narragansett Town Beach (RI) Mon-Wed (8/17-8/19)",
-   "body": "60% go, 6% bust. Waist-high (2-3 ft). Light wind (7-17mph). 4.75hr drive (280mi). Speculative; will confirm or call off. Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-3afafbc68c.html"
-  },
-  {
-   "title": "Brewing: Ditch Plains (NY) Tue-Thu (8/18-8/20)",
-   "body": "61% go, 6% bust. Waist-high (2-3 ft). Light wind (4-10mph). 6hr drive (310mi). Speculative; will confirm or call off. Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-37fc872b58.html"
-  },
   {
    "title": "Brewing: Narragansett Town Beach (RI) Tue-Thu (8/18-8/20)",
    "body": "61% go, 6% bust. Waist-high (2-3 ft). Light wind (5-10mph). 4.75hr drive (280mi). Speculative; will confirm or call off. Tap for digest.",
