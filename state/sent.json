@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-08-23",
-   "title": "It's on: Ditch Plains (NY) Wed-Sat (7/29-8/1)",
-   "at": "11:33"
-  },
-  {
-   "day": "2026-08-23",
-   "title": "It's on: [FLY OK] Rockaway Beach (NY) Wed-Thu (7/29-8/6)",
-   "at": "11:33"
-  },
-  {
    "day": "2026-08-24",
    "title": "It's on: Ditch Plains (NY) Thu-Sat (7/30-8/1)",
    "at": "11:42"
@@ -299,19 +289,19 @@
    "day": "2026-09-23",
    "title": "Brewing: Ditch Plains (NY) Tue-Thu (8/18-8/20)",
    "at": "15:26"
+  },
+  {
+   "day": "2026-09-24",
+   "title": "Brewing: Narragansett Town Beach (RI) Tue-Thu (8/18-8/20)",
+   "at": "15:48"
+  },
+  {
+   "day": "2026-09-24",
+   "title": "Brewing: Long Sands (ME) Mon-Mon (8/17-8/24)",
+   "at": "15:48"
   }
  ],
  "queue": [
-  {
-   "title": "Brewing: Narragansett Town Beach (RI) Tue-Thu (8/18-8/20)",
-   "body": "61% go, 6% bust. Waist-high (2-3 ft). Light wind (5-10mph). 4.75hr drive (280mi). Speculative; will confirm or call off. Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-1c82aa7cf1.html"
-  },
-  {
-   "title": "Brewing: Long Sands (ME) Mon-Mon (8/17-8/24)",
-   "body": "48% go, 5% bust. Knee-high (1-2 ft). Light wind (6-8mph). 6.5hr drive (370mi). Speculative; will confirm or call off. Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-ded2de1ddc.html"
-  },
   {
    "title": "Brewing: Long Sands (ME) Tue-Mon (8/18-8/24)",
    "body": "50% go, 6% bust. Chest-high (2-3 ft). Light wind (3-7mph). 6.5hr drive (370mi). Speculative; will confirm or call off. Tap for digest.",
@@ -906,6 +896,11 @@
    "title": "It's on: [FLY OK] Rockaway Beach (NY) Thu-Sat (9/24-9/26)",
    "body": "43% go, 5% bust. Chest-high (2-3 ft). Offshore wind (16-18mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
    "click": "https://actingkaczual.github.io/SurfBud/event-33b859bd61.html"
+  },
+  {
+   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Sat (9/26)",
+   "body": "31% go, 5% bust. Overhead (5-6 ft). Offshore wind (19mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-8ad8af1971.html"
   }
  ]
 }
