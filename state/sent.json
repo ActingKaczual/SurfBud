@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-08-25",
-   "title": "Worth a look: Long Sands (ME) Wed (7/29)",
-   "at": "11:40"
-  },
-  {
-   "day": "2026-08-25",
-   "title": "Brewing: Long Sands (ME) Fri-Wed (7/31-8/5)",
-   "at": "11:40"
-  },
-  {
    "day": "2026-08-26",
    "title": "It's on: Long Sands (ME) Thu-Sat (7/30-8/1)",
    "at": "11:42"
@@ -299,19 +289,19 @@
    "day": "2026-09-25",
    "title": "It's on: [FLY OK] Rockaway Beach (NY) Mon-Mon (8/17-8/24)",
    "at": "15:48"
+  },
+  {
+   "day": "2026-09-26",
+   "title": "Week ahead: both fronts",
+   "at": "14:57"
+  },
+  {
+   "day": "2026-09-26",
+   "title": "It's on: Narragansett Town Beach (RI) Mon-Thu (8/17-8/20)",
+   "at": "14:57"
   }
  ],
  "queue": [
-  {
-   "title": "Week ahead: both fronts",
-   "body": "Ditch Plains: good Mon-Thu, solid bet (5% bust)\nLong Sands: good Mon-Mon, solid bet (5% bust)\nNarragansett Town Beach: good Mon-Thu, solid bet (5% bust)\nRockaway Beach: good Mon-Mon, solid bet (5% bust)\nDitch Plains: good Tue-Fri, solid bet (5% bust)\nLong Sands: fair Tue-Mon, solid bet (5% bust)",
-   "click": "https://actingkaczual.github.io/SurfBud"
-  },
-  {
-   "title": "It's on: Narragansett Town Beach (RI) Mon-Thu (8/17-8/20)",
-   "body": "40% go, 5% bust. Knee-high (1-2 ft). Cross wind (5-12mph). 4.75hr drive (280mi). Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-3afafbc68c.html"
-  },
   {
    "title": "It's on: Long Sands (ME) Tue-Tue (8/18-8/25)",
    "body": "61% go, 5% bust. Waist-high (2-3 ft). Light wind (4-10mph). 6.5hr drive (370mi). Tap for digest.",
@@ -916,6 +906,11 @@
    "title": "Brewing: [FLY OK] Rockaway Beach (NY) Mon-Sun (9/28-10/4)",
    "body": "43% go, 6% bust. Waist-high (1-2 ft). Light wind (3-15mph). 4.75hr drive (240mi) or fly: fares not configured. Speculative; will confirm or call off. Tap for digest.",
    "click": "https://actingkaczual.github.io/SurfBud/event-f2f7c2ba93.html"
+  },
+  {
+   "title": "It's on: Long Sands (ME) Tue-Sat (9/29-10/3)",
+   "body": "53% go, 6% bust. Waist-high (1-2 ft). Light wind (6-11mph). 6.5hr drive (370mi). Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-37a5f15564.html"
   }
  ]
 }
