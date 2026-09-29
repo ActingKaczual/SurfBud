@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-08-30",
-   "title": "It's on: Narragansett Town Beach (RI) Fri-Sun (7/31-8/2)",
-   "at": "15:19"
-  },
-  {
-   "day": "2026-08-30",
-   "title": "It's on: Long Sands (ME) Fri-Sat (7/31-8/1)",
-   "at": "15:19"
-  },
-  {
    "day": "2026-08-31",
    "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Fri-Sat (7/31-8/1)",
    "at": "17:59"
@@ -299,19 +289,19 @@
    "day": "2026-09-28",
    "title": "It's on: Ditch Plains (NY) Tue-Fri (8/18-8/21)",
    "at": "18:34"
+  },
+  {
+   "day": "2026-09-29",
+   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Tue-Wed (8/18-8/19)",
+   "at": "16:52"
+  },
+  {
+   "day": "2026-09-29",
+   "title": "Worth a look: Ditch Plains (NY) Wed-Mon (8/19-8/24)",
+   "at": "16:52"
   }
  ],
  "queue": [
-  {
-   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Tue-Wed (8/18-8/19)",
-   "body": "54% go, 5% bust. Waist-high (1-2 ft). Light wind (5mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-1aefebe84e.html"
-  },
-  {
-   "title": "Worth a look: Ditch Plains (NY) Wed-Mon (8/19-8/24)",
-   "body": "46% go, 5% bust. Waist-high (1-2 ft). Cross wind (4-11mph). 6hr drive (310mi). Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-354074471c.html"
-  },
   {
    "title": "Worth a look: Narragansett Town Beach (RI) Wed-Thu (8/19-8/20)",
    "body": "42% go, 5% bust. Waist-high (1-2 ft). Onshore wind (6-8mph). 4.75hr drive (280mi). Tap for digest.",
@@ -926,6 +916,16 @@
    "title": "It's on: [FLY OK] Rockaway Beach (NY) Tue-Sat (9/29-10/3)",
    "body": "54% go, 5% bust. Knee-high (1-2 ft). Light wind (5-11mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
    "click": "https://actingkaczual.github.io/SurfBud/event-7233d60f34.html"
+  },
+  {
+   "title": "Worth a look: Ditch Plains (NY) Tue-Wed (9/29-9/30)",
+   "body": "25% go, 5% bust. Knee-high (1-2 ft). Light wind (5-8mph). 6hr drive (310mi). Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-6d8ee7a908.html"
+  },
+  {
+   "title": "Worth a look: Narragansett Town Beach (RI) Tue (9/29)",
+   "body": "30% go, 5% bust. Knee-high (1-2 ft). Light wind (6mph). 4.75hr drive (280mi). Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-2e922ee907.html"
   }
  ]
 }
