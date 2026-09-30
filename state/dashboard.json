@@ -1,49 +1,6 @@
 {
- "updated": "2026-09-29T16:53",
+ "updated": "2026-09-30T01:16",
  "active": [
-  {
-   "best_spot": "Ditch Plains, Montauk",
-   "briefing": null,
-   "bust": 5,
-   "class": "windswell",
-   "created": "2026-09-27",
-   "day_grades": [
-    {
-     "date": "2026-09-27",
-     "grade": "fair"
-    },
-    {
-     "date": "2026-09-28",
-     "grade": "fair"
-    },
-    {
-     "date": "2026-09-29",
-     "grade": "fair"
-    }
-   ],
-   "dest_airport": null,
-   "digest_url": "https://actingkaczual.github.io/SurfBud/event-e01c1496e3.html",
-   "drive_hours": 6.0,
-   "drive_miles": 310,
-   "first_day": "2026-09-27",
-   "fit": 45,
-   "front": "ocean",
-   "grade": "fair",
-   "h_m": 0.9292307692307692,
-   "key": "ocean:Ditch Plains, Montauk:2026-09-27",
-   "last_day": "2026-09-29",
-   "p_s": 5.6461538461538465,
-   "region": "NY",
-   "score_raw": 70,
-   "score_travel_adj": 11.8,
-   "spot_notes": "Tier 1. Cobble bottom, long mellow lines, longboard culture. September is the month. Crowds real but acceptable.\n",
-   "state": "CONFIRMED",
-   "summary": "Ditch Plains, Montauk \u00b7 2026-09-27 to 2026-09-29 \u00b7 FAIR \u00b7 fit 45% \u00b7 bust 5% \u00b7 0.9m @ 6s",
-   "travel": "drive",
-   "wind_hi": 16.4,
-   "wind_label": "cross",
-   "wind_lo": 9.6
-  },
   {
    "best_spot": "Ditch Plains, Montauk",
    "briefing": null,
@@ -193,53 +150,6 @@
    "best_spot": "Narragansett Town Beach",
    "briefing": null,
    "bust": 5,
-   "class": "noreaster",
-   "created": "2026-09-20",
-   "day_grades": [
-    {
-     "date": "2026-09-26",
-     "grade": "good"
-    },
-    {
-     "date": "2026-09-27",
-     "grade": "fair"
-    },
-    {
-     "date": "2026-09-28",
-     "grade": "good"
-    },
-    {
-     "date": "2026-09-29",
-     "grade": "fair"
-    }
-   ],
-   "dest_airport": null,
-   "digest_url": "https://actingkaczual.github.io/SurfBud/event-37e2eb33a2.html",
-   "drive_hours": 4.75,
-   "drive_miles": 280,
-   "first_day": "2026-09-26",
-   "fit": 64,
-   "front": "ocean",
-   "grade": "good",
-   "h_m": 0.8953846153846154,
-   "key": "ocean:Narragansett Town Beach:2026-09-26",
-   "last_day": "2026-09-29",
-   "p_s": 10.446153846153846,
-   "region": "RI",
-   "score_raw": 78,
-   "score_travel_adj": 16.5,
-   "spot_notes": "Tier 1. Sand bottom, longboard-friendly. Check Matunuck same strike, 15 min west, handles more size and quieter.\n",
-   "state": "CONFIRMED",
-   "summary": "Narragansett Town Beach \u00b7 2026-09-26 to 2026-09-29 \u00b7 GOOD \u00b7 fit 64% \u00b7 bust 5% \u00b7 0.9m @ 10s",
-   "travel": "drive",
-   "wind_hi": 21.6,
-   "wind_label": "onshore",
-   "wind_lo": 7.5
-  },
-  {
-   "best_spot": "Narragansett Town Beach",
-   "briefing": null,
-   "bust": 5,
    "class": "windswell",
    "created": "2026-09-27",
    "day_grades": [
@@ -285,45 +195,6 @@
   },
   {
    "best_spot": "Narragansett Town Beach",
-   "briefing": null,
-   "bust": 5,
-   "class": "windswell",
-   "created": "2026-09-28",
-   "day_grades": [
-    {
-     "date": "2026-09-28",
-     "grade": "good"
-    },
-    {
-     "date": "2026-09-29",
-     "grade": "fair"
-    }
-   ],
-   "dest_airport": null,
-   "digest_url": "https://actingkaczual.github.io/SurfBud/event-17b4f800b1.html",
-   "drive_hours": 4.75,
-   "drive_miles": 280,
-   "first_day": "2026-09-28",
-   "fit": 65,
-   "front": "ocean",
-   "grade": "good",
-   "h_m": 0.6523076923076924,
-   "key": "ocean:Narragansett Town Beach:2026-09-28",
-   "last_day": "2026-09-29",
-   "p_s": 7.1923076923076925,
-   "region": "RI",
-   "score_raw": 80,
-   "score_travel_adj": 16.9,
-   "spot_notes": "Tier 1. Sand bottom, longboard-friendly. Check Matunuck same strike, 15 min west, handles more size and quieter.\n",
-   "state": "CONFIRMED",
-   "summary": "Narragansett Town Beach \u00b7 2026-09-28 to 2026-09-29 \u00b7 GOOD \u00b7 fit 65% \u00b7 bust 5% \u00b7 0.7m @ 7s",
-   "travel": "drive",
-   "wind_hi": 11.5,
-   "wind_label": "cross",
-   "wind_lo": 6.5
-  },
-  {
-   "best_spot": "Narragansett Town Beach",
    "bust": 30,
    "class": "noreaster",
    "created": "2026-09-24",
@@ -359,50 +230,6 @@
    "wind_hi": 15.5,
    "wind_label": "offshore",
    "wind_lo": 11.1
-  },
-  {
-   "best_spot": "Rockaway Beach (90th St peaks)",
-   "briefing": null,
-   "bust": 12,
-   "class": "noreaster",
-   "created": "2026-09-23",
-   "day_grades": [
-    {
-     "date": "2026-09-27",
-     "grade": "fair"
-    },
-    {
-     "date": "2026-09-28",
-     "grade": "fair"
-    },
-    {
-     "date": "2026-09-29",
-     "grade": "fair"
-    }
-   ],
-   "dest_airport": "JFK",
-   "digest_url": "https://actingkaczual.github.io/SurfBud/event-fc2634b006.html",
-   "drive_hours": 4.75,
-   "drive_miles": 240,
-   "fare_note": "Fare: fares not configured  https://www.google.com/travel/flights?q=Flights%20from%20ITH%20to%20JFK%20on%202026-09-26%20through%202026-09-30",
-   "first_day": "2026-09-27",
-   "fit": 36,
-   "front": "ocean",
-   "grade": "fair",
-   "h_m": 0.3923076923076923,
-   "key": "ocean:Rockaway Beach (90th St peaks):2026-09-27",
-   "last_day": "2026-09-29",
-   "p_s": 9.826923076923077,
-   "region": "NY",
-   "score_raw": 82,
-   "score_travel_adj": 17.3,
-   "spot_notes": "The ITH-JFK play: daily Delta nonstop, ~3hr door to sand, faster than driving. Regional jet means NO longboard in the hold; carry rubber, rent or stash a board (Boarders / Locals, 90th St). Punchy jetty peaks, best on S swell with N wind, fall hurricane season aligns with warm water. Fair day here can beat a good day 6 hrs away.\n",
-   "state": "HEADS_UP",
-   "summary": "Rockaway Beach (90th St peaks) \u00b7 2026-09-27 to 2026-09-29 \u00b7 FAIR \u00b7 fit 36% \u00b7 bust 12% \u00b7 0.4m @ 10s",
-   "travel": "fly_or_drive",
-   "wind_hi": 8.1,
-   "wind_label": "light",
-   "wind_lo": 3.6
   },
   {
    "best_spot": "Rockaway Beach (90th St peaks)",
@@ -561,39 +388,105 @@
    "wind_lo": 5.1
   },
   {
-   "key": "ocean:Narragansett Town Beach:2026-09-29",
+   "key": "ocean:Ditch Plains, Montauk:2026-10-03",
    "class": "windswell",
    "front": "ocean",
-   "state": "CONFIRMED",
-   "first_day": "2026-09-29",
-   "last_day": "2026-09-29",
-   "created": "2026-09-29",
-   "h_m": 0.39384615384615385,
-   "p_s": 6.384615384615385,
-   "wind_lo": 5.6,
-   "wind_hi": 5.6,
-   "wind_label": "light",
-   "region": "RI",
-   "drive_miles": 280,
+   "state": "HEADS_UP",
+   "first_day": "2026-10-03",
+   "last_day": "2026-10-03",
+   "created": "2026-09-30",
+   "h_m": 0.5015384615384616,
+   "p_s": 5.742307692307692,
+   "wind_lo": 12.9,
+   "wind_hi": 12.9,
+   "wind_label": "cross",
+   "region": "NY",
+   "drive_miles": 310,
    "day_grades": [
     {
-     "date": "2026-09-29",
+     "date": "2026-10-03",
      "grade": "fair"
     }
    ],
    "grade": "fair",
-   "bust": 5,
-   "fit": 30,
-   "score_raw": 66,
-   "score_travel_adj": 14.0,
+   "bust": 6,
+   "fit": 35,
+   "score_raw": 45,
+   "score_travel_adj": 7.6,
+   "best_spot": "Ditch Plains, Montauk",
+   "summary": "Ditch Plains, Montauk \u00b7 2026-10-03 to 2026-10-03 \u00b7 FAIR \u00b7 fit 35% \u00b7 bust 6% \u00b7 0.5m @ 6s",
+   "travel": "drive",
+   "dest_airport": null,
+   "spot_notes": "Tier 1. Cobble bottom, long mellow lines, longboard culture. September is the month. Crowds real but acceptable.\n",
+   "drive_hours": 6.0,
+   "briefing": null,
+   "digest_url": "https://actingkaczual.github.io/SurfBud/event-7290b193c8.html"
+  },
+  {
+   "key": "ocean:Narragansett Town Beach:2026-10-03",
+   "class": "windswell",
+   "front": "ocean",
+   "state": "HEADS_UP",
+   "first_day": "2026-10-03",
+   "last_day": "2026-10-03",
+   "created": "2026-09-30",
+   "h_m": 0.4461538461538461,
+   "p_s": 6.611538461538462,
+   "wind_lo": 10.5,
+   "wind_hi": 10.5,
+   "wind_label": "cross",
+   "region": "RI",
+   "drive_miles": 280,
+   "day_grades": [
+    {
+     "date": "2026-10-03",
+     "grade": "fair"
+    }
+   ],
+   "grade": "fair",
+   "bust": 6,
+   "fit": 55,
+   "score_raw": 70,
+   "score_travel_adj": 14.7,
    "best_spot": "Narragansett Town Beach",
-   "summary": "Narragansett Town Beach \u00b7 2026-09-29 to 2026-09-29 \u00b7 FAIR \u00b7 fit 30% \u00b7 bust 5% \u00b7 0.4m @ 6s",
+   "summary": "Narragansett Town Beach \u00b7 2026-10-03 to 2026-10-03 \u00b7 FAIR \u00b7 fit 55% \u00b7 bust 6% \u00b7 0.4m @ 7s",
    "travel": "drive",
    "dest_airport": null,
    "spot_notes": "Tier 1. Sand bottom, longboard-friendly. Check Matunuck same strike, 15 min west, handles more size and quieter.\n",
    "drive_hours": 4.75,
    "briefing": null,
-   "digest_url": "https://actingkaczual.github.io/SurfBud/event-2e922ee907.html"
+   "digest_url": "https://actingkaczual.github.io/SurfBud/event-4e396c30bf.html"
+  },
+  {
+   "key": "lake:Sodus:2026-10-02",
+   "class": "lake_wind",
+   "front": "lake",
+   "state": "HEADS_UP",
+   "first_day": "2026-10-02",
+   "last_day": "2026-10-02",
+   "created": "2026-09-30",
+   "day_grades": [
+    {
+     "date": "2026-10-02",
+     "grade": "fair"
+    }
+   ],
+   "region": "NY",
+   "drive_hours": 1.75,
+   "drive_miles": 80,
+   "wind_lo": 18,
+   "wind_hi": null,
+   "wind_label": "onshore",
+   "tod_window": "10am-6pm",
+   "grade": "fair",
+   "bust": 44,
+   "fit": 60,
+   "best_spot": "Lake Ontario \u00b7 Sodus",
+   "summary": "Lake wind event \u00b7 Sodus \u00b7 2026-10-02 to 2026-10-02 \u00b7 FAIR \u00b7 bust 44%",
+   "travel": "drive",
+   "spot_notes": "east end wind event",
+   "briefing": null,
+   "digest_url": "https://actingkaczual.github.io/SurfBud/event-58d9399aff.html"
   }
  ],
  "tropical": [
