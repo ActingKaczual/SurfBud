@@ -729,3 +729,7 @@
 2026-10-02 16:37  NEW CONFIRMED ocean:Rockaway Beach (90th St peaks):2026-10-02 grade=fair bust=5%
 2026-10-03 01:09  PAST lake:Sodus:2026-10-02
 2026-10-03 01:09  PAST ocean:Narragansett Town Beach:2026-10-01
+2026-10-03 15:08  NEW CONFIRMED ocean:Long Sands, York ME:2026-10-03 grade=good bust=5%
+2026-10-03 15:08  NEW CONFIRMED ocean:Rockaway Beach (90th St peaks):2026-10-03 grade=fair bust=5%
+2026-10-03 15:08  DOWNGRADE HEADS_UP ocean:Rockaway Beach (90th St peaks):2026-10-05 grade=fair bust=5%
+2026-10-03 15:08  ADVANCE HEADS_UP lake:Sodus:2026-10-05 grade=fair bust=44%
