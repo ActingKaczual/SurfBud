@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-09-04",
-   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Sat (8/1)",
-   "at": "14:55"
-  },
-  {
-   "day": "2026-09-04",
-   "title": "Worth a look: Narragansett Town Beach (RI) Sun (8/2)",
-   "at": "14:55"
-  },
-  {
    "day": "2026-09-05",
    "title": "Brewing: Long Sands (ME) Tue-Fri (8/4-8/7)",
    "at": "13:51"
@@ -299,19 +289,19 @@
    "day": "2026-10-03",
    "title": "Worth a look: Ditch Plains (NY) Sat (8/22)",
    "at": "15:08"
+  },
+  {
+   "day": "2026-10-04",
+   "title": "It's on: Long Sands (ME) Fri-Tue (8/21-8/25)",
+   "at": "15:46"
+  },
+  {
+   "day": "2026-10-04",
+   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Fri (8/21)",
+   "at": "15:46"
   }
  ],
  "queue": [
-  {
-   "title": "It's on: Long Sands (ME) Fri-Tue (8/21-8/25)",
-   "body": "59% go, 5% bust. Waist-high (1-2 ft). Onshore wind (5-11mph). 6.5hr drive (370mi). Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-85fe5367a9.html"
-  },
-  {
-   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Fri (8/21)",
-   "body": "30% go, 5% bust. Knee-high (1-1 ft). Offshore wind (10mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-f8b7d9b6c6.html"
-  },
   {
    "title": "It's on: Long Sands (ME) Sat-Mon (8/22-8/31)",
    "body": "49% go, 5% bust. Knee-high (1-2 ft). Onshore wind (5-11mph). 6.5hr drive (370mi). Tap for digest.",
@@ -966,6 +956,11 @@
    "title": "Week ahead: both fronts",
    "body": "Long Sands: good Tue-Tue, solid bet (5% bust)\nLong Sands: good Wed-Tue, solid bet (5% bust)\nLong Sands: good Thu-Tue, solid bet (5% bust)\nLong Sands: good Fri-Tue, solid bet (5% bust)\nLong Sands: good Sat-Tue, solid bet (5% bust)\nLake Ontario \u00b7 Sodus: good Mon, likely holds (32% bust)",
    "click": "https://actingkaczual.github.io/SurfBud"
+  },
+  {
+   "title": "It's on: Long Sands (ME) Sun-Tue (10/4-10/6)",
+   "body": "46% go, 5% bust. Knee-high (1-2 ft). Offshore wind (6-14mph). 6.5hr drive (370mi). Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-764aee4807.html"
   }
  ]
 }

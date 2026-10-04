@@ -140,6 +140,37 @@
   "summary": "Lake wind event \u00b7 Oswego east \u00b7 2026-07-14 to 2026-07-14 \u00b7 FAIR \u00b7 bust 20%",
   "travel": "drive"
  },
+ "lake:Oswego east:2026-10-05": {
+  "best_spot": "Lake Ontario \u00b7 Oswego east",
+  "briefing": null,
+  "bust": 32,
+  "class": "lake_wind",
+  "created": "2026-10-04",
+  "day_grades": [
+   {
+    "date": "2026-10-05",
+    "grade": "fair"
+   }
+  ],
+  "digest_url": "https://actingkaczual.github.io/SurfBud/event-a3424ff312.html",
+  "drive_hours": 1.25,
+  "drive_miles": 60,
+  "first_day": "2026-10-05",
+  "fit": 60,
+  "front": "lake",
+  "grade": "fair",
+  "key": "lake:Oswego east:2026-10-05",
+  "last_day": "2026-10-05",
+  "region": "NY",
+  "spot_notes": "east end wind event",
+  "state": "CONFIRMED",
+  "summary": "Lake wind event \u00b7 Oswego east \u00b7 2026-10-05 to 2026-10-05 \u00b7 FAIR \u00b7 bust 32%",
+  "tod_window": "12pm-4pm",
+  "travel": "drive",
+  "wind_hi": null,
+  "wind_label": "onshore",
+  "wind_lo": 18
+ },
  "lake:Sodus:2026-07-14": {
   "best_spot": "Lake Ontario \u00b7 Sodus",
   "bust": 56,
@@ -5913,6 +5944,49 @@
   "wind_label": "offshore",
   "wind_lo": 7.1
  },
+ "ocean:Long Sands, York ME:2026-10-04": {
+  "best_spot": "Long Sands, York ME",
+  "briefing": null,
+  "bust": 5,
+  "class": "windswell",
+  "created": "2026-10-04",
+  "day_grades": [
+   {
+    "date": "2026-10-04",
+    "grade": "fair"
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "good"
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "fair"
+   }
+  ],
+  "dest_airport": null,
+  "digest_url": "https://actingkaczual.github.io/SurfBud/event-764aee4807.html",
+  "drive_hours": 6.5,
+  "drive_miles": 370,
+  "first_day": "2026-10-04",
+  "fit": 46,
+  "front": "ocean",
+  "grade": "good",
+  "h_m": 0.3646153846153846,
+  "key": "ocean:Long Sands, York ME:2026-10-04",
+  "last_day": "2026-10-06",
+  "p_s": 8.692307692307692,
+  "region": "ME",
+  "score_raw": 77,
+  "score_travel_adj": 11.9,
+  "spot_notes": "Tier 2, Sept-Oct window. Uncrowded mellow beachbreak, Maine crash contacts available.\n",
+  "state": "CONFIRMED",
+  "summary": "Long Sands, York ME \u00b7 2026-10-04 to 2026-10-06 \u00b7 GOOD \u00b7 fit 46% \u00b7 bust 5% \u00b7 0.4m @ 9s",
+  "travel": "drive",
+  "wind_hi": 14.5,
+  "wind_label": "offshore",
+  "wind_lo": 6.5
+ },
  "ocean:Narragansett Town Beach:2026-07-07": {
   "best_spot": "Narragansett Town Beach",
   "briefing": null,
@@ -11583,10 +11657,6 @@
    {
     "date": "2026-10-05",
     "grade": "fair"
-   },
-   {
-    "date": "2026-10-06",
-    "grade": "fair"
    }
   ],
   "dest_airport": "JFK",
@@ -11595,22 +11665,22 @@
   "drive_miles": 240,
   "fare_note": "Fare: fares not configured  https://www.google.com/travel/flights?q=Flights%20from%20ITH%20to%20JFK%20on%202026-10-04%20through%202026-10-07",
   "first_day": "2026-10-05",
-  "fit": 41,
+  "fit": 55,
   "front": "ocean",
   "grade": "fair",
-  "h_m": 0.6707692307692308,
+  "h_m": 0.6584615384615385,
   "key": "ocean:Rockaway Beach (90th St peaks):2026-10-05",
-  "last_day": "2026-10-06",
-  "p_s": 7.023076923076923,
+  "last_day": "2026-10-05",
+  "p_s": 6.8307692307692305,
   "region": "NY",
-  "score_raw": 66,
-  "score_travel_adj": 14.0,
+  "score_raw": 50,
+  "score_travel_adj": 10.6,
   "spot_notes": "The ITH-JFK play: daily Delta nonstop, ~3hr door to sand, faster than driving. Regional jet means NO longboard in the hold; carry rubber, rent or stash a board (Boarders / Locals, 90th St). Punchy jetty peaks, best on S swell with N wind, fall hurricane season aligns with warm water. Fair day here can beat a good day 6 hrs away.\n",
   "state": "CONFIRMED",
-  "summary": "Rockaway Beach (90th St peaks) \u00b7 2026-10-05 to 2026-10-06 \u00b7 FAIR \u00b7 fit 41% \u00b7 bust 5% \u00b7 0.7m @ 7s",
+  "summary": "Rockaway Beach (90th St peaks) \u00b7 2026-10-05 to 2026-10-05 \u00b7 FAIR \u00b7 fit 55% \u00b7 bust 5% \u00b7 0.7m @ 7s",
   "travel": "fly_or_drive",
   "wind_hi": 15.2,
-  "wind_label": "offshore",
-  "wind_lo": 10.5
+  "wind_label": "cross",
+  "wind_lo": 15.2
  }
 }
