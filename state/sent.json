@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-09-06",
-   "title": "Week ahead: both fronts",
-   "at": "14:08"
-  },
-  {
-   "day": "2026-09-06",
-   "title": "It's on: Ditch Plains (NY) Tue-Wed (8/4-8/5)",
-   "at": "14:08"
-  },
-  {
    "day": "2026-09-07",
    "title": "It's on: Narragansett Town Beach (RI) Tue-Thu (8/4-8/6)",
    "at": "16:26"
@@ -299,19 +289,19 @@
    "day": "2026-10-05",
    "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Sun-Mon (8/23-8/24)",
    "at": "19:46"
+  },
+  {
+   "day": "2026-10-06",
+   "title": "It's on: Ditch Plains (NY) Mon (8/24)",
+   "at": "17:09"
+  },
+  {
+   "day": "2026-10-06",
+   "title": "Worth a look: Narragansett Town Beach (RI) Mon (8/24)",
+   "at": "17:09"
   }
  ],
  "queue": [
-  {
-   "title": "It's on: Ditch Plains (NY) Mon (8/24)",
-   "body": "80% go, 5% bust. Knee-high (1-2 ft). Cross wind (11mph). 6hr drive (310mi). Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-3007aae3d6.html"
-  },
-  {
-   "title": "Worth a look: Narragansett Town Beach (RI) Mon (8/24)",
-   "body": "55% go, 5% bust. Waist-high (1-2 ft). Onshore wind (9mph). 4.75hr drive (280mi). Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-4104453068.html"
-  },
   {
    "title": "It's on: Long Sands (ME) Sun-Tue (8/23-9/1)",
    "body": "52% go, 5% bust. Waist-high (1-2 ft). Light wind (4-8mph). 6.5hr drive (370mi). Tap for digest.",
@@ -956,6 +946,16 @@
    "title": "It's on: Long Sands (ME) Mon-Tue (10/5-10/6)",
    "body": "55% go, 5% bust. Chest-high (3-4 ft). Offshore wind (10-15mph). 6.5hr drive (370mi). Tap for digest.",
    "click": "https://actingkaczual.github.io/SurfBud/event-ca666ead0b.html"
+  },
+  {
+   "title": "Worth a look: Long Sands (ME) Tue (10/6)",
+   "body": "35% go, 5% bust. Waist-high (1-2 ft). Offshore wind (13mph). 6.5hr drive (370mi). Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-3444f383ca.html"
+  },
+  {
+   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Tue (10/6)",
+   "body": "30% go, 5% bust. Knee-high (1-1 ft). Cross wind (12mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-14c73e3129.html"
   }
  ]
 }
