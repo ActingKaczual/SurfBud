@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-09-07",
-   "title": "It's on: Narragansett Town Beach (RI) Tue-Thu (8/4-8/6)",
-   "at": "16:26"
-  },
-  {
-   "day": "2026-09-07",
-   "title": "It's on: Long Sands (ME) Tue-Sat (8/4-8/8)",
-   "at": "16:26"
-  },
-  {
    "day": "2026-09-08",
    "title": "It's on: [FLY OK] Rockaway Beach (NY) Tue-Thu (8/4-8/13)",
    "at": "15:04"
@@ -299,19 +289,19 @@
    "day": "2026-10-06",
    "title": "Worth a look: Narragansett Town Beach (RI) Mon (8/24)",
    "at": "17:09"
+  },
+  {
+   "day": "2026-10-07",
+   "title": "It's on: Long Sands (ME) Sun-Tue (8/23-9/1)",
+   "at": "17:47"
+  },
+  {
+   "day": "2026-10-07",
+   "title": "Week ahead: both fronts",
+   "at": "17:47"
   }
  ],
  "queue": [
-  {
-   "title": "It's on: Long Sands (ME) Sun-Tue (8/23-9/1)",
-   "body": "52% go, 5% bust. Waist-high (1-2 ft). Light wind (4-8mph). 6.5hr drive (370mi). Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-a12d84fb30.html"
-  },
-  {
-   "title": "Week ahead: both fronts",
-   "body": "Long Sands: good Mon-Mon, solid bet (5% bust)\nLong Sands: good Tue-Wed, solid bet (5% bust)\nLong Sands: good Wed-Mon, solid bet (5% bust)\nNarragansett Town Beach: fair Wed-Tue, solid bet (5% bust)\nLong Sands: good Thu-Tue, solid bet (5% bust)\nLong Sands: good Fri-Sat, solid bet (5% bust)",
-   "click": "https://actingkaczual.github.io/SurfBud"
-  },
   {
    "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Mon-Tue (8/24-8/25)",
    "body": "42% go, 5% bust. Waist-high (1-2 ft). Light wind (7mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
@@ -961,6 +951,11 @@
    "title": "It's on: [FLY OK] Rockaway Beach (NY) Thu-Wed (10/8-10/14)",
    "body": "49% go, 5% bust. Knee-high (1-2 ft). Onshore wind (6-12mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
    "click": "https://actingkaczual.github.io/SurfBud/event-16bfa29bc2.html"
+  },
+  {
+   "title": "Worth a look: Long Sands (ME) Thu (10/8)",
+   "body": "52% go, 5% bust. Knee-high (1-2 ft). Cross wind (10mph). 6.5hr drive (370mi). Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-76ce3a99e3.html"
   }
  ]
 }
