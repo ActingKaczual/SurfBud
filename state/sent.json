@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-09-10",
-   "title": "It's on: [FLY OK] Rockaway Beach (NY) Wed-Wed (8/5-8/12)",
-   "at": "14:57"
-  },
-  {
-   "day": "2026-09-10",
-   "title": "Worth a look: Ditch Plains (NY) Fri (8/7)",
-   "at": "14:57"
-  },
-  {
    "day": "2026-09-11",
    "title": "Worth a look: Narragansett Town Beach (RI) Thu-Fri (8/6-8/7)",
    "at": "14:58"
@@ -299,19 +289,19 @@
    "day": "2026-10-09",
    "title": "Brewing: [FLY OK] Rockaway Beach (NY) Thu-Sat (8/27-8/29)",
    "at": "17:25"
+  },
+  {
+   "day": "2026-10-10",
+   "title": "Worth a look: Ditch Plains (NY) Tue-Sat (8/25-8/29)",
+   "at": "16:13"
+  },
+  {
+   "day": "2026-10-10",
+   "title": "Brewing: Ditch Plains (NY) Tue-Thu (9/1-9/3)",
+   "at": "16:13"
   }
  ],
  "queue": [
-  {
-   "title": "Worth a look: Ditch Plains (NY) Tue-Sat (8/25-8/29)",
-   "body": "40% go, 5% bust. Knee-high (1-1 ft). Onshore wind (6-14mph). 6hr drive (310mi). Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-d6f8f00c4f.html"
-  },
-  {
-   "title": "Brewing: Ditch Plains (NY) Tue-Thu (9/1-9/3)",
-   "body": "63% go, 30% bust. Waist-high (1-2 ft). Cross wind (9-12mph). 6hr drive (310mi). Speculative; will confirm or call off. Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-dae05d0f70.html"
-  },
   {
    "title": "It's on: Narragansett Town Beach (RI) Wed-Sat (8/26-8/29)",
    "body": "53% go, 5% bust. Knee-high (1-2 ft). Onshore wind (6-12mph). 4.75hr drive (280mi). Tap for digest.",
@@ -981,6 +971,11 @@
    "title": "It's on: Long Sands (ME) Sun-Wed (10/11-10/14)",
    "body": "57% go, 5% bust. Knee-high (1-1 ft). Cross wind (5-10mph). 6.5hr drive (370mi). Tap for digest.",
    "click": "https://actingkaczual.github.io/SurfBud/event-9e230b3dfa.html"
+  },
+  {
+   "title": "It's on: Ditch Plains (NY) Mon-Wed (10/12-10/14)",
+   "body": "48% go, 5% bust. Head-high (4-5 ft). Onshore wind (15-22mph). 6hr drive (310mi). Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-fb8105bbf3.html"
   }
  ]
 }
