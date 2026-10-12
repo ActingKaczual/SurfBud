@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-09-12",
-   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Thu-Wed (8/6-8/12)",
-   "at": "14:05"
-  },
-  {
-   "day": "2026-09-12",
-   "title": "Worth a look: Narragansett Town Beach (RI) Fri-Wed (8/7-8/12)",
-   "at": "14:05"
-  },
-  {
    "day": "2026-09-13",
    "title": "It's on: [FLY OK] Rockaway Beach (NY) Fri-Wed (8/7-8/12)",
    "at": "14:54"
@@ -299,19 +289,19 @@
    "day": "2026-10-11",
    "title": "Brewing: Narragansett Town Beach (RI) Tue-Thu (9/1-9/3)",
    "at": "16:38"
+  },
+  {
+   "day": "2026-10-12",
+   "title": "It's on: Long Sands (ME) Tue-Sat (8/25-8/29)",
+   "at": "20:15"
+  },
+  {
+   "day": "2026-10-12",
+   "title": "Brewing: Long Sands (ME) Mon-Thu (8/31-9/3)",
+   "at": "20:15"
   }
  ],
  "queue": [
-  {
-   "title": "It's on: Long Sands (ME) Tue-Sat (8/25-8/29)",
-   "body": "58% go, 5% bust. Waist-high (1-2 ft). Light wind (5-9mph). 6.5hr drive (370mi). Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-1ee546aab5.html"
-  },
-  {
-   "title": "Brewing: Long Sands (ME) Mon-Thu (8/31-9/3)",
-   "body": "59% go, 24% bust. Waist-high (1-2 ft). Onshore wind (6-10mph). 6.5hr drive (370mi). Speculative; will confirm or call off. Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-3bd1c06453.html"
-  },
   {
    "title": "It's on: Ditch Plains (NY) Wed-Mon (8/26-8/31)",
    "body": "50% go, 5% bust. Knee-high (1-2 ft). Cross wind (6-11mph). 6hr drive (310mi). Tap for digest.",
@@ -976,6 +966,16 @@
    "title": "Week ahead: both fronts",
    "body": "Long Sands: good Sun-Wed, solid bet (5% bust)\nDitch Plains: fair Mon-Tue, solid bet (5% bust)\nLong Sands: good Mon-Wed, solid bet (6% bust)\nNarragansett Town Beach: good Mon-Wed, solid bet (5% bust)\nRockaway Beach: fair Mon-Wed, solid bet (5% bust)\nLake Ontario \u00b7 Sodus: fair Tue, coin flip (56% bust)",
    "click": "https://actingkaczual.github.io/SurfBud"
+  },
+  {
+   "title": "It's on: Long Sands (ME) Mon (10/12)",
+   "body": "75% go, 5% bust. Waist-high (2-3 ft). Light wind (5mph). 6.5hr drive (370mi). Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-605521763a.html"
+  },
+  {
+   "title": "Brewing: Long Sands (ME) Wed-Thu (10/14-10/15)",
+   "body": "51% go, 5% bust. Chest-high (3-4 ft). Cross wind (4-11mph). 6.5hr drive (370mi). Speculative; will confirm or call off. Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-f8884355f9.html"
   }
  ]
 }
