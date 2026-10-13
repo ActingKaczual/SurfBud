@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-12T20:17",
+ "updated": "2026-10-13T03:02",
  "active": [
+  {
+   "best_spot": "Lake Ontario \u00b7 Fair Haven",
+   "bust": 68,
+   "class": "lake_wind",
+   "created": "2026-10-12",
+   "day_grades": [
+    {
+     "date": "2026-10-16",
+     "grade": "fair"
+    }
+   ],
+   "digest_url": "https://actingkaczual.github.io/SurfBud/event-0a06333b32.html",
+   "drive_hours": 1.5,
+   "drive_miles": 65,
+   "first_day": "2026-10-16",
+   "fit": 60,
+   "front": "lake",
+   "grade": "fair",
+   "key": "lake:Fair Haven:2026-10-16",
+   "last_day": "2026-10-16",
+   "region": "NY",
+   "spot_notes": "east end wind event",
+   "state": "WHISPER",
+   "summary": "Lake wind event \u00b7 Fair Haven \u00b7 2026-10-16 to 2026-10-16 \u00b7 FAIR \u00b7 bust 68%",
+   "tod_window": "10am-7pm",
+   "travel": "drive",
+   "wind_hi": null,
+   "wind_label": "onshore",
+   "wind_lo": 18
+  },
   {
    "best_spot": "Lake Ontario \u00b7 Sodus",
    "bust": 56,
@@ -56,6 +86,36 @@
    "state": "WHISPER",
    "summary": "Lake wind event \u00b7 Sodus \u00b7 2026-10-14 to 2026-10-14 \u00b7 FAIR \u00b7 bust 56%",
    "tod_window": "6am-1pm",
+   "travel": "drive",
+   "wind_hi": null,
+   "wind_label": "onshore",
+   "wind_lo": 18
+  },
+  {
+   "best_spot": "Lake Ontario \u00b7 Sodus",
+   "bust": 68,
+   "class": "lake_wind",
+   "created": "2026-10-12",
+   "day_grades": [
+    {
+     "date": "2026-10-16",
+     "grade": "good"
+    }
+   ],
+   "digest_url": "https://actingkaczual.github.io/SurfBud/event-99bf7ba15a.html",
+   "drive_hours": 1.75,
+   "drive_miles": 80,
+   "first_day": "2026-10-16",
+   "fit": 60,
+   "front": "lake",
+   "grade": "good",
+   "key": "lake:Sodus:2026-10-16",
+   "last_day": "2026-10-16",
+   "region": "NY",
+   "spot_notes": "east end wind event",
+   "state": "WHISPER",
+   "summary": "Lake wind event \u00b7 Sodus \u00b7 2026-10-16 to 2026-10-16 \u00b7 GOOD \u00b7 bust 68%",
+   "tod_window": "10am-7pm",
    "travel": "drive",
    "wind_hi": null,
    "wind_label": "onshore",
@@ -163,40 +223,44 @@
    "best_spot": "Long Sands, York ME",
    "briefing": null,
    "bust": 5,
-   "class": "noreaster",
-   "created": "2026-10-06",
+   "class": "windswell",
+   "created": "2026-10-12",
    "day_grades": [
     {
-     "date": "2026-10-12",
+     "date": "2026-10-14",
      "grade": "good"
+    },
+    {
+     "date": "2026-10-15",
+     "grade": "fair"
     }
    ],
    "dest_airport": null,
-   "digest_url": "https://actingkaczual.github.io/SurfBud/event-605521763a.html",
+   "digest_url": "https://actingkaczual.github.io/SurfBud/event-f8884355f9.html",
    "drive_hours": 6.5,
    "drive_miles": 370,
-   "first_day": "2026-10-12",
-   "fit": 75,
+   "first_day": "2026-10-14",
+   "fit": 51,
    "front": "ocean",
    "grade": "good",
-   "h_m": 0.6846153846153846,
-   "key": "ocean:Long Sands, York ME:2026-10-12",
-   "last_day": "2026-10-12",
-   "p_s": 6.265384615384615,
+   "h_m": 0.9246153846153846,
+   "key": "ocean:Long Sands, York ME:2026-10-14",
+   "last_day": "2026-10-15",
+   "p_s": 6.676923076923076,
    "region": "ME",
-   "score_raw": 71,
-   "score_travel_adj": 11.0,
+   "score_raw": 76,
+   "score_travel_adj": 11.7,
    "spot_notes": "Tier 2, Sept-Oct window. Uncrowded mellow beachbreak, Maine crash contacts available.\n",
-   "state": "CONFIRMED",
-   "summary": "Long Sands, York ME \u00b7 2026-10-12 to 2026-10-12 \u00b7 GOOD \u00b7 fit 75% \u00b7 bust 5% \u00b7 0.7m @ 6s",
+   "state": "HEADS_UP",
+   "summary": "Long Sands, York ME \u00b7 2026-10-14 to 2026-10-15 \u00b7 GOOD \u00b7 fit 51% \u00b7 bust 5% \u00b7 0.9m @ 7s",
    "travel": "drive",
-   "wind_hi": 4.7,
-   "wind_label": "light",
-   "wind_lo": 4.7
+   "wind_hi": 10.9,
+   "wind_label": "cross",
+   "wind_lo": 4.1
   },
   {
    "best_spot": "Long Sands, York ME",
-   "bust": 18,
+   "bust": 12,
    "class": "noreaster",
    "created": "2026-10-11",
    "day_grades": [
@@ -210,23 +274,23 @@
    "drive_hours": 6.5,
    "drive_miles": 370,
    "first_day": "2026-10-17",
-   "fit": 35,
+   "fit": 10,
    "front": "ocean",
    "grade": "fair",
-   "h_m": 0.4015384615384615,
+   "h_m": 0.3830769230769231,
    "key": "ocean:Long Sands, York ME:2026-10-17",
    "last_day": "2026-10-17",
-   "p_s": 7.596153846153846,
+   "p_s": 7.584615384615384,
    "region": "ME",
-   "score_raw": 41,
-   "score_travel_adj": 6.4,
+   "score_raw": 39,
+   "score_travel_adj": 6.1,
    "spot_notes": "Tier 2, Sept-Oct window. Uncrowded mellow beachbreak, Maine crash contacts available.\n",
    "state": "WHISPER",
-   "summary": "Long Sands, York ME \u00b7 2026-10-17 to 2026-10-17 \u00b7 FAIR \u00b7 fit 35% \u00b7 bust 18% \u00b7 0.4m @ 8s",
+   "summary": "Long Sands, York ME \u00b7 2026-10-17 to 2026-10-17 \u00b7 FAIR \u00b7 fit 10% \u00b7 bust 12% \u00b7 0.4m @ 8s",
    "travel": "drive",
-   "wind_hi": 17.9,
+   "wind_hi": 18.3,
    "wind_label": "offshore",
-   "wind_lo": 17.9
+   "wind_lo": 18.3
   },
   {
    "best_spot": "Narragansett Town Beach",
@@ -320,52 +384,13 @@
    "wind_lo": 8.5
   },
   {
-   "key": "ocean:Long Sands, York ME:2026-10-14",
-   "class": "windswell",
-   "front": "ocean",
-   "state": "HEADS_UP",
-   "first_day": "2026-10-14",
-   "last_day": "2026-10-15",
-   "created": "2026-10-12",
-   "h_m": 0.9246153846153846,
-   "p_s": 6.676923076923076,
-   "wind_lo": 4.1,
-   "wind_hi": 10.9,
-   "wind_label": "cross",
-   "region": "ME",
-   "drive_miles": 370,
-   "day_grades": [
-    {
-     "date": "2026-10-14",
-     "grade": "good"
-    },
-    {
-     "date": "2026-10-15",
-     "grade": "fair"
-    }
-   ],
-   "grade": "good",
-   "bust": 5,
-   "fit": 51,
-   "score_raw": 76,
-   "score_travel_adj": 11.7,
-   "best_spot": "Long Sands, York ME",
-   "summary": "Long Sands, York ME \u00b7 2026-10-14 to 2026-10-15 \u00b7 GOOD \u00b7 fit 51% \u00b7 bust 5% \u00b7 0.9m @ 7s",
-   "travel": "drive",
-   "dest_airport": null,
-   "spot_notes": "Tier 2, Sept-Oct window. Uncrowded mellow beachbreak, Maine crash contacts available.\n",
-   "drive_hours": 6.5,
-   "briefing": null,
-   "digest_url": "https://actingkaczual.github.io/SurfBud/event-f8884355f9.html"
-  },
-  {
-   "key": "lake:Fair Haven:2026-10-16",
+   "key": "lake:Oswego east:2026-10-16",
    "class": "lake_wind",
    "front": "lake",
    "state": "WHISPER",
    "first_day": "2026-10-16",
    "last_day": "2026-10-16",
-   "created": "2026-10-12",
+   "created": "2026-10-13",
    "day_grades": [
     {
      "date": "2026-10-16",
@@ -373,50 +398,20 @@
     }
    ],
    "region": "NY",
-   "drive_hours": 1.5,
-   "drive_miles": 65,
+   "drive_hours": 1.25,
+   "drive_miles": 60,
    "wind_lo": 18,
    "wind_hi": null,
    "wind_label": "onshore",
-   "tod_window": "10am-7pm",
+   "tod_window": "11am-7pm",
    "grade": "fair",
-   "bust": 68,
+   "bust": 56,
    "fit": 60,
-   "best_spot": "Lake Ontario \u00b7 Fair Haven",
-   "summary": "Lake wind event \u00b7 Fair Haven \u00b7 2026-10-16 to 2026-10-16 \u00b7 FAIR \u00b7 bust 68%",
+   "best_spot": "Lake Ontario \u00b7 Oswego east",
+   "summary": "Lake wind event \u00b7 Oswego east \u00b7 2026-10-16 to 2026-10-16 \u00b7 FAIR \u00b7 bust 56%",
    "travel": "drive",
    "spot_notes": "east end wind event",
-   "digest_url": "https://actingkaczual.github.io/SurfBud/event-0a06333b32.html"
-  },
-  {
-   "key": "lake:Sodus:2026-10-16",
-   "class": "lake_wind",
-   "front": "lake",
-   "state": "WHISPER",
-   "first_day": "2026-10-16",
-   "last_day": "2026-10-16",
-   "created": "2026-10-12",
-   "day_grades": [
-    {
-     "date": "2026-10-16",
-     "grade": "good"
-    }
-   ],
-   "region": "NY",
-   "drive_hours": 1.75,
-   "drive_miles": 80,
-   "wind_lo": 18,
-   "wind_hi": null,
-   "wind_label": "onshore",
-   "tod_window": "10am-7pm",
-   "grade": "good",
-   "bust": 68,
-   "fit": 60,
-   "best_spot": "Lake Ontario \u00b7 Sodus",
-   "summary": "Lake wind event \u00b7 Sodus \u00b7 2026-10-16 to 2026-10-16 \u00b7 GOOD \u00b7 bust 68%",
-   "travel": "drive",
-   "spot_notes": "east end wind event",
-   "digest_url": "https://actingkaczual.github.io/SurfBud/event-99bf7ba15a.html"
+   "digest_url": "https://actingkaczual.github.io/SurfBud/event-067197ea7f.html"
   }
  ],
  "tropical": []
