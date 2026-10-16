@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-09-16",
-   "title": "Worth a look: Narragansett Town Beach (RI) Sun-Thu (8/9-8/13)",
-   "at": "15:24"
-  },
-  {
-   "day": "2026-09-16",
-   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Sun-Tue (8/9-8/11)",
-   "at": "15:24"
-  },
-  {
    "day": "2026-09-17",
    "title": "Week ahead: both fronts",
    "at": "15:31"
@@ -299,19 +289,19 @@
    "day": "2026-10-15",
    "title": "It's on: Ditch Plains (NY) Fri-Mon (8/28-8/31)",
    "at": "15:34"
+  },
+  {
+   "day": "2026-10-16",
+   "title": "It's on: Narragansett Town Beach (RI) Fri-Sat (8/28-8/29)",
+   "at": "15:21"
+  },
+  {
+   "day": "2026-10-16",
+   "title": "Worth a look: Long Sands (ME) Fri-Mon (8/28-8/31)",
+   "at": "15:21"
   }
  ],
  "queue": [
-  {
-   "title": "It's on: Narragansett Town Beach (RI) Fri-Sat (8/28-8/29)",
-   "body": "65% go, 5% bust. Waist-high (2-3 ft). Offshore wind (5-8mph). 4.75hr drive (280mi). Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-f151c00bac.html"
-  },
-  {
-   "title": "Worth a look: Long Sands (ME) Fri-Mon (8/28-8/31)",
-   "body": "42% go, 5% bust. Waist-high (1-2 ft). Cross wind (7-9mph). 6.5hr drive (370mi). Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-5479ba4d8e.html"
-  },
   {
    "title": "Worth a look: Ditch Plains (NY) Sat-Mon (8/29-8/31)",
    "body": "38% go, 5% bust. Waist-high (1-2 ft). Light wind (7-9mph). 6hr drive (310mi). Tap for digest.",
@@ -1056,6 +1046,16 @@
    "title": "It's on: [LAKE] Lake Ontario  Fair Haven (NY) Fri-Sat (10/16-10/17)",
    "body": "60% go, 20% bust. Onshore wind (18mph). Window 2pm-7pm. 1.5hr drive (65mi). Tap for digest.",
    "click": "https://actingkaczual.github.io/SurfBud/event-0a06333b32.html"
+  },
+  {
+   "title": "Worth a look: Ditch Plains (NY) Sat (10/17)",
+   "body": "35% go, 5% bust. Waist-high (1-2 ft). Offshore wind (19mph). 6hr drive (310mi). Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-731efd7c62.html"
+  },
+  {
+   "title": "Brewing: Narragansett Town Beach (RI) Tue (10/20)",
+   "body": "73% go, 12% bust. Waist-high (2-3 ft). Offshore wind (20mph). 4.75hr drive (280mi). Speculative; will confirm or call off. Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-ef46a9deab.html"
   }
  ]
 }
