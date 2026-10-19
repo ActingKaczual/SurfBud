@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-09-19",
-   "title": "Worth a look: Ditch Plains (NY) Tue (8/11)",
-   "at": "14:22"
-  },
-  {
-   "day": "2026-09-19",
-   "title": "Worth a look: Narragansett Town Beach (RI) Tue (8/11)",
-   "at": "14:22"
-  },
-  {
    "day": "2026-09-20",
    "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Tue (8/11)",
    "at": "14:40"
@@ -299,19 +289,19 @@
    "day": "2026-10-18",
    "title": "It's on: [FLY OK] Rockaway Beach (NY) Sat-Fri (8/29-9/4)",
    "at": "14:32"
+  },
+  {
+   "day": "2026-10-19",
+   "title": "Week ahead: both fronts",
+   "at": "17:26"
+  },
+  {
+   "day": "2026-10-19",
+   "title": "Worth a look: Ditch Plains (NY) Mon (8/31)",
+   "at": "17:26"
   }
  ],
  "queue": [
-  {
-   "title": "Week ahead: both fronts",
-   "body": "Long Sands: fair Sat-Mon, solid bet (5% bust)\nLong Sands: fair Sun-Tue, solid bet (5% bust)\nLong Sands: good Mon-Wed, solid bet (5% bust)\nLong Sands: good Tue-Sun, solid bet (5% bust)\nDitch Plains: good Wed-Mon, solid bet (5% bust)\nLong Sands: good Wed-Fri, solid bet (5% bust)",
-   "click": "https://actingkaczual.github.io/SurfBud"
-  },
-  {
-   "title": "Worth a look: Ditch Plains (NY) Mon (8/31)",
-   "body": "30% go, 5% bust. Knee-high (1-1 ft). Light wind (6mph). 6hr drive (310mi). Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-8328272626.html"
-  },
   {
    "title": "Worth a look: Long Sands (ME) Sun (8/30)",
    "body": "30% go, 5% bust. Knee-high (1-2 ft). Cross wind (8mph). 6.5hr drive (370mi). Tap for digest.",
