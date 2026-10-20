@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-09-20",
-   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Tue (8/11)",
-   "at": "14:40"
-  },
-  {
-   "day": "2026-09-20",
-   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Wed (8/12)",
-   "at": "14:40"
-  },
-  {
    "day": "2026-09-21",
    "title": "Worth a look: Ditch Plains (NY) Wed-Thu (8/12-8/13)",
    "at": "17:00"
@@ -299,19 +289,19 @@
    "day": "2026-10-19",
    "title": "Worth a look: Ditch Plains (NY) Mon (8/31)",
    "at": "17:26"
+  },
+  {
+   "day": "2026-10-20",
+   "title": "Worth a look: Long Sands (ME) Sun (8/30)",
+   "at": "15:38"
+  },
+  {
+   "day": "2026-10-20",
+   "title": "Brewing: Long Sands (ME) Tue-Sun (9/1-9/6)",
+   "at": "15:38"
   }
  ],
  "queue": [
-  {
-   "title": "Worth a look: Long Sands (ME) Sun (8/30)",
-   "body": "30% go, 5% bust. Knee-high (1-2 ft). Cross wind (8mph). 6.5hr drive (370mi). Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-479fdf4459.html"
-  },
-  {
-   "title": "Brewing: Long Sands (ME) Tue-Sun (9/1-9/6)",
-   "body": "56% go, 5% bust. Knee-high (1-1 ft). Light wind (5-8mph). 6.5hr drive (370mi). Speculative; will confirm or call off. Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-65c25f9256.html"
-  },
   {
    "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Sun-Sun (8/30-9/6)",
    "body": "32% go, 5% bust. Knee-high (1-2 ft). Light wind (5-11mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
@@ -1091,6 +1081,11 @@
    "title": "Brewing: [FLY OK] Rockaway Beach (NY) Sun-Wed (10/25-10/28)",
    "body": "72% go, 18% bust. Waist-high (2-3 ft). Onshore wind (4-13mph). 4.75hr drive (240mi) or fly: fares not configured. Speculative; will confirm or call off. Tap for digest.",
    "click": "https://actingkaczual.github.io/SurfBud/event-c05f30c9c7.html"
+  },
+  {
+   "title": "It's on: Long Sands (ME) Tue-Sun (10/20-10/25)",
+   "body": "79% go, 5% bust. Overhead (5-6 ft). Cross wind (5-12mph). 6.5hr drive (370mi). Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-de47c55851.html"
   }
  ]
 }
