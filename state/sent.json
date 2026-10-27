@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-09-27",
-   "title": "It's on: Long Sands (ME) Tue-Tue (8/18-8/25)",
-   "at": "15:38"
-  },
-  {
-   "day": "2026-09-27",
-   "title": "It's on: Ditch Plains (NY) Mon-Wed (8/17-8/19)",
-   "at": "15:38"
-  },
-  {
    "day": "2026-09-28",
    "title": "It's on: Narragansett Town Beach (RI) Tue-Wed (8/18-8/19)",
    "at": "18:34"
@@ -299,19 +289,19 @@
    "day": "2026-10-26",
    "title": "Worth a look: Narragansett Town Beach (RI) Thu-Sat (9/3-9/5)",
    "at": "17:20"
+  },
+  {
+   "day": "2026-10-27",
+   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Wed-Sun (9/2-9/6)",
+   "at": "16:34"
+  },
+  {
+   "day": "2026-10-27",
+   "title": "It's on: Long Sands (ME) Thu-Sat (9/3-9/5)",
+   "at": "16:34"
   }
  ],
  "queue": [
-  {
-   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Wed-Sun (9/2-9/6)",
-   "body": "39% go, 5% bust. Knee-high (1-1 ft). Cross wind (7-11mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-fd58db6b8b.html"
-  },
-  {
-   "title": "It's on: Long Sands (ME) Thu-Sat (9/3-9/5)",
-   "body": "61% go, 5% bust. Waist-high (1-2 ft). Light wind (4-7mph). 6.5hr drive (370mi). Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-e4f9eec7e5.html"
-  },
   {
    "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Thu-Sun (9/3-9/6)",
    "body": "41% go, 5% bust. Waist-high (1-2 ft). Offshore wind (6-11mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
@@ -1101,6 +1091,11 @@
    "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Mon-Sat (10/26-10/31)",
    "body": "46% go, 5% bust. Knee-high (1-2 ft). Onshore wind (5-11mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
    "click": "https://actingkaczual.github.io/SurfBud/event-baed8c7b97.html"
+  },
+  {
+   "title": "Worth a look: Long Sands (ME) Tue-Thu (10/27-10/29)",
+   "body": "36% go, 5% bust. Knee-high (1-2 ft). Light wind (6-10mph). 6.5hr drive (370mi). Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-1796150079.html"
   }
  ]
 }
