@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-10-01",
-   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Wed-Thu (8/19-8/20)",
-   "at": "17:21"
-  },
-  {
-   "day": "2026-10-01",
-   "title": "It's on: Long Sands (ME) Thu-Sat (8/20-8/29)",
-   "at": "17:21"
-  },
-  {
    "day": "2026-10-02",
    "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Thu-Fri (8/20-8/21)",
    "at": "16:36"
@@ -299,19 +289,19 @@
    "day": "2026-10-30",
    "title": "It's on: Long Sands (ME) Sat-Mon (9/5-9/7)",
    "at": "16:59"
+  },
+  {
+   "day": "2026-10-31",
+   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Sat-Sun (9/5-9/6)",
+   "at": "16:03"
+  },
+  {
+   "day": "2026-10-31",
+   "title": "It's on: Long Sands (ME) Sun-Mon (9/6-9/7)",
+   "at": "16:03"
   }
  ],
  "queue": [
-  {
-   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Sat-Sun (9/5-9/6)",
-   "body": "27% go, 5% bust. Knee-high (1-2 ft). Offshore wind (8mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-43c755cb27.html"
-  },
-  {
-   "title": "It's on: Long Sands (ME) Sun-Mon (9/6-9/7)",
-   "body": "64% go, 5% bust. Chest-high (2-3 ft). Light wind (7mph). 6.5hr drive (370mi). Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-37ca70a362.html"
-  },
   {
    "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Mon (9/7)",
    "body": "51% go, 5% bust. Knee-high (1-2 ft). Light wind (7mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
@@ -1151,6 +1141,26 @@
    "title": "Big one brewing: [FLY OK] Rockaway Beach (NY) Thu-Sun (11/5-11/8)",
    "body": "76% go, 18% bust. Knee-high (1-2 ft). Offshore wind (5-12mph). 4.75hr drive (240mi) or fly: fares not configured. Speculative; will confirm or call off. Tap for digest.",
    "click": "https://actingkaczual.github.io/SurfBud/event-84a524a904.html"
+  },
+  {
+   "title": "Worth a look: Ditch Plains (NY) Sat-Sun (10/31-11/1)",
+   "body": "30% go, 5% bust. Knee-high (1-1 ft). Offshore wind (7-12mph). 6hr drive (310mi). Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-725d0cfb4c.html"
+  },
+  {
+   "title": "Worth a look: Narragansett Town Beach (RI) Sat (10/31)",
+   "body": "30% go, 5% bust. Knee-high (1-1 ft). Light wind (8mph). 4.75hr drive (280mi). Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-a0eac4847f.html"
+  },
+  {
+   "title": "Brewing: Long Sands (ME) Thu-Mon (11/5-11/9)",
+   "body": "65% go, 18% bust. Knee-high (1-1 ft). Cross wind (6-16mph). 6.5hr drive (370mi). Speculative; will confirm or call off. Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-b541344d74.html"
+  },
+  {
+   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Sat-Sun (10/31-11/1)",
+   "body": "30% go, 5% bust. Knee-high (1-2 ft). Light wind (6mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-c6649d5160.html"
   }
  ]
 }
