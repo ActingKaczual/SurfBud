@@ -999,3 +999,10 @@
 2026-11-01 01:04  PAST ocean:Narragansett Town Beach:2026-10-31
 2026-11-01 01:04  PAST ocean:Rockaway Beach (90th St peaks):2026-10-24
 2026-11-01 01:04  PAST ocean:Rockaway Beach (90th St peaks):2026-10-26
+2026-11-01 17:05  NEW CONFIRMED ocean:Ditch Plains, Montauk:2026-11-01 grade=fair bust=5%
+2026-11-01 17:05  DOWNGRADE HEADS_UP ocean:Ditch Plains, Montauk:2026-11-05 grade=fair bust=12%
+2026-11-01 17:05  NEW WHISPER ocean:Ditch Plains, Montauk:2026-11-07 grade=good bust=24%
+2026-11-01 17:05  DOWNGRADE HEADS_UP ocean:Narragansett Town Beach:2026-11-05 grade=fair bust=12%
+2026-11-01 17:05  NEW WHISPER ocean:Narragansett Town Beach:2026-11-07 grade=good bust=24%
+2026-11-01 17:05  NEW WHISPER ocean:Long Sands, York ME:2026-11-07 grade=good bust=24%
+2026-11-01 17:05  NEW CONFIRMED ocean:Rockaway Beach (90th St peaks):2026-11-01 grade=fair bust=5%
