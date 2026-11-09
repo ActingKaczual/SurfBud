@@ -257,7 +257,7 @@
  "lake:Fair Haven:2026-11-09": {
   "best_spot": "Lake Ontario \u00b7 Fair Haven",
   "briefing": null,
-  "bust": 32,
+  "bust": 20,
   "class": "lake_wind",
   "created": "2026-11-06",
   "day_grades": [
@@ -278,7 +278,7 @@
   "region": "NY",
   "spot_notes": "east end wind event",
   "state": "CONFIRMED",
-  "summary": "Lake wind event \u00b7 Fair Haven \u00b7 2026-11-09 to 2026-11-09 \u00b7 GOOD \u00b7 bust 32%",
+  "summary": "Lake wind event \u00b7 Fair Haven \u00b7 2026-11-09 to 2026-11-09 \u00b7 GOOD \u00b7 bust 20%",
   "tod_window": "6am-7pm",
   "travel": "drive",
   "wind_hi": null,
@@ -899,7 +899,7 @@
  "lake:Sodus:2026-11-09": {
   "best_spot": "Lake Ontario \u00b7 Sodus",
   "briefing": null,
-  "bust": 32,
+  "bust": 20,
   "class": "lake_wind",
   "created": "2026-11-05",
   "day_grades": [
@@ -924,8 +924,8 @@
   "region": "NY",
   "spot_notes": "east end wind event",
   "state": "CONFIRMED",
-  "summary": "Lake wind event \u00b7 Sodus \u00b7 2026-11-09 to 2026-11-10 \u00b7 FAIR \u00b7 bust 32%",
-  "tod_window": "6am-1pm",
+  "summary": "Lake wind event \u00b7 Sodus \u00b7 2026-11-09 to 2026-11-10 \u00b7 FAIR \u00b7 bust 20%",
+  "tod_window": "7am-12pm",
   "travel": "drive",
   "wind_hi": null,
   "wind_label": "onshore",
@@ -8507,7 +8507,8 @@
  },
  "ocean:Long Sands, York ME:2026-11-14": {
   "best_spot": "Long Sands, York ME",
-  "bust": 24,
+  "briefing": null,
+  "bust": 18,
   "class": "noreaster",
   "created": "2026-11-08",
   "day_grades": [
@@ -8518,6 +8519,10 @@
    {
     "date": "2026-11-15",
     "grade": "fair"
+   },
+   {
+    "date": "2026-11-16",
+    "grade": "fair"
    }
   ],
   "dest_airport": null,
@@ -8525,23 +8530,23 @@
   "drive_hours": 6.5,
   "drive_miles": 370,
   "first_day": "2026-11-14",
-  "fit": 44,
+  "fit": 40,
   "front": "ocean",
   "grade": "fair",
-  "h_m": 1.3692307692307693,
+  "h_m": 1.4661538461538461,
   "key": "ocean:Long Sands, York ME:2026-11-14",
-  "last_day": "2026-11-15",
-  "p_s": 8.45,
+  "last_day": "2026-11-16",
+  "p_s": 7.6923076923076925,
   "region": "ME",
-  "score_raw": 59,
-  "score_travel_adj": 9.2,
+  "score_raw": 72,
+  "score_travel_adj": 11.1,
   "spot_notes": "Tier 2, Sept-Oct window. Uncrowded mellow beachbreak, Maine crash contacts available.\n",
-  "state": "WHISPER",
-  "summary": "Long Sands, York ME \u00b7 2026-11-14 to 2026-11-15 \u00b7 FAIR \u00b7 fit 44% \u00b7 bust 24% \u00b7 1.4m @ 8s",
+  "state": "HEADS_UP",
+  "summary": "Long Sands, York ME \u00b7 2026-11-14 to 2026-11-16 \u00b7 FAIR \u00b7 fit 40% \u00b7 bust 18% \u00b7 1.5m @ 8s",
   "travel": "drive",
-  "wind_hi": 15.0,
-  "wind_label": "offshore",
-  "wind_lo": 9.0
+  "wind_hi": 13.1,
+  "wind_label": "light",
+  "wind_lo": 4.8
  },
  "ocean:Narragansett Town Beach:2026-07-07": {
   "best_spot": "Narragansett Town Beach",
