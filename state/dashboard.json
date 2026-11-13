@@ -1,10 +1,41 @@
 {
- "updated": "2026-11-13T02:38",
+ "updated": "2026-11-13T18:29",
  "active": [
+  {
+   "best_spot": "Lake Ontario \u00b7 Fair Haven",
+   "briefing": null,
+   "bust": 32,
+   "class": "lake_wind",
+   "created": "2026-11-13",
+   "day_grades": [
+    {
+     "date": "2026-11-14",
+     "grade": "fair"
+    }
+   ],
+   "digest_url": "https://actingkaczual.github.io/SurfBud/event-0b5bb6126a.html",
+   "drive_hours": 1.5,
+   "drive_miles": 65,
+   "first_day": "2026-11-14",
+   "fit": 60,
+   "front": "lake",
+   "grade": "fair",
+   "key": "lake:Fair Haven:2026-11-14",
+   "last_day": "2026-11-14",
+   "region": "NY",
+   "spot_notes": "east end wind event",
+   "state": "CONFIRMED",
+   "summary": "Lake wind event \u00b7 Fair Haven \u00b7 2026-11-14 to 2026-11-14 \u00b7 FAIR \u00b7 bust 32%",
+   "tod_window": "1pm-5pm",
+   "travel": "drive",
+   "wind_hi": null,
+   "wind_label": "onshore",
+   "wind_lo": 18
+  },
   {
    "best_spot": "Lake Ontario \u00b7 Sodus",
    "briefing": null,
-   "bust": 44,
+   "bust": 32,
    "class": "lake_wind",
    "created": "2026-11-12",
    "day_grades": [
@@ -24,9 +55,9 @@
    "last_day": "2026-11-14",
    "region": "NY",
    "spot_notes": "east end wind event",
-   "state": "HEADS_UP",
-   "summary": "Lake wind event \u00b7 Sodus \u00b7 2026-11-14 to 2026-11-14 \u00b7 FAIR \u00b7 bust 44%",
-   "tod_window": "3pm-7pm",
+   "state": "CONFIRMED",
+   "summary": "Lake wind event \u00b7 Sodus \u00b7 2026-11-14 to 2026-11-14 \u00b7 FAIR \u00b7 bust 32%",
+   "tod_window": "2pm-6pm",
    "travel": "drive",
    "wind_hi": null,
    "wind_label": "onshore",
@@ -42,10 +73,6 @@
     {
      "date": "2026-11-13",
      "grade": "fair"
-    },
-    {
-     "date": "2026-11-14",
-     "grade": "fair"
     }
    ],
    "dest_airport": null,
@@ -53,23 +80,23 @@
    "drive_hours": 6.0,
    "drive_miles": 310,
    "first_day": "2026-11-13",
-   "fit": 22,
+   "fit": 28,
    "front": "ocean",
    "grade": "fair",
-   "h_m": 0.4846153846153846,
+   "h_m": 0.5046153846153846,
    "key": "ocean:Ditch Plains, Montauk:2026-11-13",
-   "last_day": "2026-11-14",
-   "p_s": 7.161538461538461,
+   "last_day": "2026-11-13",
+   "p_s": 6.1692307692307695,
    "region": "NY",
-   "score_raw": 52,
-   "score_travel_adj": 8.7,
+   "score_raw": 45,
+   "score_travel_adj": 7.5,
    "spot_notes": "Tier 1. Cobble bottom, long mellow lines, longboard culture. September is the month. Crowds real but acceptable.\n",
-   "state": "HEADS_UP",
-   "summary": "Ditch Plains, Montauk \u00b7 2026-11-13 to 2026-11-14 \u00b7 FAIR \u00b7 fit 22% \u00b7 bust 5% \u00b7 0.5m @ 7s",
+   "state": "CONFIRMED",
+   "summary": "Ditch Plains, Montauk \u00b7 2026-11-13 to 2026-11-13 \u00b7 FAIR \u00b7 fit 28% \u00b7 bust 5% \u00b7 0.5m @ 6s",
    "travel": "drive",
-   "wind_hi": 22.0,
-   "wind_label": "offshore",
-   "wind_lo": 18.3
+   "wind_hi": 17.3,
+   "wind_label": "cross",
+   "wind_lo": 17.3
   },
   {
    "best_spot": "Ditch Plains, Montauk",
@@ -119,7 +146,7 @@
     },
     {
      "date": "2026-11-14",
-     "grade": "good"
+     "grade": "fair"
     }
    ],
    "dest_airport": null,
@@ -127,23 +154,23 @@
    "drive_hours": 6.5,
    "drive_miles": 370,
    "first_day": "2026-11-13",
-   "fit": 62,
+   "fit": 55,
    "front": "ocean",
-   "grade": "good",
-   "h_m": 0.49230769230769234,
+   "grade": "fair",
+   "h_m": 1.383076923076923,
    "key": "ocean:Long Sands, York ME:2026-11-13",
    "last_day": "2026-11-14",
-   "p_s": 4.853846153846154,
+   "p_s": 7.292307692307692,
    "region": "ME",
-   "score_raw": 77,
-   "score_travel_adj": 12.0,
+   "score_raw": 76,
+   "score_travel_adj": 11.8,
    "spot_notes": "Tier 2, Sept-Oct window. Uncrowded mellow beachbreak, Maine crash contacts available.\n",
    "state": "CONFIRMED",
-   "summary": "Long Sands, York ME \u00b7 2026-11-13 to 2026-11-14 \u00b7 GOOD \u00b7 fit 62% \u00b7 bust 5% \u00b7 0.5m @ 5s",
+   "summary": "Long Sands, York ME \u00b7 2026-11-13 to 2026-11-14 \u00b7 FAIR \u00b7 fit 55% \u00b7 bust 5% \u00b7 1.4m @ 7s",
    "travel": "drive",
-   "wind_hi": 10.5,
-   "wind_label": "cross",
-   "wind_lo": 4.5
+   "wind_hi": 7.8,
+   "wind_label": "light",
+   "wind_lo": 5.6
   },
   {
    "best_spot": "Long Sands, York ME",
@@ -190,10 +217,6 @@
     {
      "date": "2026-11-13",
      "grade": "fair"
-    },
-    {
-     "date": "2026-11-14",
-     "grade": "fair"
     }
    ],
    "dest_airport": null,
@@ -201,23 +224,23 @@
    "drive_hours": 4.75,
    "drive_miles": 280,
    "first_day": "2026-11-13",
-   "fit": 31,
+   "fit": 30,
    "front": "ocean",
    "grade": "fair",
-   "h_m": 0.5107692307692308,
+   "h_m": 0.5415384615384615,
    "key": "ocean:Narragansett Town Beach:2026-11-13",
-   "last_day": "2026-11-14",
-   "p_s": 7.111538461538462,
+   "last_day": "2026-11-13",
+   "p_s": 7.0346153846153845,
    "region": "RI",
-   "score_raw": 65,
-   "score_travel_adj": 13.7,
+   "score_raw": 46,
+   "score_travel_adj": 9.8,
    "spot_notes": "Tier 1. Sand bottom, longboard-friendly. Check Matunuck same strike, 15 min west, handles more size and quieter.\n",
    "state": "CONFIRMED",
-   "summary": "Narragansett Town Beach \u00b7 2026-11-13 to 2026-11-14 \u00b7 FAIR \u00b7 fit 31% \u00b7 bust 5% \u00b7 0.5m @ 7s",
+   "summary": "Narragansett Town Beach \u00b7 2026-11-13 to 2026-11-13 \u00b7 FAIR \u00b7 fit 30% \u00b7 bust 5% \u00b7 0.5m @ 7s",
    "travel": "drive",
-   "wind_hi": 15.1,
+   "wind_hi": 13.0,
    "wind_label": "offshore",
-   "wind_lo": 9.8
+   "wind_lo": 13.0
   },
   {
    "best_spot": "Narragansett Town Beach",
@@ -291,20 +314,11 @@
    "wind_lo": 13.6
   },
   {
-   "key": "ocean:SD longboard belt (Tourmaline/San-O):2026-11-18",
+   "best_spot": "SD longboard belt (Tourmaline/San-O)",
+   "briefing": null,
+   "bust": 18,
    "class": "winter_groundswell",
-   "front": "ocean",
-   "state": "HEADS_UP",
-   "first_day": "2026-11-18",
-   "last_day": "2026-11-21",
    "created": "2026-11-13",
-   "h_m": 1.096923076923077,
-   "p_s": 5.753846153846154,
-   "wind_lo": 2.9,
-   "wind_hi": 14.3,
-   "wind_label": "onshore",
-   "region": "CA",
-   "drive_miles": null,
    "day_grades": [
     {
      "date": "2026-11-18",
@@ -323,51 +337,113 @@
      "grade": "fair"
     }
    ],
-   "grade": "good",
-   "bust": 18,
+   "dest_airport": "SAN",
+   "digest_url": "https://actingkaczual.github.io/SurfBud/event-e4a5ee76a9.html",
+   "drive_hours": null,
+   "drive_miles": null,
+   "fare_note": "Fare: fares not configured  https://www.google.com/travel/flights?q=Flights%20from%20ITH%20to%20SAN%20on%202026-11-17%20through%202026-11-22",
+   "first_day": "2026-11-18",
    "fit": 60,
+   "front": "ocean",
+   "grade": "good",
+   "h_m": 1.096923076923077,
+   "key": "ocean:SD longboard belt (Tourmaline/San-O):2026-11-18",
+   "last_day": "2026-11-21",
+   "p_s": 5.753846153846154,
+   "region": "CA",
    "score_raw": 78,
    "score_travel_adj": 78.6,
-   "best_spot": "SD longboard belt (Tourmaline/San-O)",
+   "spot_notes": "Tier 1 fly-to. Free board, bed, and ride waiting. Rolling rights, your wave at scale. Under-$500 all-in achievable.\n",
+   "state": "HEADS_UP",
    "summary": "SD longboard belt (Tourmaline/San-O) \u00b7 2026-11-18 to 2026-11-21 \u00b7 GOOD \u00b7 fit 60% \u00b7 bust 18% \u00b7 1.1m @ 6s",
    "travel": "fly",
-   "dest_airport": "SAN",
-   "spot_notes": "Tier 1 fly-to. Free board, bed, and ride waiting. Rolling rights, your wave at scale. Under-$500 all-in achievable.\n",
-   "drive_hours": null,
-   "fare_note": "Fare: fares not configured  https://www.google.com/travel/flights?q=Flights%20from%20ITH%20to%20SAN%20on%202026-11-17%20through%202026-11-22",
-   "briefing": null,
-   "digest_url": "https://actingkaczual.github.io/SurfBud/event-e4a5ee76a9.html"
+   "wind_hi": 14.3,
+   "wind_label": "onshore",
+   "wind_lo": 2.9
   },
   {
-   "key": "lake:Fair Haven:2026-11-14",
-   "class": "lake_wind",
-   "front": "lake",
-   "state": "CONFIRMED",
-   "first_day": "2026-11-14",
-   "last_day": "2026-11-14",
+   "key": "ocean:Ditch Plains, Montauk:2026-11-20",
+   "class": "noreaster",
+   "front": "ocean",
+   "state": "WHISPER",
+   "first_day": "2026-11-20",
+   "last_day": "2026-11-22",
    "created": "2026-11-13",
+   "h_m": 0.3723076923076923,
+   "p_s": 4.846153846153846,
+   "wind_lo": 10.1,
+   "wind_hi": 15.4,
+   "wind_label": "onshore",
+   "region": "NY",
+   "drive_miles": 310,
    "day_grades": [
     {
-     "date": "2026-11-14",
+     "date": "2026-11-20",
      "grade": "fair"
+    },
+    {
+     "date": "2026-11-21",
+     "grade": "fair"
+    },
+    {
+     "date": "2026-11-22",
+     "grade": "good"
     }
    ],
-   "region": "NY",
-   "drive_hours": 1.5,
-   "drive_miles": 65,
-   "wind_lo": 18,
-   "wind_hi": null,
-   "wind_label": "onshore",
-   "tod_window": "1pm-7pm",
-   "grade": "fair",
-   "bust": 32,
-   "fit": 60,
-   "best_spot": "Lake Ontario \u00b7 Fair Haven",
-   "summary": "Lake wind event \u00b7 Fair Haven \u00b7 2026-11-14 to 2026-11-14 \u00b7 FAIR \u00b7 bust 32%",
+   "grade": "good",
+   "bust": 30,
+   "fit": 55,
+   "score_raw": 71,
+   "score_travel_adj": 11.9,
+   "best_spot": "Ditch Plains, Montauk",
+   "summary": "Ditch Plains, Montauk \u00b7 2026-11-20 to 2026-11-22 \u00b7 GOOD \u00b7 fit 55% \u00b7 bust 30% \u00b7 0.4m @ 5s",
    "travel": "drive",
-   "spot_notes": "east end wind event",
-   "briefing": null,
-   "digest_url": "https://actingkaczual.github.io/SurfBud/event-0b5bb6126a.html"
+   "dest_airport": null,
+   "spot_notes": "Tier 1. Cobble bottom, long mellow lines, longboard culture. September is the month. Crowds real but acceptable.\n",
+   "drive_hours": 6.0,
+   "digest_url": "https://actingkaczual.github.io/SurfBud/event-87b2b124eb.html"
+  },
+  {
+   "key": "ocean:Narragansett Town Beach:2026-11-20",
+   "class": "noreaster",
+   "front": "ocean",
+   "state": "WHISPER",
+   "first_day": "2026-11-20",
+   "last_day": "2026-11-22",
+   "created": "2026-11-13",
+   "h_m": 0.29692307692307696,
+   "p_s": 6.142307692307692,
+   "wind_lo": 7.9,
+   "wind_hi": 11.8,
+   "wind_label": "onshore",
+   "region": "RI",
+   "drive_miles": 280,
+   "day_grades": [
+    {
+     "date": "2026-11-20",
+     "grade": "fair"
+    },
+    {
+     "date": "2026-11-21",
+     "grade": "fair"
+    },
+    {
+     "date": "2026-11-22",
+     "grade": "good"
+    }
+   ],
+   "grade": "good",
+   "bust": 30,
+   "fit": 60,
+   "score_raw": 80,
+   "score_travel_adj": 16.9,
+   "best_spot": "Narragansett Town Beach",
+   "summary": "Narragansett Town Beach \u00b7 2026-11-20 to 2026-11-22 \u00b7 GOOD \u00b7 fit 60% \u00b7 bust 30% \u00b7 0.3m @ 6s",
+   "travel": "drive",
+   "dest_airport": null,
+   "spot_notes": "Tier 1. Sand bottom, longboard-friendly. Check Matunuck same strike, 15 min west, handles more size and quieter.\n",
+   "drive_hours": 4.75,
+   "digest_url": "https://actingkaczual.github.io/SurfBud/event-39d7af5f94.html"
   }
  ],
  "tropical": []
