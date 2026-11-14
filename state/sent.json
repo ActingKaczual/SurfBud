@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-10-14",
-   "title": "It's on: Ditch Plains (NY) Thu-Sat (8/27-8/29)",
-   "at": "15:48"
-  },
-  {
-   "day": "2026-10-14",
-   "title": "It's on: Narragansett Town Beach (RI) Thu-Sat (8/27-8/29)",
-   "at": "15:48"
-  },
-  {
    "day": "2026-10-15",
    "title": "Worth a look: Long Sands (ME) Thu-Mon (8/27-8/31)",
    "at": "15:34"
@@ -299,19 +289,19 @@
    "day": "2026-11-13",
    "title": "It's on: Long Sands (ME) Thu-Tue (9/17-9/22)",
    "at": "18:29"
+  },
+  {
+   "day": "2026-11-14",
+   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Tue-Wed (9/15-9/16)",
+   "at": "17:01"
+  },
+  {
+   "day": "2026-11-14",
+   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Thu-Fri (9/17-9/18)",
+   "at": "17:01"
   }
  ],
  "queue": [
-  {
-   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Tue-Wed (9/15-9/16)",
-   "body": "24% go, 5% bust. Knee-high (1-2 ft). Light wind (6mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-c1abefd0da.html"
-  },
-  {
-   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Thu-Fri (9/17-9/18)",
-   "body": "29% go, 5% bust. Knee-high (1-1 ft). Offshore wind (10-13mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-93e99b783e.html"
-  },
   {
    "title": "Worth a look: Ditch Plains (NY) Fri (9/18)",
    "body": "52% go, 5% bust. Waist-high (1-2 ft). Cross wind (8mph). 6hr drive (310mi). Tap for digest.",
@@ -1271,6 +1261,11 @@
    "title": "Worth a look: Ditch Plains (NY) Fri (11/13)",
    "body": "28% go, 5% bust. Waist-high (1-2 ft). Cross wind (17mph). 6hr drive (310mi). Tap for digest.",
    "click": "https://actingkaczual.github.io/SurfBud/event-e50ee89a80.html"
+  },
+  {
+   "title": "Worth a look: Long Sands (ME) Sat (11/14)",
+   "body": "55% go, 5% bust. Waist-high (1-2 ft). Light wind (5mph). 6.5hr drive (370mi). Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-1f296f18bf.html"
   }
  ]
 }
