@@ -4510,7 +4510,7 @@
  },
  "ocean:Ditch Plains, Montauk:2026-11-23": {
   "best_spot": "Ditch Plains, Montauk",
-  "bust": 30,
+  "bust": 24,
   "class": "noreaster",
   "created": "2026-11-16",
   "day_grades": [
@@ -4520,6 +4520,10 @@
    },
    {
     "date": "2026-11-24",
+    "grade": "good"
+   },
+   {
+    "date": "2026-11-25",
     "grade": "fair"
    }
   ],
@@ -4528,23 +4532,23 @@
   "drive_hours": 6.0,
   "drive_miles": 310,
   "first_day": "2026-11-23",
-  "fit": 57,
+  "fit": 71,
   "front": "ocean",
   "grade": "good",
-  "h_m": 1.3461538461538463,
+  "h_m": 0.6876923076923076,
   "key": "ocean:Ditch Plains, Montauk:2026-11-23",
-  "last_day": "2026-11-24",
-  "p_s": 10.334615384615384,
+  "last_day": "2026-11-25",
+  "p_s": 8.465384615384615,
   "region": "NY",
-  "score_raw": 50,
-  "score_travel_adj": 8.4,
+  "score_raw": 69,
+  "score_travel_adj": 11.5,
   "spot_notes": "Tier 1. Cobble bottom, long mellow lines, longboard culture. September is the month. Crowds real but acceptable.\n",
   "state": "WHISPER",
-  "summary": "Ditch Plains, Montauk \u00b7 2026-11-23 to 2026-11-24 \u00b7 GOOD \u00b7 fit 57% \u00b7 bust 30% \u00b7 1.3m @ 10s",
+  "summary": "Ditch Plains, Montauk \u00b7 2026-11-23 to 2026-11-25 \u00b7 GOOD \u00b7 fit 71% \u00b7 bust 24% \u00b7 0.7m @ 8s",
   "travel": "drive",
-  "wind_hi": 25.1,
-  "wind_label": "cross",
-  "wind_lo": 15.0
+  "wind_hi": 18.1,
+  "wind_label": "offshore",
+  "wind_lo": 8.4
  },
  "ocean:Long Sands, York ME:2026-07-07": {
   "best_spot": "Long Sands, York ME",
@@ -9157,13 +9161,13 @@
  },
  "ocean:Long Sands, York ME:2026-11-23": {
   "best_spot": "Long Sands, York ME",
-  "bust": 30,
+  "bust": 24,
   "class": "noreaster",
   "created": "2026-11-16",
   "day_grades": [
    {
     "date": "2026-11-23",
-    "grade": "good"
+    "grade": "fair"
    },
    {
     "date": "2026-11-24",
@@ -9179,23 +9183,23 @@
   "drive_hours": 6.5,
   "drive_miles": 370,
   "first_day": "2026-11-23",
-  "fit": 78,
+  "fit": 67,
   "front": "ocean",
   "grade": "good",
-  "h_m": 0.5984615384615385,
+  "h_m": 0.32769230769230767,
   "key": "ocean:Long Sands, York ME:2026-11-23",
   "last_day": "2026-11-25",
-  "p_s": 9.842307692307692,
+  "p_s": 4.265384615384615,
   "region": "ME",
-  "score_raw": 74,
-  "score_travel_adj": 11.5,
+  "score_raw": 81,
+  "score_travel_adj": 12.5,
   "spot_notes": "Tier 2, Sept-Oct window. Uncrowded mellow beachbreak, Maine crash contacts available.\n",
   "state": "WHISPER",
-  "summary": "Long Sands, York ME \u00b7 2026-11-23 to 2026-11-25 \u00b7 GOOD \u00b7 fit 78% \u00b7 bust 30% \u00b7 0.6m @ 10s",
+  "summary": "Long Sands, York ME \u00b7 2026-11-23 to 2026-11-25 \u00b7 GOOD \u00b7 fit 67% \u00b7 bust 24% \u00b7 0.3m @ 4s",
   "travel": "drive",
-  "wind_hi": 12.8,
+  "wind_hi": 6.8,
   "wind_label": "light",
-  "wind_lo": 3.7
+  "wind_lo": 4.9
  },
  "ocean:Narragansett Town Beach:2026-07-07": {
   "best_spot": "Narragansett Town Beach",
@@ -12659,17 +12663,17 @@
  },
  "ocean:Narragansett Town Beach:2026-11-23": {
   "best_spot": "Narragansett Town Beach",
-  "bust": 30,
+  "bust": 24,
   "class": "noreaster",
   "created": "2026-11-16",
   "day_grades": [
    {
     "date": "2026-11-23",
-    "grade": "good"
+    "grade": "fair"
    },
    {
     "date": "2026-11-24",
-    "grade": "fair"
+    "grade": "good"
    },
    {
     "date": "2026-11-25",
@@ -12681,23 +12685,23 @@
   "drive_hours": 4.75,
   "drive_miles": 280,
   "first_day": "2026-11-23",
-  "fit": 47,
+  "fit": 69,
   "front": "ocean",
   "grade": "good",
-  "h_m": 1.3046153846153847,
+  "h_m": 0.5769230769230769,
   "key": "ocean:Narragansett Town Beach:2026-11-23",
   "last_day": "2026-11-25",
-  "p_s": 10.365384615384615,
+  "p_s": 8.192307692307692,
   "region": "RI",
-  "score_raw": 71,
-  "score_travel_adj": 15.1,
+  "score_raw": 83,
+  "score_travel_adj": 17.6,
   "spot_notes": "Tier 1. Sand bottom, longboard-friendly. Check Matunuck same strike, 15 min west, handles more size and quieter.\n",
   "state": "WHISPER",
-  "summary": "Narragansett Town Beach \u00b7 2026-11-23 to 2026-11-25 \u00b7 GOOD \u00b7 fit 47% \u00b7 bust 30% \u00b7 1.3m @ 10s",
+  "summary": "Narragansett Town Beach \u00b7 2026-11-23 to 2026-11-25 \u00b7 GOOD \u00b7 fit 69% \u00b7 bust 24% \u00b7 0.6m @ 8s",
   "travel": "drive",
-  "wind_hi": 16.1,
-  "wind_label": "cross",
-  "wind_lo": 9.7
+  "wind_hi": 11.9,
+  "wind_label": "offshore",
+  "wind_lo": 5.0
  },
  "ocean:Rockaway Beach (90th St peaks):2026-07-07": {
   "best_spot": "Rockaway Beach (90th St peaks)",
@@ -17329,6 +17333,48 @@
   "wind_hi": 16.9,
   "wind_label": "light",
   "wind_lo": 2.7
+ },
+ "ocean:Rockaway Beach (90th St peaks):2026-11-23": {
+  "best_spot": "Rockaway Beach (90th St peaks)",
+  "bust": 24,
+  "class": "noreaster",
+  "created": "2026-11-17",
+  "day_grades": [
+   {
+    "date": "2026-11-23",
+    "grade": "good"
+   },
+   {
+    "date": "2026-11-24",
+    "grade": "good"
+   },
+   {
+    "date": "2026-11-25",
+    "grade": "fair"
+   }
+  ],
+  "dest_airport": "JFK",
+  "digest_url": "https://actingkaczual.github.io/SurfBud/event-ca49b5acb6.html",
+  "drive_hours": 4.75,
+  "drive_miles": 240,
+  "first_day": "2026-11-23",
+  "fit": 67,
+  "front": "ocean",
+  "grade": "good",
+  "h_m": 0.8015384615384615,
+  "key": "ocean:Rockaway Beach (90th St peaks):2026-11-23",
+  "last_day": "2026-11-25",
+  "p_s": 8.36923076923077,
+  "region": "NY",
+  "score_raw": 83,
+  "score_travel_adj": 17.5,
+  "spot_notes": "The ITH-JFK play: daily Delta nonstop, ~3hr door to sand, faster than driving. Regional jet means NO longboard in the hold; carry rubber, rent or stash a board (Boarders / Locals, 90th St). Punchy jetty peaks, best on S swell with N wind, fall hurricane season aligns with warm water. Fair day here can beat a good day 6 hrs away.\n",
+  "state": "WHISPER",
+  "summary": "Rockaway Beach (90th St peaks) \u00b7 2026-11-23 to 2026-11-25 \u00b7 GOOD \u00b7 fit 67% \u00b7 bust 24% \u00b7 0.8m @ 8s",
+  "travel": "fly_or_drive",
+  "wind_hi": 10.6,
+  "wind_label": "offshore",
+  "wind_lo": 7.8
  },
  "ocean:SD longboard belt (Tourmaline/San-O):2026-11-18": {
   "best_spot": "SD longboard belt (Tourmaline/San-O)",
