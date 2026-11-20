@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-10-20",
-   "title": "Worth a look: Long Sands (ME) Sun (8/30)",
-   "at": "15:38"
-  },
-  {
-   "day": "2026-10-20",
-   "title": "Brewing: Long Sands (ME) Tue-Sun (9/1-9/6)",
-   "at": "15:38"
-  },
-  {
    "day": "2026-10-21",
    "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Sun-Sun (8/30-9/6)",
    "at": "15:55"
@@ -299,19 +289,19 @@
    "day": "2026-11-19",
    "title": "Worth a look: Long Sands (ME) Mon (9/21)",
    "at": "19:28"
+  },
+  {
+   "day": "2026-11-20",
+   "title": "Week ahead: both fronts",
+   "at": "19:04"
+  },
+  {
+   "day": "2026-11-20",
+   "title": "Worth a look: Narragansett Town Beach (RI) Thu (9/24)",
+   "at": "19:04"
   }
  ],
  "queue": [
-  {
-   "title": "Week ahead: both fronts",
-   "body": "Long Sands: fair Sat-Tue, solid bet (5% bust)\nLong Sands: fair Mon, solid bet (5% bust)\nNarragansett Town Beach: fair Mon, solid bet (5% bust)\nRockaway Beach: fair Mon, solid bet (5% bust)\nDitch Plains: fair Mon, solid bet (5% bust)\nLong Sands: good Tue-Wed, likely holds (24% bust)",
-   "click": "https://actingkaczual.github.io/SurfBud"
-  },
-  {
-   "title": "Worth a look: Narragansett Town Beach (RI) Thu (9/24)",
-   "body": "73% go, 12% bust. Head-high (3-4 ft). Cross wind (19mph). 4.75hr drive (280mi). Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-a718377c80.html"
-  },
   {
    "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Mon (9/21)",
    "body": "55% go, 5% bust. Waist-high (1-2 ft). Offshore wind (11mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
