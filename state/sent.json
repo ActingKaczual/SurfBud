@@ -1,16 +1,6 @@
 {
  "sent": [
   {
-   "day": "2026-10-21",
-   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Sun-Sun (8/30-9/6)",
-   "at": "15:55"
-  },
-  {
-   "day": "2026-10-21",
-   "title": "Brewing: Ditch Plains (NY) Thu-Sat (9/3-9/5)",
-   "at": "15:55"
-  },
-  {
    "day": "2026-10-22",
    "title": "Worth a look: Narragansett Town Beach (RI) Mon (8/31)",
    "at": "15:51"
@@ -299,19 +289,19 @@
    "day": "2026-11-20",
    "title": "Worth a look: Narragansett Town Beach (RI) Thu (9/24)",
    "at": "19:04"
+  },
+  {
+   "day": "2026-11-21",
+   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Mon (9/21)",
+   "at": "17:56"
+  },
+  {
+   "day": "2026-11-21",
+   "title": "Brewing: Narragansett Town Beach (RI) Sat-Sun (9/26-9/27)",
+   "at": "17:56"
   }
  ],
  "queue": [
-  {
-   "title": "Worth a look: [FLY OK] Rockaway Beach (NY) Mon (9/21)",
-   "body": "55% go, 5% bust. Waist-high (1-2 ft). Offshore wind (11mph). 4.75hr drive (240mi) or fly: fares not configured. Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-256866828a.html"
-  },
-  {
-   "title": "Brewing: Narragansett Town Beach (RI) Sat-Sun (9/26-9/27)",
-   "body": "54% go, 18% bust. Chest-high (3-4 ft). Offshore wind (25-33mph). 4.75hr drive (280mi). Speculative; will confirm or call off. Tap for digest.",
-   "click": "https://actingkaczual.github.io/SurfBud/event-37e2eb33a2.html"
-  },
   {
    "title": "Worth a look: Long Sands (ME) Fri-Sun (9/25-9/27)",
    "body": "33% go, 12% bust. Well overhead (8-9 ft). Cross wind (12-18mph). 6.5hr drive (370mi). Tap for digest.",
@@ -1276,6 +1266,11 @@
    "title": "It's on: Long Sands (ME) Mon-Wed (11/23-11/25)",
    "body": "84% go, 5% bust. Head-high (4-5 ft). Light wind (4-10mph). 6.5hr drive (370mi). Tap for digest.",
    "click": "https://actingkaczual.github.io/SurfBud/event-58f5c60a54.html"
+  },
+  {
+   "title": "Brewing: [FLY OK] Rockaway Beach (NY) Fri-Sun (11/27-11/29)",
+   "body": "56% go, 24% bust. Well overhead (8-9 ft). Cross wind (10-16mph). 4.75hr drive (240mi) or fly: fares not configured. Speculative; will confirm or call off. Tap for digest.",
+   "click": "https://actingkaczual.github.io/SurfBud/event-d644022117.html"
   }
  ]
 }
