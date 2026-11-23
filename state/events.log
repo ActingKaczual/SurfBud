@@ -1202,3 +1202,10 @@
 2026-11-23 02:39  UPGRADE HEADS_UP ocean:Rockaway Beach (90th St peaks):2026-11-27 grade=good bust=12%
 2026-11-23 02:39  PAST ocean:Ditch Plains, Montauk:2026-11-20
 2026-11-23 02:39  PAST ocean:Narragansett Town Beach:2026-11-21
+2026-11-23 22:36  ADVANCE CONFIRMED ocean:Ditch Plains, Montauk:2026-11-23 grade=good bust=5%
+2026-11-23 22:36  UPGRADE HEADS_UP ocean:Ditch Plains, Montauk:2026-11-27 grade=good bust=12%
+2026-11-23 22:36  ADVANCE CONFIRMED ocean:Narragansett Town Beach:2026-11-23 grade=good bust=5%
+2026-11-23 22:36  UPGRADE HEADS_UP ocean:Narragansett Town Beach:2026-11-27 grade=good bust=12%
+2026-11-23 22:36  ADVANCE CONFIRMED ocean:Rockaway Beach (90th St peaks):2026-11-23 grade=good bust=5%
+2026-11-23 22:36  DOWNGRADE HEADS_UP ocean:Rockaway Beach (90th St peaks):2026-11-27 grade=fair bust=12%
+2026-11-23 22:36  NEW WHISPER lake:Sodus:2026-11-27 grade=fair bust=68%
